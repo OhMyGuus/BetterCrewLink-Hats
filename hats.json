@@ -1,8 +1,8 @@
 {
   "TOWN_OF_US": {
-    "DefaultWith": "122%",
-    "DefaultTop": "-38%",
-    "DefaultLeft": "-20%",
+    "defaultWidth": "122%",
+    "defaultTop": "-38%",
+    "defaultLeft": "-20%",
     "hats": {
       "114": {
         "image": "hat_glitch.png"
