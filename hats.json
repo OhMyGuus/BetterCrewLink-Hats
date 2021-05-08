@@ -4,26 +4,32 @@
     "defaultTop": "-38%",
     "defaultLeft": "-20%",
     "hats": {
-      "114": {
+      "112": {
         "image": "hat_glitch.png"
       },
-      "115": {
+      "113": {
         "image": "hat_firegod.png"
       },
-      "116": {
+      "114": {
         "image": "hat_dad.png"
       },
-      "117": {
+      "115": {
         "image": "hat_mama.png"
       },
-      "118": {
+      "116": {
         "image": "hat_pinkee.png"
       },
-      "119": {
+      "117": {
         "image": "hat_racoon.png"
       },
-      "120": {
+      "118": {
         "image": "hat_aphex.png"
+      },
+      "119": {
+        "image": "hat_junkyard.png"
+      },
+      "120": {
+        "image": "hat_cheesy.png"
       },
       "121": {
         "image": "hat_shubble.png"
@@ -106,11 +112,8 @@
       "149": {
         "image": "hat_nonbinary.png"
       },
-      "150": {
-        "image": "hat_trans_1.png"
-      },
       "151": {
-        "image": "hat_trans_3.png"
+        "image": "hat_trans_1.png"
       },
       "152": {
         "image": "hat_trans_4.png"
