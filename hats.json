@@ -125,5 +125,265 @@
         "image": "hat_trans_2.png"
       }
     }
+  },
+  "THE_OTHER_ROLES": {
+    "defaultWidth": "122%",
+    "defaultTop": "-38%",
+    "defaultLeft": "-13%",
+    "hats": {
+      "115": {
+        "image": "megaphone_bounce.png"
+      },
+      "116": {
+        "image": "cat.png"
+      },
+      "117": {
+        "image": "shiba_bounce.png"
+      },
+      "118": {
+        "image": "cook_bounce.png"
+      },
+      "119": {
+        "image": "donut_bounce.png"
+      },
+      "120": {
+        "image": "LongBrown.png"
+      },
+      "121": {
+        "image": "dj.png"
+      },
+      "122": {
+        "image": "bulb_adaptive.png"
+      },
+      "123": {
+        "image": "duck_bounce.png"
+      },
+      "124": {
+        "image": "towel_adaptive.png"
+      },
+      "125": {
+        "image": "catEars_adaptive.png"
+      },
+      "126": {
+        "image": "leaf.png"
+      },
+      "127": {
+        "image": "spartan_bounce_adaptive.png"
+      },
+      "128": {
+        "image": "fish_adaptive.png"
+      },
+      "129": {
+        "image": "teletubby_adaptive.png"
+      },
+      "130": {
+        "image": "brain_adaptive.png"
+      },
+      "131": {
+        "image": "mech_adaptive.png"
+      },
+      "132": {
+        "image": "shark.png"
+      },
+      "133": {
+        "image": "OldMan.png"
+      },
+      "134": {
+        "image": "TrafficCone_bounce.png"
+      },
+      "135": {
+        "image": "brainglass.png"
+      },
+      "136": {
+        "image": "Frog_bounce.png"
+      },
+      "137": {
+        "image": "Phone_adaptive.png"
+      },
+      "138": {
+        "image": "Boxer.png"
+      },
+      "139": {
+        "image": "dadhat.png"
+      },
+      "140": {
+        "image": "Newspaper_adaptive.png"
+      },
+      "141": {
+        "image": "VoKuHiLaOliBa.png"
+      },
+      "142": {
+        "image": "Panda.png"
+      },
+      "143": {
+        "image": "Barbarian_adaptive.png"
+      },
+      "144": {
+        "image": "snail_adaptive.png"
+      },
+      "145": {
+        "image": "Knight_adaptive.png"
+      },
+      "146": {
+        "image": "trex_adaptive.png"
+      },
+      "147": {
+        "image": "lawyer.png"
+      },
+      "148": {
+        "image": "sunhat_adaptive_bounce.png"
+      },
+      "149": {
+        "image": "angelwings.png"
+      },
+      "150": {
+        "image": "darkCat.png"
+      },
+      "151": {
+        "image": "Dino5_adaptive.png"
+      },
+      "152": {
+        "image": "bandana_bounce.png"
+      },
+      "153": {
+        "image": "dragon_bounce.png"
+      },
+      "154": {
+        "image": "eisbison.png"
+      },
+      "155": {
+        "image": "eof_bounce.png"
+      },
+      "156": {
+        "image": "pony_adaptive.png"
+      },
+      "157": {
+        "image": "Sombrero-FreakaMania.png"
+      },
+      "158": {
+        "image": "Firefighter_adaptive.png"
+      },
+      "159": {
+        "image": "demon_adaptive.png"
+      },
+      "160": {
+        "image": "tentacle_adaptive.png"
+      },
+      "161": {
+        "image": "1_strawhat.png"
+      },
+      "162": {
+        "image": "samurai.png"
+      },
+      "163": {
+        "image": "axolotl_adaptive.png"
+      },
+      "164": {
+        "image": "Fisherman_adaptive.png"
+      },
+      "165": {
+        "image": "horns.png"
+      },
+      "166": {
+        "image": "roseflower.png"
+      },
+      "167": {
+        "image": "Penguin_bounce.png"
+      },
+      "168": {
+        "image": "propeller.png"
+      },
+      "169": {
+        "image": "tinkercat.png"
+      },
+      "170": {
+        "image": "tutu.png"
+      },
+      "171": {
+        "image": "comfysloth.png"
+      },
+      "172": {
+        "image": "bucket_bounce.png"
+      },
+      "173": {
+        "image": "firemage.png"
+      },
+      "174": {
+        "image": "Ghost_adaptive_bounce.png"
+      },
+      "175": {
+        "image": "AngelN_bounce.png"
+      },
+      "176": {
+        "image": "octopus_bounce.png"
+      },
+      "177": {
+        "image": "city-watch.png"
+      },
+      "178": {
+        "image": "hoodie_adaptive.png"
+      },
+      "179": {
+        "image": "hairband_adaptive.png"
+      },
+      "180": {
+        "image": "newhoodie_adaptive.png"
+      },
+      "181": {
+        "image": "love_adaptive.png"
+      },
+      "182": {
+        "image": "ghostking_bounce.png"
+      },
+      "183": {
+        "image": "holla.png"
+      },
+      "184": {
+        "image": "Monster.png"
+      },
+      "185": {
+        "image": "FeineKatze.png"
+      },
+      "186": {
+        "image": "tanuki_adaptive.png"
+      },
+      "187": {
+        "image": "juli.png"
+      },
+      "188": {
+        "image": "HarleyQuinn.png"
+      },
+      "189": {
+        "image": "Bushi.png"
+      },
+      "190": {
+        "image": "dumb.png"
+      },
+      "191": {
+        "image": "goatee.png"
+      },
+      "192": {
+        "image": "3dglasses.png"
+      },
+      "193": {
+        "image": "afro_bounce.png"
+      },
+      "194": {
+        "image": "TheOtherCat.png"
+      },
+      "195": {
+        "image": "towel2_bounce_adaptive.png"
+      },
+      "196": {
+        "image": "beardviking.png"
+      },
+      "197": {
+        "image": "Mental.png"
+      },
+      "198": {
+        "image": "beardthick.png"
+      }
+    }
   }
+}
 }
