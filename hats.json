@@ -147,7 +147,8 @@
         "image": "donut_bounce.png"
       },
       "120": {
-        "image": "LongBrown.png"
+        "image": "LongBrown.png",
+        "back_image": "LongBrown_back.png"
       },
       "121": {
         "image": "dj.png"
@@ -157,7 +158,8 @@
         "multi_color": true
       },
       "123": {
-        "image": "duck_bounce.png"
+        "image": "duck_bounce.png",
+        "back_image": "duck_back.png"
       },
       "124": {
         "image": "towel_adaptive.png",
@@ -175,7 +177,8 @@
         "multi_color": true
       },
       "128": {
-        "image": "fish_adaptive.png"
+        "image": "fish_adaptive.png",
+        "multi_color": true
       },
       "129": {
         "image": "teletubby_adaptive.png",
@@ -187,13 +190,15 @@
       },
       "131": {
         "image": "mech_adaptive.png",
+        "back_image": "mech_back.png",
         "multi_color": true
       },
       "132": {
         "image": "shark.png"
       },
       "133": {
-        "image": "OldMan.png"
+        "image": "OldMan.png",
+        "back_image": "OldMan_back.png"
       },
       "134": {
         "image": "TrafficCone_bounce.png"
@@ -209,7 +214,8 @@
         "multi_color": true
       },
       "138": {
-        "image": "Boxer.png"
+        "image": "Boxer.png",
+        "back_image": "Boxer_back.png"
       },
       "139": {
         "image": "dadhat.png"
@@ -238,7 +244,10 @@
       },
       "146": {
         "image": "trex_adaptive.png",
-        "multi_color": true
+        "back_image": "trex_back.png",
+        "multi_color": true,
+        "multi_color_back": true
+
       },
       "147": {
         "image": "lawyer.png"
@@ -248,7 +257,8 @@
         "multi_color": true
       },
       "149": {
-        "image": "angelwings.png"
+        "image": "angelwings.png",
+        "back_image": "angelwings_back.png"
       },
       "150": {
         "image": "darkCat.png"
@@ -261,10 +271,12 @@
         "image": "bandana_bounce.png"
       },
       "153": {
-        "image": "dragon_bounce.png"
+        "image": "dragon_bounce.png",
+        "back_image": "dragon_back.png"
       },
       "154": {
-        "image": "eisbison.png"
+        "image": "eisbison.png",
+        "back_image": "eisbison_back.png"
       },
       "155": {
         "image": "eof_bounce.png"
@@ -282,7 +294,9 @@
       },
       "159": {
         "image": "demon_adaptive.png",
-        "multi_color": true
+        "back_image": "demon_back.png",
+        "multi_color": true,
+        "multi_color_back": true
       },
       "160": {
         "image": "tentacle_adaptive.png",
@@ -296,14 +310,17 @@
       },
       "163": {
         "image": "axolotl_adaptive.png",
-        "multi_color": true
+        "back_image": "axolotl_adaptive_back.png",
+        "multi_color": true,
+        "multi_color_back": true
       },
       "164": {
         "image": "Fisherman_adaptive.png",
         "multi_color": true
       },
       "165": {
-        "image": "horns.png"
+        "image": "horns.png",
+        "back_image": "horns_back.png"
       },
       "166": {
         "image": "roseflower.png"
@@ -315,7 +332,8 @@
         "image": "propeller.png"
       },
       "169": {
-        "image": "tinkercat.png"
+        "image": "tinkercat.png",
+        "back_image": "tinkercat_back.png"
       },
       "170": {
         "image": "tutu.png"
@@ -327,27 +345,33 @@
         "image": "bucket_bounce.png"
       },
       "173": {
-        "image": "firemage.png"
+        "image": "firemage.png",
+        "back_image": "firemage_back.png"
       },
       "174": {
         "image": "Ghost_adaptive_bounce.png",
         "multi_color": true
       },
       "175": {
-        "image": "AngelN_bounce.png"
+        "image": "AngelN_bounce.png",
+        "back_image": "AngelN_back.png"
       },
       "176": {
         "image": "octopus_bounce.png"
       },
       "177": {
-        "image": "city-watch.png"
+        "image": "city-watch.png",
+        "back_image": "city-watch_back.png"
       },
       "178": {
         "image": "hoodie_adaptive.png",
-        "multi_color": true
+        "back_image": "hoodie_adaptive_back.png",
+        "multi_color": true,
+        "multi_color_back": true
       },
       "179": {
         "image": "hairband_adaptive.png",
+        "back_image": "hairband_back.png",
         "multi_color": true
       },
       "180": {
@@ -362,7 +386,8 @@
         "image": "ghostking_bounce.png"
       },
       "183": {
-        "image": "holla.png"
+        "image": "holla.png",
+        "back_image": "holla_back.png"
       },
       "184": {
         "image": "Monster.png"
@@ -372,16 +397,21 @@
       },
       "186": {
         "image": "tanuki_adaptive.png",
-        "multi_color": true
+        "back_image": "tanuki_back.png",
+        "multi_color": true,
+        "multi_color_back": true
       },
       "187": {
-        "image": "juli.png"
+        "image": "juli.png",
+        "back_image": "juli_back.png"
       },
       "188": {
-        "image": "HarleyQuinn.png"
+        "image": "HarleyQuinn.png",
+        "back_image": "HarleyQuinn_back.png"
       },
       "189": {
-        "image": "Bushi.png"
+        "image": "Bushi.png",
+        "back_image": "Bushi_back.png"
       },
       "190": {
         "image": "dumb.png"
@@ -400,6 +430,7 @@
       },
       "195": {
         "image": "towel2_bounce_adaptive.png",
+        "back_image": "towel2_back.png",
         "multi_color": true
       },
       "196": {
@@ -410,6 +441,90 @@
       },
       "198": {
         "image": "beardthick.png"
+      },
+      "199": {
+        "image": "racoon.png",
+        "back_image": "racoon_back.png"
+      },
+      "200": {
+        "image": "Turtle_bounce.png"
+      },
+      "201": {
+        "image": "Nephias.png",
+        "back_image": "Nephias_back.png"
+      },
+      "202": {
+        "image": "umbrella_adaptive.png",
+        "multi_color": true
+      },
+      "203": {
+        "image": "pizzahat_bounce.png"
+      },
+      "204": {
+        "image": "Divi_adaptive.png",
+        "back_image": "Divi_back.png",
+        "multi_color": true
+      },
+      "205": {
+        "image": "Cowboy.png"
+      },
+      "206": {
+        "image": "bubblebath.png",
+        "back_image": "bubblebath_back.png"
+      },
+      "207": {
+        "image": "French_bounce.png",
+        "back_image": "French_back_bounce.png"
+      },
+      "208": {
+        "image": "butterfly_adaptive.png",
+        "back_image": "butterfly_adaptive_back.png",
+        "multi_color": true,
+        "multi_color_back": true
+      },
+      "209": {
+        "image": "melted_ice.png"
+      },
+      "210": {
+        "image": "flowercrown.png"
+      },
+      "211": {
+        "image": "elephant_adaptive.png",
+        "multi_color": true
+      },
+      "212": {
+        "image": "Whale.png"
+      },
+      "213": {
+        "image": "Cesar_bounce.png",
+        "back_image": "Cesar_back_bounce.png"
+      },
+      "214": {
+        "image": "jackal_adaptive.png",
+        "back_image": "jackal_adaptive_back.png",
+        "multi_color": true,
+        "multi_color_back": true
+      },
+      "215": {
+        "image": "Reggae.png"
+      },
+      "216": {
+        "image": "eisbisonalt.png",
+        "back_image": "eisbisonalt_back.png"
+      },
+      "217": {
+        "image": "jellyfish_adaptive.png",
+        "back_image": "jellyfish_back.png",
+        "multi_color": true
+      },
+      "218": {
+        "image": "2Vampire.png",
+        "back_image": "2Vampire_back.png"
+      },
+      "219": {
+        "image": "2shark_adaptive.png",
+        "back_image": "2shark_back.png",
+        "multi_color": true
       }
     }
   }
