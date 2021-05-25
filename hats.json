@@ -526,5 +526,927 @@
         "multi_color": true
       }
     }
+  },
+  "TOWN_OF_IMPOSTORS": {
+    "defaultWidth": "130%",
+    "defaultTop": "-42%",
+    "defaultLeft": "-16%",
+    "hats" : {
+      "115": {
+        "image": "AshKetchumHat_HeroSprite_bounce.png"
+      },
+      "116": {
+        "image": "CardboardBoxcar_HeroSprite_bounce_anycolor.png",
+        "multi_color": true,
+        "multi_color_back": true
+      },
+      "117": {
+        "image": "glasses_jaedeon.png"
+      },
+      "118": {
+        "image": "HappyGlasses_RSea.png"
+      },
+      "119": {
+        "image": "Raven_RSea.png"
+      },
+      "120": {
+        "image": "Starfire_FingerStripes.png"
+      },
+      "121": {
+        "image": "AgentP_itscharnie.png"
+      },
+      "122": {
+        "image": "AJScarf_Darkbrussel.png"
+      },
+      "123": {
+        "back_image": "back_AliceHat_FingerStripes_back.png"
+      },
+      "124": {
+        "image": "Alicization_Kirito.png"
+      },
+      "125": {
+        "image": "AlpacaCyan_itscharnie.png"
+      },
+      "126": {
+        "image": "AlpacaPurple_itscharnie.png"
+      },
+      "127": {
+        "image": "amongtankcaptain_electricbeez.png"
+      },
+      "128": {
+        "image": "amongtanksteve_electricbeez.png"
+      },
+      "129": {
+        "image": "AngusMcFangus_Cam.png"
+      },
+      "130": {
+        "image": "AnimeHair_Mewapple_bounce.png"
+      },
+      "131": {
+        "image": "AppleHat_Darkbrussel_Bounce.png"
+      },
+      "132": {
+        "image": "Astronaut_LEARNHOW_anycolor.png",
+        "multi_color": true,
+        "multi_color_back": true
+      },
+      "133": {
+        "image": "Bakugo_Hair_MHO_PunchMaster.png"
+      },
+      "134": {
+        "image": "Batman_stringtheorist.png"
+      },
+      "135": {
+        "image": "BearHat_Darkbrussel.png"
+      },
+      "136": {
+        "image": "Bee_Cam.png"
+      },
+      "137": {
+        "image": "BigBrain_ConNo1_anycolor.png",
+        "multi_color": true,
+        "multi_color_back": true
+      },
+      "138": {
+        "image": "bookNerd_plvnt_bounce.png"
+      },
+      "139": {
+        "image": "BoyfriendsCap_Marcy_bounce.png"
+      },
+      "140": {
+        "image": "BruceTheShork_Cam.png"
+      },
+      "141": {
+        "image": "Bubble_HeroSprite_bounce_0.1f_+0.6f.png"
+      },
+      "142": {
+        "image": "Bunny_Darkbrussel.png"
+      },
+      "143": {
+        "image": "CanvasCrewmate_HeroSprite_bounce_anycolor.png",
+        "multi_color": true,
+        "multi_color_back": true
+      },
+      "144": {
+        "image": "CaptainAmericaShield_HeroSprite_bounce_0.1f_+0.6f.png"
+      },
+      "145": {
+        "image": "CarrotTop_MyBalls_bounce.png"
+      },
+      "146": {
+        "image": "cashyuuhat_Incaazz.png"
+      },
+      "147": {
+        "image": "Cathat_Mewapple.png"
+      },
+      "148": {
+        "image": "CatStretch_plvnt_anycolor.png",
+        "multi_color": true,
+        "multi_color_back": true
+      },
+      "149": {
+        "image": "cheerleader_george.png"
+      },
+      "150": {
+        "image": "ChocoCone_Darkbrussel.png"
+      },
+      "151": {
+        "image": "Clown_ConNo1.png"
+      },
+      "152": {
+        "image": "Clown_Lau.png"
+      },
+      "153": {
+        "image": "coffeemug_electricbeez_bounce.png"
+      },
+      "154": {
+        "image": "CoiffeMeu_Lulucas_bounce.png"
+      },
+      "155": {
+        "image": "CorgiEars_lunkjones.png"
+      },
+      "156": {
+        "image": "corpse_mewapple.png"
+      },
+      "157": {
+        "image": "CrackedEgg_ConNo1_bounce.png"
+      },
+      "158": {
+        "image": "Creeper_Lau_bounce.png"
+      },
+      "159": {
+        "image": "Cupid_icydust_anycolor_0.0f_+0.6f.png",
+        "multi_color": true,
+        "multi_color_back": true
+      },
+      "160": {
+        "image": "curseddog_george_anycolor.png",
+        "multi_color": true,
+        "multi_color_back": true
+      },
+      "161": {
+        "image": "CutMetHat_CutMet_bounce.png"
+      },
+      "162": {
+        "image": "DarkScarfFace_Darkbrussel.png"
+      },
+      "163": {
+        "image": "DarkScarf_Darkbrussel.png"
+      },
+      "164": {
+        "image": "DarklordOmen_communityrequest_bounce.png"
+      },
+      "165": {
+        "image": "DazaiHair_Mewapple_bounce.png"
+      },
+      "166": {
+        "image": "DeadFace_HeroSprite_bounce.png"
+      },
+      "167": {
+        "image": "DededeHammer_bounce.png"
+      },
+      "168": {
+        "image": "Deku_Sloppy.png"
+      },
+      "169": {
+        "image": "Demoness_icydust.png"
+      },
+      "170": {
+        "image": "Demon_Lau.png"
+      },
+      "171": {
+        "image": "DerpsMgeewithredbow_plvnt_bounce.png"
+      },
+      "172": {
+        "back_image": "back_Devil_Darkbrussel_back.png"
+      },
+      "173": {
+        "image": "Diamand_Lau.png"
+      },
+      "174": {
+        "image": "DinoOnesie_ConNo1_anycolor.png",
+        "multi_color": true,
+        "multi_color_back": true
+      },
+      "175": {
+        "image": "Dittolax_plvnt_anycolor.png",
+        "multi_color": true,
+        "multi_color_back": true
+      },
+      "176": {
+        "image": "DonkeyKongTie_HeroSprite_bounce_0.1f_+0.6f.png"
+      },
+      "177": {
+        "image": "Douggy_Lau.png"
+      },
+      "178": {
+        "image": "Dragon_icydust_anycolor.png",
+        "multi_color": true,
+        "multi_color_back": true
+      },
+      "179": {
+        "image": "EvilZhong_Darkbrussel.png"
+      },
+      "180": {
+        "image": "FallenAngel_Mewapple.png"
+      },
+      "181": {
+        "image": "FingyHat_FingerStripes.png"
+      },
+      "182": {
+        "image": "FlashSkin_LEARNHOW.png"
+      },
+      "183": {
+        "image": "flowercrown_icydust.png"
+      },
+      "184": {
+        "image": "FlyingCarpet_ConNo1_anycolor.png",
+        "multi_color": true,
+        "multi_color_back": true
+      },
+      "185": {
+        "image": "FnfMicrophone_anycolor_0.0f_+0.5f.png",
+        "multi_color": true,
+        "multi_color_back": true
+      },
+      "186": {
+        "image": "Fox_Lau.png"
+      },
+      "187": {
+        "image": "Froggy_ConNo1_bounce.png"
+      },
+      "188": {
+        "image": "GentlemanPoro_Darkbrussel_bounce.png"
+      },
+      "189": {
+        "image": "gloria_mewapple.png"
+      },
+      "190": {
+        "image": "Goku_Lulucas_bounce.png"
+      },
+      "191": {
+        "image": "golf_Lau.png"
+      },
+      "192": {
+        "image": "Grimmchild_TorturedByMemes.png"
+      },
+      "193": {
+        "image": "hache_Lau.png"
+      },
+      "194": {
+        "image": "HairBasedonGachaClub_Mewapple.png"
+      },
+      "195": {
+        "image": "Hands_LEARNHOW_anycolor.png",
+        "multi_color": true,
+        "multi_color_back": true
+      },
+      "196": {
+        "image": "HappyFace_Darkbrussel.png"
+      },
+      "197": {
+        "image": "hatlong_CopperLion.png"
+      },
+      "198": {
+        "image": "HeartEyes_Schatzi.png"
+      },
+      "199": {
+        "image": "hearts_george.png"
+      },
+      "200": {
+        "image": "HelmofNeitiznot_ConNo1_bounce.png"
+      },
+      "201": {
+        "image": "hlvraibenrey_electricbeez.png"
+      },
+      "202": {
+        "image": "HungyKirby_plvnt_bounce.png"
+      },
+      "203": {
+        "image": "IcyTopHat_Cam.png"
+      },
+      "204": {
+        "image": "IcyLatteHat_FingerStripes.png"
+      },
+      "205": {
+        "image": "Impostor_plvnt_bounce.png"
+      },
+      "206": {
+        "image": "jacksparrow_george.png"
+      },
+      "207": {
+        "image": "Jellyfish_plvnt_bounce.png"
+      },
+      "208": {
+        "image": "JonyAngriFace_Darkbrussel.png"
+      },
+      "209": {
+        "image": "JoseHat_Ressnie.png"
+      },
+      "210": {
+        "image": "jotaro_CopperLion.png"
+      },
+      "211": {
+        "image": "Kakashi_ConNo1.png"
+      },
+      "212": {
+        "image": "keyblade_Lau_0.0f_+0.6f.png"
+      },
+      "213": {
+        "back_image": "back_King_mewapple_back.png"
+      },
+      "214": {
+        "image": "largebrowhat_PryingPack.png"
+      },
+      "215": {
+        "image": "LRGPurp_Beryman_bounce.png"
+      },
+      "216": {
+        "image": "Luffy_Lulucas_bounce.png"
+      },
+      "217": {
+        "image": "LuigisHat_HeroSprite_bounce.png"
+      },
+      "218": {
+        "image": "MajorasMask_RSea_bounce.png"
+      },
+      "219": {
+        "image": "Mandolorian_Jessinator.png"
+      },
+      "220": {
+        "back_image": "back_MannequinHat_Mewapple_back.png"
+      },
+      "221": {
+        "image": "MarioHat_FingerStripes.png"
+      },
+      "222": {
+        "image": "Mask_Lau.png"
+      },
+      "223": {
+        "image": "Miau_Darkbrussel_anycolor.png",
+        "multi_color": true,
+        "multi_color_back": true
+      },
+      "224": {
+        "image": "MimikyuHoodie_Ashlae.png"
+      },
+      "225": {
+        "image": "mindblown_george_bounce.png"
+      },
+      "226": {
+        "image": "minecraft_george.png"
+      },
+      "227": {
+        "image": "Monkey_Lemonader.png"
+      },
+      "228": {
+        "image": "Mono_plvnt_bounce.png"
+      },
+      "229": {
+        "image": "MrBall_FingerStripes.png"
+      },
+      "230": {
+        "image": "NekoDark_Darkbrussel.png"
+      },
+      "231": {
+        "image": "NekoPink_Darkbrussel.png"
+      },
+      "232": {
+        "image": "NekoGirl_Mewapple.png"
+      },
+      "233": {
+        "image": "NezHat.png"
+      },
+      "234": {
+        "image": "nezuko_CopperLion.png"
+      },
+      "235": {
+        "image": "ninja_george.png"
+      },
+      "236": {
+        "image": "NorthStar_plvnt_bounce.png"
+      },
+      "237": {
+        "image": "octopus_george_bounce.png"
+      },
+      "238": {
+        "image": "Oliver_Cam_bounce.png"
+      },
+      "239": {
+        "image": "OrangeBeanie_Beryman.png"
+      },
+      "240": {
+        "image": "PiccoloCape_darkfalcon123_bounce.png"
+      },
+      "241": {
+        "image": "PiglinTechno_Mewapple.png"
+      },
+      "242": {
+        "image": "PimpHat_Beryman.png"
+      },
+      "243": {
+        "image": "Pirate_ConNo1.png"
+      },
+      "244": {
+        "image": "Pizza_Lemonader.png"
+      },
+      "245": {
+        "image": "Plumbob_HeroSprite_bounce.png"
+      },
+      "246": {
+        "image": "PolarBear_Darkbrussel.png"
+      },
+      "247": {
+        "image": "pony_george_0.4f_+0.6f.png"
+      },
+      "248": {
+        "image": "Poro_Darkbrussel_bounce.png"
+      },
+      "249": {
+        "image": "PrimeSub_Comfimus.png"
+      },
+      "250": {
+        "image": "Puppy_Darkbrussel.png"
+      },
+      "251": {
+        "image": "rainbow_george.png"
+      },
+      "252": {
+        "image": "raincloud_george.png"
+      },
+      "253": {
+        "image": "RanardPet_Lau.png"
+      },
+      "254": {
+        "image": "RanpoHair_Mewapple_bounce.png"
+      },
+      "255": {
+        "image": "rem_CopperLion.png"
+      },
+      "256": {
+        "image": "Repptar_Darkbrussel_anycolor.png",
+        "multi_color": true,
+        "multi_color_back": true
+      },
+      "257": {
+        "image": "RiddlerHat_FingerStripes_bounce.png"
+      },
+      "258": {
+        "image": "RobloxAvatar_mewapple_anycolor.png",
+        "multi_color": true,
+        "multi_color_back": true
+      },
+      "259": {
+        "image": "Saiki_sAntennas_ConNo1.png"
+      },
+      "260": {
+        "image": "SailorMoonHair_Schatzi.png"
+      },
+      "261": {
+        "image": "ScarfSprout_Mewapple.png"
+      },
+      "262": {
+        "image": "ScarfTeemo_Darkbrussel.png"
+      },
+      "263": {
+        "image": "ScuffedDreamMask_Marcy.png"
+      },
+      "264": {
+        "image": "Serpent_s_Hair_icydust_anycolor.png",
+        "multi_color": true,
+        "multi_color_back": true
+      },
+      "265": {
+        "image": "SherlockHolmes_Kevoelgamerpro.png"
+      },
+      "266": {
+        "image": "Shinobu_icydust.png"
+      },
+      "267": {
+        "image": "SIX_plvnt_anycolor.png",
+        "multi_color": true,
+        "multi_color_back": true
+      },
+      "268": {
+        "image": "sleepykitty_plvnt_anycolor.png",
+        "multi_color": true,
+        "multi_color_back": true
+      },
+      "269": {
+        "image": "SlyCooper_ConNo1.png"
+      },
+      "270": {
+        "image": "Soldier_george_bounce.png"
+      },
+      "271": {
+        "image": "StevensShieldSword_plvnt_bounce.png"
+      },
+      "272": {
+        "image": "Stitch_Beryman_anycolor.png",
+        "multi_color": true,
+        "multi_color_back": true
+      },
+      "273": {
+        "image": "StrawberryCone_Darkbrussel.png"
+      },
+      "274": {
+        "image": "StrongArms_ConNo1_anycolor.png",
+        "multi_color": true,
+        "multi_color_back": true
+      },
+      "275": {
+        "image": "StrongMindandBody_ConNo1_anycolor.png",
+        "multi_color": true,
+        "multi_color_back": true
+      },
+      "276": {
+        "image": "SupermanCape_ConNo1.png"
+      },
+      "277": {
+        "image": "Superman_stringtheorist.png"
+      },
+      "278": {
+        "image": "SusImpostor_Zik_anycolor.png",
+        "multi_color": true,
+        "multi_color_back": true
+      },
+      "279": {
+        "image": "SykkunoScarf_Mewapple.png"
+      },
+      "280": {
+        "image": "TankCaptain_electricbeez_anycolor.png",
+        "multi_color": true,
+        "multi_color_back": true
+      },
+      "281": {
+        "image": "TankSteve_electricbeez_anycolor.png",
+        "multi_color": true,
+        "multi_color_back": true
+      },
+      "282": {
+        "image": "TeaMug_electricbeez_bounce.png"
+      },
+      "283": {
+        "image": "TeemoHat_Darkbrussel.png"
+      },
+      "284": {
+        "image": "ThePinkMan_icydust.png"
+      },
+      "285": {
+        "image": "TinyRadiance_TorturedByMemes_bounce.png"
+      },
+      "286": {
+        "image": "Toast_mewapple.png"
+      },
+      "287": {
+        "image": "Totoro_Lulucas_bounce.png"
+      },
+      "288": {
+        "image": "Toxizap_Lau_anycolor.png",
+        "multi_color": true,
+        "multi_color_back": true
+      },
+      "289": {
+        "image": "TrafficCone_Darkbrussel_Bounce.png"
+      },
+      "290": {
+        "image": "trickysmaskandhair_electricbeez.png"
+      },
+      "291": {
+        "image": "TVColorBars_Ryz_Bounce.png"
+      },
+      "292": {
+        "image": "TV_Ryz_Bounce.png"
+      },
+      "293": {
+        "image": "UFO_george.png"
+      },
+      "294": {
+        "image": "Ushanka_george_bounce.png"
+      },
+      "295": {
+        "image": "VanillaCone_Darkbrussel.png"
+      },
+      "296": {
+        "image": "Venom_Lau.png"
+      },
+      "297": {
+        "image": "Viper_ConNo1_anycolor.png",
+        "multi_color": true,
+        "multi_color_back": true
+      },
+      "298": {
+        "image": "VoteMe_Niko.png"
+      },
+      "299": {
+        "image": "WerewolfTail_Mewapple_bounce_0.0f_+0.5f.png"
+      },
+      "300": {
+        "image": "Wheel_CopperLion.png"
+      },
+      "301": {
+        "image": "Wig_CopperLion.png"
+      },
+      "302": {
+        "image": "Yoda_george.png"
+      },
+      "303": {
+        "image": "Yoshi_Lau.png"
+      },
+      "304": {
+        "image": "YugiHat.png"
+      },
+      "305": {
+        "image": "Yuri_CopperLion.png"
+      },
+      "306": {
+        "image": "ZeroTwo_icydust.png"
+      },
+      "307": {
+        "image": "ACME_RSea.png"
+      },
+      "308": {
+        "image": "Akinator_RSea.png"
+      },
+      "309": {
+        "image": "Angel_tori1277.png"
+      },
+      "310": {
+        "image": "BekahPandaHat_Darkbrussel.png"
+      },
+      "311": {
+        "image": "BlinkingCyclops_HeroSprite.png",
+        "multi_color": true,
+        "multi_color_back": true
+      },
+      "312": {
+        "image": "BobaTea_RSea.png",
+        "multi_color": true,
+        "multi_color_back": true
+      },
+      "313": {
+        "image": "Bobbery_RSea.png"
+      },
+      "314": {
+        "image": "BowserJr_Zik.png",
+        "back_image": "back_BowserJr_Zik.png"
+      },
+      "315": {
+        "image": "Bowser_RSea.png"
+      },
+      "316": {
+        "image": "BunnyEars_tori1277.png",
+        "back_image": "back_BunnyEars_tori1277.png"
+      },
+      "317": {
+        "image": "Camila-Elesa_AlmaPlata.png",
+        "back_image": "back_Camila-Elesa_AlmaPlata.png"
+      },
+      "318": {
+        "image": "CappyHat_Zik.png"
+      },
+      "319": {
+        "image": "CardboardHelmet_RSea.png"
+      },
+      "320": {
+        "image": "CaylaArcher_RSea,InspiredByKaileyAshton.png"
+      },
+      "321": {
+        "image": "Cedric_HufflepuffHat_tori1277.png",
+        "back_image": "back_Cedric_HufflepuffHat_tori1277.png"
+      },
+      "322": {
+        "image": "ColoringBook_RSea.png",
+        "multi_color": true,
+        "multi_color_back": true
+      },
+      "323": {
+        "image": "Cornny_RSea.png"
+      },
+      "324": {
+        "image": "Crewmate-Figure_HeroSprite.png",
+        "multi_color": true,
+        "multi_color_back": true
+      },
+      "325": {
+        "image": "CucumberScarf_RSea.png"
+      },
+      "326": {
+        "image": "Cyborg_RSea.png",
+        "back_image": "back_Cyborg_RSea.png"
+      },
+      "327": {
+        "image": "DemonWings_tori1277.png"
+      },
+      "328": {
+        "image": "DizzyHat_tori1277.png"
+      },
+      "329": {
+        "image": "DolphinOnesie_RSea.png"
+      },
+      "330": {
+        "image": "Draco_SlytherinHat_tori1277.png",
+        "back_image": "back_Draco_SlytherinHat_tori1277.png"
+      },
+      "331": {
+        "image": "EeveeHat_RSea.png"
+      },
+      "332": {
+        "image": "FallGuy_RSea.png",
+        "multi_color": true,
+        "multi_color_back": true
+      },
+      "333": {
+        "image": "FinnBag_RSea.png"
+      },
+      "334": {
+        "image": "FoxHat_tori1277.png",
+        "back_image": "back_FoxHat_tori1277.png",
+        "multi_color": true,
+        "multi_color_back": true
+      },
+      "335": {
+        "image": "FridayNightPump_RSea.png"
+      },
+      "336": {
+        "image": "FrogOveralls_RSea.png"
+      },
+      "337": {
+        "image": "Ghost_tori1277.png",
+        "multi_color": true,
+        "multi_color_back": true
+      },
+      "338": {
+        "image": "Giraffe_RSea.png"
+      },
+      "339": {
+        "image": "Go-KartGoggles_RSea.png",
+        "multi_color": true,
+        "multi_color_back": true
+      },
+      "340": {
+        "image": "SatoruGojo_SkyBreaker99.png"
+      },
+      "341": {
+        "image": "Goombella_RSea.png"
+      },
+      "342": {
+        "image": "HandPointImpostor_Zik.png",
+        "multi_color": true,
+        "multi_color_back": true
+      },
+      "343": {
+        "image": "Harry_GryffindorHat_tori1277.png",
+        "back_image": "back_Harry_GryffindorHat_tori1277.png"
+      },
+      "344": {
+        "image": "Haunter_RSea.png",
+        "multi_color": true,
+        "multi_color_back": true
+      },
+      "345": {
+        "image": "HobbesTheTiger_RSea.png"
+      },
+      "346": {
+        "image": "IcedLatte_FingerStripes.png",
+        "multi_color": true,
+        "multi_color_back": true
+      },
+      "347": {
+        "image": "ItsFine_RSea.png",
+        "back_image": "back_ItsFine_RSea.png"
+      },
+      "348": {
+        "image": "Jetpack_Damian.png",
+        "back_image": "back_Jetpack_Damian.png"
+      },
+      "349": {
+        "image": "KenekiMask_RSea,inspiredByRindy666.png"
+      },
+      "350": {
+        "image": "BloodyKnife_Zik.png",
+        "back_image": "back_BloodyKnife_Zik.png"
+      },
+      "351": {
+        "image": "Kobra_RSea.png"
+      },
+      "352": {
+        "image": "Levitate_ConNo1.png",
+        "multi_color": true,
+        "multi_color_back": true
+      },
+      "353": {
+        "image": "Luna_RavenclawHat_tori1277.png",
+        "back_image": "back_Luna_RavenclawHat_tori1277.png"
+      },
+      "354": {
+        "image": "Magikarp_RSea.png"
+      },
+      "355": {
+        "image": "MetaKnight_RSea.png"
+      },
+      "356": {
+        "image": "Midna'shelmet_RSea.png"
+      },
+      "357": {
+        "image": "Monkey_RSea.png"
+      },
+      "358": {
+        "image": "NervousHat_tori1277.png",
+        "back_image": "back_NervousHat_tori1277.png"
+      },
+      "359": {
+        "image": "NewYearsDragon_RSea.png"
+      },
+      "360": {
+        "image": "ClassicNightWing_RSea.png"
+      },
+      "361": {
+        "image": "Nightwing_FingerStripes.png"
+      },
+      "362": {
+        "image": "Pinata_RSea.png"
+      },
+      "363": {
+        "image": "PixelGhost_HeroSprite.png",
+        "multi_color": true,
+        "multi_color_back": true
+      },
+      "364": {
+        "image": "PixelImpostor_RSea.png",
+        "multi_color": true,
+        "multi_color_back": true
+      },
+      "365": {
+        "image": "Pokimane_RSea.png"
+      },
+      "366": {
+        "image": "PopArt_RSea.png",
+        "multi_color": true,
+        "multi_color_back": true
+      },
+      "367": {
+        "image": "RageHat_tori1277.png",
+        "back_image": "back_RageHat_tori1277.png"
+      },
+      "368": {
+        "image": "RainbowShades_RSea.png"
+      },
+      "370": {
+        "image": "RenHana_catsnack.png"
+      },
+      "371": {
+        "image": "Robin_FingerStripes.png"
+      },
+      "372": {
+        "image": "TiredFrogOveralls_RSea.png"
+      },
+      "374": {
+        "image": "SusMeal_RSea.png"
+      },
+      "375": {
+        "back_image": "back_TailedSpirit_Deme.png",
+        "multi_color": true,
+        "multi_color_back": true
+      },
+      "376": {
+        "image": "TheDummy_RSea.png"
+      },
+      "377": {
+        "image": "ToadCap_Zik.png",
+        "multi_color": true,
+        "multi_color_back": true
+      },
+      "378": {
+        "image": "ToadetteCap_Zik.png",
+        "multi_color": true,
+        "multi_color_back": true
+      },
+      "379": {
+        "image": "TreeFroggyTraveler_RSea.png"
+      },
+      "380": {
+        "image": "UnpluggedJam_RSea,InspiredByTex.png"
+      },
+      "381": {
+        "image": "VintageGrin_RSea.png",
+        "multi_color": true,
+        "multi_color_back": true
+      },
+      "382": {
+        "image": "VintageToon_RSea.png",
+        "multi_color": true,
+        "multi_color_back": true
+      },
+      "383": {
+        "image": "Vivian'sHat_RSea.png"
+      },
+      "384": {
+        "image": "BallisticWhittyHat_Zik.png"
+      },
+      "385": {
+        "image": "X-Ray_RSea.png"
+      }
+    }
   }
 }
