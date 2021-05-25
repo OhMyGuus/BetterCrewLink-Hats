@@ -132,207 +132,204 @@
     "defaultLeft": "-14%",
     "hats": {
       "115": {
-        "image": "megaphone_bounce.png"
+        "image": "Megaphone.png"
       },
       "116": {
-        "image": "cat.png"
+        "image": "Cat.png"
       },
       "117": {
-        "image": "shiba_bounce.png"
+        "image": "Shiba.png"
       },
       "118": {
-        "image": "cook_bounce.png"
+        "image": "Cook.png"
       },
       "119": {
-        "image": "donut_bounce.png"
+        "image": "Donut.png"
       },
       "120": {
-        "image": "LongBrown.png",
-        "back_image": "LongBrown_back.png"
+        "image": "Long Brown.png",
+        "back_image": "back_Long Brown.png"
       },
       "121": {
-        "image": "dj.png"
+        "image": "DJ.png"
       },
       "122": {
-        "image": "bulb_adaptive.png",
+        "image": "Bulb.png",
         "multi_color": true
       },
       "123": {
-        "image": "duck_bounce.png",
-        "back_image": "duck_back.png"
+        "image": "Duck.png",
+        "back_image": "back_Duck.png"
       },
       "124": {
-        "image": "towel_adaptive.png",
+        "image": "Towel.png",
         "multi_color": true
       },
       "125": {
-        "image": "catEars_adaptive.png",
+        "image": "catEars.png",
         "multi_color": true
       },
       "126": {
-        "image": "leaf.png"
+        "image": "Leaf.png"
       },
       "127": {
-        "image": "spartan_bounce_adaptive.png",
+        "image": "Spartan.png",
         "multi_color": true
       },
       "128": {
-        "image": "fish_adaptive.png",
+        "image": "Fishbowl.png",
         "multi_color": true
       },
       "129": {
-        "image": "teletubby_adaptive.png",
+        "image": "Teletubby.png",
         "multi_color": true
       },
       "130": {
-        "image": "brain_adaptive.png",
+        "image": "Brain.png",
         "multi_color": true
       },
       "131": {
-        "image": "mech_adaptive.png",
-        "back_image": "mech_back.png",
+        "image": "Mech.png",
+        "back_image": "back_Mech.png",
         "multi_color": true
       },
       "132": {
-        "image": "shark.png"
+        "image": "Shark.png"
       },
       "133": {
-        "image": "OldMan.png",
-        "back_image": "OldMan_back.png"
+        "image": "Old Man.png",
+        "back_image": "back_Old Man.png"
       },
       "134": {
-        "image": "TrafficCone_bounce.png"
+        "image": "Traffic Cone.png"
       },
       "135": {
-        "image": "brainglass.png"
+        "image": "Braini.png"
       },
       "136": {
-        "image": "Frog_bounce.png"
+        "image": "Frog.png"
       },
       "137": {
-        "image": "Phone_adaptive.png",
+        "image": "Phone.png",
         "multi_color": true
       },
       "138": {
-        "image": "Boxer.png",
-        "back_image": "Boxer_back.png"
+        "image": "Boxing Gloves.png",
+        "back_image": "back_Boxing Gloves.png"
       },
       "139": {
-        "image": "dadhat.png"
+        "image": "Dad Hat.png"
       },
       "140": {
-        "image": "Newspaper_adaptive.png",
+        "image": "Newspaper.png",
         "multi_color": true
       },
       "141": {
-        "image": "VoKuHiLaOliBa.png"
+        "image": "VoKuHiLa.png"
       },
       "142": {
         "image": "Panda.png"
       },
       "143": {
-        "image": "Barbarian_adaptive.png",
+        "image": "Barbarian.png",
         "multi_color": true
       },
       "144": {
-        "image": "snail_adaptive.png",
+        "image": "Snail.png",
         "multi_color": true
       },
       "145": {
-        "image": "Knight_adaptive.png",
+        "image": "Knight.png",
         "multi_color": true
       },
       "146": {
-        "image": "trex_adaptive.png",
-        "back_image": "trex_back.png",
-        "multi_color": true,
-        "multi_color_back": true
+        "image": "T-Rex.png",
+        "back_image": "back_T-Rex.png",
+        "multi_color": true
       },
       "147": {
-        "image": "lawyer.png"
+        "image": "Lawyer.png"
       },
       "148": {
-        "image": "sunhat_adaptive_bounce.png",
+        "image": "Sunhat.png",
         "multi_color": true
       },
       "149": {
-        "image": "angelwings.png",
-        "back_image": "angelwings_back.png"
+        "image": "Angelwings.png",
+        "back_image": "back_Angelwings.png"
       },
       "150": {
-        "image": "darkCat.png"
+        "image": "Dark Cat Ears.png"
       },
       "151": {
-        "image": "Dino5_adaptive.png",
+        "image": "Dino.png",
         "multi_color": true
       },
       "152": {
-        "image": "bandana_bounce.png"
+        "image": "Dhalucard.png"
       },
       "153": {
-        "image": "dragon_bounce.png",
-        "back_image": "dragon_back.png"
+        "image": "Thunderstorm.png",
+        "back_image": "back_Thunderstorm.png"
       },
       "154": {
-        "image": "eisbison.png",
-        "back_image": "eisbison_back.png"
+        "image": "Eisbison.png",
+        "back_image": "back_Eisbison.png"
       },
       "155": {
-        "image": "eof_bounce.png"
+        "image": "EndOfFile.png"
       },
       "156": {
-        "image": "pony_adaptive.png",
+        "image": "Pony.png",
         "multi_color": true
       },
       "157": {
-        "image": "Sombrero-FreakaMania.png"
+        "image": "Sombrero.png"
       },
       "158": {
-        "image": "Firefighter_adaptive.png",
+        "image": "Firefighter.png",
         "multi_color": true
       },
       "159": {
-        "image": "demon_adaptive.png",
-        "back_image": "demon_back.png",
-        "multi_color": true,
-        "multi_color_back": true
+        "image": "Demon.png",
+        "back_image": "back_Demon.png",
+        "multi_color": true
       },
       "160": {
-        "image": "tentacle_adaptive.png",
+        "image": "Tentacle.png",
         "multi_color": true
       },
       "161": {
-        "image": "1_strawhat.png"
+        "image": "Strawhat.png"
       },
       "162": {
-        "image": "samurai.png"
+        "image": "Samurai.png"
       },
       "163": {
-        "image": "axolotl_adaptive.png",
-        "back_image": "axolotl_adaptive_back.png",
-        "multi_color": true,
-        "multi_color_back": true
+        "image": "Axolotl.png",
+        "back_image": "back_Axolotl.png",
+        "multi_color": true
       },
       "164": {
-        "image": "Fisherman_adaptive.png",
+        "image": "Fisherman.png",
         "multi_color": true
       },
       "165": {
-        "image": "horns.png",
-        "back_image": "horns_back.png"
+        "image": "Horns.png",
+        "back_image": "back_Horns.png"
       },
       "166": {
-        "image": "roseflower.png"
+        "image": "Roseflowers.png"
       },
       "167": {
-        "image": "Penguin_bounce.png"
+        "image": "Penguin.png"
       },
       "168": {
         "image": "propeller.png"
       },
       "169": {
         "image": "tinkercat.png",
-        "back_image": "tinkercat_back.png"
+        "back_image": "back_tinkercat.png"
       },
       "170": {
         "image": "tutu.png"
@@ -341,188 +338,192 @@
         "image": "comfysloth.png"
       },
       "172": {
-        "image": "bucket_bounce.png"
+        "image": "bucket.png"
       },
       "173": {
         "image": "firemage.png",
-        "back_image": "firemage_back.png"
+        "back_image": "back_firemage.png"
       },
       "174": {
-        "image": "Ghost_adaptive_bounce.png",
+        "image": "Little Ghost.png",
         "multi_color": true
       },
       "175": {
-        "image": "AngelN_bounce.png",
-        "back_image": "AngelN_back.png"
+        "image": "Angel + Wings.png",
+        "back_image": "back_Angel + Wings.png"
       },
       "176": {
-        "image": "octopus_bounce.png"
+        "image": "octopus.png"
       },
       "177": {
-        "image": "city-watch.png",
-        "back_image": "city-watch_back.png"
+        "image": "City Watch.png",
+        "back_image": "back_City Watch.png"
       },
       "178": {
-        "image": "hoodie_adaptive.png",
-        "back_image": "hoodie_adaptive_back.png",
-        "multi_color": true,
-        "multi_color_back": true
+        "image": "Hoodie.png",
+        "back_image": "back_Hoodie.png",
+        "multi_color": true
       },
       "179": {
-        "image": "hairband_adaptive.png",
-        "back_image": "hairband_back.png",
+        "image": "Hairband.png",
+        "back_image": "back_Hairband.png",
         "multi_color": true
       },
       "180": {
-        "image": "newhoodie_adaptive.png",
+        "image": "Feeling Cute.png",
         "multi_color": true
       },
       "181": {
-        "image": "love_adaptive.png",
-        "multi_color": true
+        "image": "Ghostking.png"
       },
       "182": {
-        "image": "ghostking_bounce.png"
+        "image": "Holla.png",
+        "back_image": "back_Holla.png"
       },
       "183": {
-        "image": "holla.png",
-        "back_image": "holla_back.png"
-      },
-      "184": {
         "image": "Monster.png"
       },
-      "185": {
+      "184": {
         "image": "FeineKatze.png"
       },
+      "185": {
+        "image": "tanuki.png",
+        "back_image": "back_tanuki.png",
+        "multi_color": true
+      },
       "186": {
-        "image": "tanuki_adaptive.png",
-        "back_image": "tanuki_back.png",
-        "multi_color": true,
-        "multi_color_back": true
+        "image": "Juliversal.png",
+        "back_image": "back_Juliversal.png"
       },
       "187": {
-        "image": "juli.png",
-        "back_image": "juli_back.png"
+        "image": "Harley Wig.png",
+        "back_image": "back_Harley Wig.png"
       },
       "188": {
-        "image": "HarleyQuinn.png",
-        "back_image": "HarleyQuinn_back.png"
+        "image": "Bushi.png",
+        "back_image": "back_Bushi.png"
       },
       "189": {
-        "image": "Bushi.png",
-        "back_image": "Bushi_back.png"
+        "image": "Dumb.png"
       },
       "190": {
-        "image": "dumb.png"
+        "image": "Goatee.png"
       },
       "191": {
-        "image": "goatee.png"
+        "image": "3D Glasses.png"
       },
       "192": {
-        "image": "3dglasses.png"
+        "image": "Afro.png"
       },
       "193": {
-        "image": "afro_bounce.png"
-      },
-      "194": {
         "image": "TheOtherCat.png"
       },
-      "195": {
-        "image": "towel2_bounce_adaptive.png",
-        "back_image": "towel2_back.png",
+      "194": {
+        "image": "Towel 2.png",
+        "back_image": "back_Towel 2.png",
         "multi_color": true
+      },
+      "195": {
+        "image": "Viking Beard.png"
       },
       "196": {
-        "image": "beardviking.png"
-      },
-      "197": {
         "image": "Mental.png"
       },
+      "197": {
+        "image": "Thick Beard.png"
+      },
       "198": {
-        "image": "beardthick.png"
+        "image": "Racoon.png",
+        "back_image": "back_Racoon.png"
       },
       "199": {
-        "image": "racoon.png",
-        "back_image": "racoon_back.png"
+        "image": "Turtle.png"
       },
       "200": {
-        "image": "Turtle_bounce.png"
+        "image": "Nephias.png",
+        "back_image": "back_Nephias.png"
       },
       "201": {
-        "image": "Nephias.png",
-        "back_image": "Nephias_back.png"
+        "image": "Umbrella.png",
+        "multi_color": true
       },
       "202": {
-        "image": "umbrella_adaptive.png",
-        "multi_color": true
+        "image": "I like pizza.png"
       },
       "203": {
-        "image": "pizzahat_bounce.png"
+        "image": "Divi.png",
+        "back_image": "back_Divi.png",
+        "multi_color": true
       },
       "204": {
-        "image": "Divi_adaptive.png",
-        "back_image": "Divi_back.png",
-        "multi_color": true
-      },
-      "205": {
         "image": "Cowboy.png"
       },
+      "205": {
+        "image": "Bubble Bath.png",
+        "back_image": "back_Bubble Bath.png"
+      },
       "206": {
-        "image": "bubblebath.png",
-        "back_image": "bubblebath_back.png"
+        "image": "French.png",
+        "back_image": "back_French.png"
       },
       "207": {
-        "image": "French_bounce.png",
-        "back_image": "French_back_bounce.png"
-      },
-      "208": {
-        "image": "butterfly_adaptive.png",
-        "back_image": "butterfly_adaptive_back.png",
-        "multi_color": true,
-        "multi_color_back": true
-      },
-      "209": {
-        "image": "melted_ice.png"
-      },
-      "210": {
-        "image": "flowercrown.png"
-      },
-      "211": {
-        "image": "elephant_adaptive.png",
+        "image": "Butterfly.png",
+        "back_image": "back_Butterfly.png",
         "multi_color": true
       },
-      "212": {
+      "208": {
+        "image": "Melted Ice.png"
+      },
+      "209": {
+        "image": "Flower Crown.png"
+      },
+      "210": {
         "image": "Whale.png"
       },
+      "211": {
+        "image": "Cesar.png",
+        "back_image": "back_Cesar.png"
+      },
+      "212": {
+        "image": "Jackal.png",
+        "back_image": "back_Jackal.png",
+        "multi_color": true
+      },
       "213": {
-        "image": "Cesar_bounce.png",
-        "back_image": "Cesar_back_bounce.png"
-      },
-      "214": {
-        "image": "jackal_adaptive.png",
-        "back_image": "jackal_adaptive_back.png",
-        "multi_color": true,
-        "multi_color_back": true
-      },
-      "215": {
         "image": "Reggae.png"
       },
+      "214": {
+        "image": "Eisbison Hat.png",
+        "back_image": "back_Eisbison Hat.png"
+      },
+      "215": {
+        "image": "Jellyfish.png",
+        "back_image": "back_Jellyfish.png",
+        "multi_color": true
+      },
       "216": {
-        "image": "eisbisonalt.png",
-        "back_image": "eisbisonalt_back.png"
+        "image": "Better Vampire.png",
+        "back_image": "back_Better Vampire.png"
       },
       "217": {
-        "image": "jellyfish_adaptive.png",
-        "back_image": "jellyfish_back.png",
+        "image": "Shark 2.png",
+        "back_image": "back_Shark 2.png",
         "multi_color": true
       },
       "218": {
-        "image": "2Vampire.png",
-        "back_image": "2Vampire_back.png"
+        "image": "Irrelephant.png",
+        "multi_color": true
       },
       "219": {
-        "image": "2shark_adaptive.png",
-        "back_image": "2shark_back.png",
+        "image": "Bavari.png"
+      },
+      "220": {
+        "image": "Vlesk.png",
+        "back_image": "back_Vlesk.png"
+      },
+      "221": {
+        "image": "Hoodie 2.png",
+        "back_image": "back_Hoodie 2.png",
         "multi_color": true
       }
     }
@@ -531,14 +532,13 @@
     "defaultWidth": "130%",
     "defaultTop": "-42%",
     "defaultLeft": "-16%",
-    "hats" : {
+    "hats": {
       "115": {
         "image": "AshKetchumHat_HeroSprite_bounce.png"
       },
       "116": {
         "image": "CardboardBoxcar_HeroSprite_bounce_anycolor.png",
-        "multi_color": true,
-        "multi_color_back": true
+        "multi_color": true
       },
       "117": {
         "image": "glasses_jaedeon.png"
@@ -587,8 +587,7 @@
       },
       "132": {
         "image": "Astronaut_LEARNHOW_anycolor.png",
-        "multi_color": true,
-        "multi_color_back": true
+        "multi_color": true
       },
       "133": {
         "image": "Bakugo_Hair_MHO_PunchMaster.png"
@@ -604,8 +603,7 @@
       },
       "137": {
         "image": "BigBrain_ConNo1_anycolor.png",
-        "multi_color": true,
-        "multi_color_back": true
+        "multi_color": true
       },
       "138": {
         "image": "bookNerd_plvnt_bounce.png"
@@ -624,8 +622,7 @@
       },
       "143": {
         "image": "CanvasCrewmate_HeroSprite_bounce_anycolor.png",
-        "multi_color": true,
-        "multi_color_back": true
+        "multi_color": true
       },
       "144": {
         "image": "CaptainAmericaShield_HeroSprite_bounce_0.1f_+0.6f.png"
@@ -641,8 +638,7 @@
       },
       "148": {
         "image": "CatStretch_plvnt_anycolor.png",
-        "multi_color": true,
-        "multi_color_back": true
+        "multi_color": true
       },
       "149": {
         "image": "cheerleader_george.png"
@@ -676,13 +672,11 @@
       },
       "159": {
         "image": "Cupid_icydust_anycolor_0.0f_+0.6f.png",
-        "multi_color": true,
-        "multi_color_back": true
+        "multi_color": true
       },
       "160": {
         "image": "curseddog_george_anycolor.png",
-        "multi_color": true,
-        "multi_color_back": true
+        "multi_color": true
       },
       "161": {
         "image": "CutMetHat_CutMet_bounce.png"
@@ -725,13 +719,11 @@
       },
       "174": {
         "image": "DinoOnesie_ConNo1_anycolor.png",
-        "multi_color": true,
-        "multi_color_back": true
+        "multi_color": true
       },
       "175": {
         "image": "Dittolax_plvnt_anycolor.png",
-        "multi_color": true,
-        "multi_color_back": true
+        "multi_color": true
       },
       "176": {
         "image": "DonkeyKongTie_HeroSprite_bounce_0.1f_+0.6f.png"
@@ -741,8 +733,7 @@
       },
       "178": {
         "image": "Dragon_icydust_anycolor.png",
-        "multi_color": true,
-        "multi_color_back": true
+        "multi_color": true
       },
       "179": {
         "image": "EvilZhong_Darkbrussel.png"
@@ -761,13 +752,11 @@
       },
       "184": {
         "image": "FlyingCarpet_ConNo1_anycolor.png",
-        "multi_color": true,
-        "multi_color_back": true
+        "multi_color": true
       },
       "185": {
         "image": "FnfMicrophone_anycolor_0.0f_+0.5f.png",
-        "multi_color": true,
-        "multi_color_back": true
+        "multi_color": true
       },
       "186": {
         "image": "Fox_Lau.png"
@@ -798,8 +787,7 @@
       },
       "195": {
         "image": "Hands_LEARNHOW_anycolor.png",
-        "multi_color": true,
-        "multi_color_back": true
+        "multi_color": true
       },
       "196": {
         "image": "HappyFace_Darkbrussel.png"
@@ -884,8 +872,7 @@
       },
       "223": {
         "image": "Miau_Darkbrussel_anycolor.png",
-        "multi_color": true,
-        "multi_color_back": true
+        "multi_color": true
       },
       "224": {
         "image": "MimikyuHoodie_Ashlae.png"
@@ -985,16 +972,14 @@
       },
       "256": {
         "image": "Repptar_Darkbrussel_anycolor.png",
-        "multi_color": true,
-        "multi_color_back": true
+        "multi_color": true
       },
       "257": {
         "image": "RiddlerHat_FingerStripes_bounce.png"
       },
       "258": {
         "image": "RobloxAvatar_mewapple_anycolor.png",
-        "multi_color": true,
-        "multi_color_back": true
+        "multi_color": true
       },
       "259": {
         "image": "Saiki_sAntennas_ConNo1.png"
@@ -1013,8 +998,7 @@
       },
       "264": {
         "image": "Serpent_s_Hair_icydust_anycolor.png",
-        "multi_color": true,
-        "multi_color_back": true
+        "multi_color": true
       },
       "265": {
         "image": "SherlockHolmes_Kevoelgamerpro.png"
@@ -1024,13 +1008,11 @@
       },
       "267": {
         "image": "SIX_plvnt_anycolor.png",
-        "multi_color": true,
-        "multi_color_back": true
+        "multi_color": true
       },
       "268": {
         "image": "sleepykitty_plvnt_anycolor.png",
-        "multi_color": true,
-        "multi_color_back": true
+        "multi_color": true
       },
       "269": {
         "image": "SlyCooper_ConNo1.png"
@@ -1043,21 +1025,18 @@
       },
       "272": {
         "image": "Stitch_Beryman_anycolor.png",
-        "multi_color": true,
-        "multi_color_back": true
+        "multi_color": true
       },
       "273": {
         "image": "StrawberryCone_Darkbrussel.png"
       },
       "274": {
         "image": "StrongArms_ConNo1_anycolor.png",
-        "multi_color": true,
-        "multi_color_back": true
+        "multi_color": true
       },
       "275": {
         "image": "StrongMindandBody_ConNo1_anycolor.png",
-        "multi_color": true,
-        "multi_color_back": true
+        "multi_color": true
       },
       "276": {
         "image": "SupermanCape_ConNo1.png"
@@ -1067,21 +1046,18 @@
       },
       "278": {
         "image": "SusImpostor_Zik_anycolor.png",
-        "multi_color": true,
-        "multi_color_back": true
+        "multi_color": true
       },
       "279": {
         "image": "SykkunoScarf_Mewapple.png"
       },
       "280": {
         "image": "TankCaptain_electricbeez_anycolor.png",
-        "multi_color": true,
-        "multi_color_back": true
+        "multi_color": true
       },
       "281": {
         "image": "TankSteve_electricbeez_anycolor.png",
-        "multi_color": true,
-        "multi_color_back": true
+        "multi_color": true
       },
       "282": {
         "image": "TeaMug_electricbeez_bounce.png"
@@ -1103,8 +1079,7 @@
       },
       "288": {
         "image": "Toxizap_Lau_anycolor.png",
-        "multi_color": true,
-        "multi_color_back": true
+        "multi_color": true
       },
       "289": {
         "image": "TrafficCone_Darkbrussel_Bounce.png"
@@ -1132,8 +1107,7 @@
       },
       "297": {
         "image": "Viper_ConNo1_anycolor.png",
-        "multi_color": true,
-        "multi_color_back": true
+        "multi_color": true
       },
       "298": {
         "image": "VoteMe_Niko.png"
@@ -1176,13 +1150,11 @@
       },
       "311": {
         "image": "BlinkingCyclops_HeroSprite.png",
-        "multi_color": true,
-        "multi_color_back": true
+        "multi_color": true
       },
       "312": {
         "image": "BobaTea_RSea.png",
-        "multi_color": true,
-        "multi_color_back": true
+        "multi_color": true
       },
       "313": {
         "image": "Bobbery_RSea.png"
@@ -1217,16 +1189,14 @@
       },
       "322": {
         "image": "ColoringBook_RSea.png",
-        "multi_color": true,
-        "multi_color_back": true
+        "multi_color": true
       },
       "323": {
         "image": "Cornny_RSea.png"
       },
       "324": {
         "image": "Crewmate-Figure_HeroSprite.png",
-        "multi_color": true,
-        "multi_color_back": true
+        "multi_color": true
       },
       "325": {
         "image": "CucumberScarf_RSea.png"
@@ -1253,8 +1223,7 @@
       },
       "332": {
         "image": "FallGuy_RSea.png",
-        "multi_color": true,
-        "multi_color_back": true
+        "multi_color": true
       },
       "333": {
         "image": "FinnBag_RSea.png"
@@ -1262,8 +1231,7 @@
       "334": {
         "image": "FoxHat_tori1277.png",
         "back_image": "back_FoxHat_tori1277.png",
-        "multi_color": true,
-        "multi_color_back": true
+        "multi_color": true
       },
       "335": {
         "image": "FridayNightPump_RSea.png"
@@ -1273,16 +1241,14 @@
       },
       "337": {
         "image": "Ghost_tori1277.png",
-        "multi_color": true,
-        "multi_color_back": true
+        "multi_color": true
       },
       "338": {
         "image": "Giraffe_RSea.png"
       },
       "339": {
         "image": "Go-KartGoggles_RSea.png",
-        "multi_color": true,
-        "multi_color_back": true
+        "multi_color": true
       },
       "340": {
         "image": "SatoruGojo_SkyBreaker99.png"
@@ -1292,8 +1258,7 @@
       },
       "342": {
         "image": "HandPointImpostor_Zik.png",
-        "multi_color": true,
-        "multi_color_back": true
+        "multi_color": true
       },
       "343": {
         "image": "Harry_GryffindorHat_tori1277.png",
@@ -1301,16 +1266,14 @@
       },
       "344": {
         "image": "Haunter_RSea.png",
-        "multi_color": true,
-        "multi_color_back": true
+        "multi_color": true
       },
       "345": {
         "image": "HobbesTheTiger_RSea.png"
       },
       "346": {
         "image": "IcedLatte_FingerStripes.png",
-        "multi_color": true,
-        "multi_color_back": true
+        "multi_color": true
       },
       "347": {
         "image": "ItsFine_RSea.png",
@@ -1332,8 +1295,7 @@
       },
       "352": {
         "image": "Levitate_ConNo1.png",
-        "multi_color": true,
-        "multi_color_back": true
+        "multi_color": true
       },
       "353": {
         "image": "Luna_RavenclawHat_tori1277.png",
@@ -1369,21 +1331,18 @@
       },
       "363": {
         "image": "PixelGhost_HeroSprite.png",
-        "multi_color": true,
-        "multi_color_back": true
+        "multi_color": true
       },
       "364": {
         "image": "PixelImpostor_RSea.png",
-        "multi_color": true,
-        "multi_color_back": true
+        "multi_color": true
       },
       "365": {
         "image": "Pokimane_RSea.png"
       },
       "366": {
         "image": "PopArt_RSea.png",
-        "multi_color": true,
-        "multi_color_back": true
+        "multi_color": true
       },
       "367": {
         "image": "RageHat_tori1277.png",
@@ -1406,21 +1365,18 @@
       },
       "375": {
         "back_image": "back_TailedSpirit_Deme.png",
-        "multi_color": true,
-        "multi_color_back": true
+        "multi_color": true
       },
       "376": {
         "image": "TheDummy_RSea.png"
       },
       "377": {
         "image": "ToadCap_Zik.png",
-        "multi_color": true,
-        "multi_color_back": true
+        "multi_color": true
       },
       "378": {
         "image": "ToadetteCap_Zik.png",
-        "multi_color": true,
-        "multi_color_back": true
+        "multi_color": true
       },
       "379": {
         "image": "TreeFroggyTraveler_RSea.png"
@@ -1430,13 +1386,11 @@
       },
       "381": {
         "image": "VintageGrin_RSea.png",
-        "multi_color": true,
-        "multi_color_back": true
+        "multi_color": true
       },
       "382": {
         "image": "VintageToon_RSea.png",
-        "multi_color": true,
-        "multi_color_back": true
+        "multi_color": true
       },
       "383": {
         "image": "Vivian'sHat_RSea.png"
