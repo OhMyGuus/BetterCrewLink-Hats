@@ -129,7 +129,7 @@
   "THE_OTHER_ROLES": {
     "defaultWidth": "130%",
     "defaultTop": "-45%",
-    "defaultLeft": "-19%",
+    "defaultLeft": "-14%",
     "hats": {
       "115": {
         "image": "megaphone_bounce.png"
@@ -247,7 +247,6 @@
         "back_image": "trex_back.png",
         "multi_color": true,
         "multi_color_back": true
-
       },
       "147": {
         "image": "lawyer.png"
