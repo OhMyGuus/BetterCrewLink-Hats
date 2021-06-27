@@ -1,8 +1,8 @@
 {
     "TOWN_OF_US": {
-        "defaultWidth": "122%",
-        "defaultTop": "-74%",
-        "defaultLeft": "-9%",
+        "defaultWidth": "130%",
+        "defaultTop": "-78%",
+        "defaultLeft": "-14%",
         "hats": {
             "115": {
                 "image": "hats0000.png"
