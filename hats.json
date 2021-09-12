@@ -1708,5 +1708,144 @@
         "image": "X-Ray_RSea.png"
       }
     }
+  },
+  "TOWN_OF_US": {
+    "defaultWidth": "130%",
+    "defaultTop": "-78%",
+    "defaultLeft": "-14%",
+    "hats": {
+      "116": {
+        "image": "annamaja hat.png"
+      },
+      "117": {
+        "image": "zylus hat.png"
+      },
+      "118": {
+        "image": "anniefuschia hat.png"
+      },
+      "119": {
+        "image": "aphex hat.png"
+      },
+      "120": {
+        "image": "aplatypuss hat.png"
+      },
+      "121": {
+        "image": " asexual hat.png"
+      },
+      "122": {
+        "image": "ash_1 hat.png"
+      },
+      "123": {
+        "image": "ash_2 hat.png"
+      },
+      "124": {
+        "image": "axilla hat.png"
+      },
+      "125": {
+        "image": "ben hat.png"
+      },
+      "126": {
+        "image": "besty hat.png"
+      },
+      "127": {
+        "image": "bisexual hat.png"
+      },
+      "128": {
+        "image": "bloody hat.png"
+      },
+      "129": {
+        "image": "boba hat.png"
+      },
+      "130": {
+        "image": "breeh hat.png"
+      },
+      "131": {
+        "image": "brittzey hat.png"
+      },
+      "132": {
+        "image": "chessy hat.png"
+      },
+      "133": {
+        "image": "chilledchaos hat.png"
+      },
+      "134": {
+        "image": "clara hat.png"
+      },
+      "135": {
+        "image": "dawko hat.png"
+      },
+      "136": {
+        "image": "gay hat.png"
+      },
+      "137": {
+        "image": "glitch hat.png"
+      },
+      "138": {
+        "image": "harrie hat.png"
+      },
+      "139": {
+        "image": "nonbinary hat.png"
+      },
+      "140": {
+        "image": "ozza hat.png"
+      },
+      "141": {
+        "image": "pansexual hat.png"
+      },
+      "142": {
+        "image": "pastaroni hat.png"
+      },
+      "143": {
+        "image": "ped hat.png"
+      },
+      "144": {
+        "image": "phoebe hat.png"
+      },
+      "145": {
+        "image": "ravs hat.png"
+      },
+      "146": {
+        "image": "razzbowski hat.png"
+      },
+      "147": {
+        "image": "rhythian hat.png"
+      },
+      "148": {
+        "image": "sips hat.png"
+      },
+      "149": {
+        "image": "stumpy hat.png"
+      },
+      "150": {
+        "image": "toby hat.png"
+      },
+      "151": {
+        "image": "tomcraven hat.png"
+      },
+      "152": {
+        "image": "trans_1 hat.png"
+      },
+      "153": {
+        "image": "trans_2 hat.png"
+      },
+      "154": {
+        "image": "trans_3 hat.png"
+      },
+      "155": {
+        "image": "trans_4 hat.png"
+      },
+      "156": {
+        "image": "vikram_1 hat.png"
+      },
+      "157": {
+        "image": "vikram_2 hat.png"
+      },
+      "158": {
+        "image": "wolfabelle hat.png"
+      },
+      "159": {
+        "image": "zeroyalviking hat.png"
+      }
+    }
   }
 }
