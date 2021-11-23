@@ -4,6 +4,10 @@ name: CI
 
 # Controls when the workflow will run
 on:
+  push:
+    branches:
+    - OhMyGuus-patch-1
+    
   workflow_dispatch:
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
@@ -22,6 +26,6 @@ jobs:
       - name: Run a multi-line script
         run: |
           git clone https://github.com/Eisbison/TheOtherHats
-          rmdir -rf THE_OTHER_ROLES
+          rm -rf THE_OTHER_ROLES
           mvdir TheOtherHats/hats/ THE_OTHER_ROLES/
           ls THE_OTHER_ROLES
