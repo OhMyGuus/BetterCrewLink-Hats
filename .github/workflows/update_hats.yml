@@ -35,7 +35,7 @@ jobs:
           rm -rf THE_OTHER_ROLES
           mv TheOtherHats/hats/ THE_OTHER_ROLES/
           ls
-          dotnet GITHUB_ACTIONS/jsonupdater
+          dotnet GITHUB_ACTIONS/jsonupdater.dll
           
 
       - name : Clean 
