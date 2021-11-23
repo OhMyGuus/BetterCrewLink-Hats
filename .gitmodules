@@ -1,0 +1,3 @@
+[submodule "TheOtherHats"]
+	path = TheOtherHats
+	url = https://github.com/Eisbison/TheOtherHats
