@@ -27,5 +27,5 @@ jobs:
         run: |
           git clone https://github.com/Eisbison/TheOtherHats
           rm -rf THE_OTHER_ROLES
-          mvdir TheOtherHats/hats/ THE_OTHER_ROLES/
+          mv TheOtherHats/hats/ THE_OTHER_ROLES/
           ls THE_OTHER_ROLES
