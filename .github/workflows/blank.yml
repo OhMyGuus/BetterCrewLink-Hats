@@ -22,5 +22,6 @@ jobs:
       - name: Run a multi-line script
         run: |
           git clone https://github.com/Eisbison/TheOtherHats
-          mv TheOtherHats/hats/* THE_OTHER_ROLES/*
+          rmdir THE_OTHER_ROLES
+          mvdir TheOtherHats/hats/ THE_OTHER_ROLES/
           ls THE_OTHER_ROLES
