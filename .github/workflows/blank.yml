@@ -36,6 +36,8 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Git commit & push
         run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
           git add . 
           git diff --quiet && git diff --staged --quiet || git commit -am 'Updated hats from other repos'
           git push
