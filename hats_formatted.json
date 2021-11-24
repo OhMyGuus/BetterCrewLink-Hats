@@ -3474,7 +3474,7 @@
     "defaultTop": "-78%",
     "defaultLeft": "-14%",
     "hats": {
-      "hat_hats0000": {
+      "hats0000": {
         "image": "hats0000.png",
         "hat_type": "hats"
       },
@@ -3482,7 +3482,7 @@
         "image": "hats0000.png",
         "hat_type": "hats"
       },
-      "hat_hats0001": {
+      "hats0001": {
         "image": "hats0001.png",
         "hat_type": "hats"
       },
@@ -3490,7 +3490,7 @@
         "image": "hats0001.png",
         "hat_type": "hats"
       },
-      "hat_hats0002": {
+      "hats0002": {
         "image": "hats0002.png",
         "hat_type": "hats"
       },
@@ -3498,7 +3498,7 @@
         "image": "hats0002.png",
         "hat_type": "hats"
       },
-      "hat_hats0003": {
+      "hats0003": {
         "image": "hats0003.png",
         "hat_type": "hats"
       },
@@ -3506,7 +3506,7 @@
         "image": "hats0003.png",
         "hat_type": "hats"
       },
-      "hat_hats0004": {
+      "hats0004": {
         "image": "hats0004.png",
         "hat_type": "hats"
       },
@@ -3514,7 +3514,7 @@
         "image": "hats0004.png",
         "hat_type": "hats"
       },
-      "hat_hats0005": {
+      "hats0005": {
         "image": "hats0005.png",
         "hat_type": "hats"
       },
@@ -3522,7 +3522,7 @@
         "image": "hats0005.png",
         "hat_type": "hats"
       },
-      "hat_hats0006": {
+      "hats0006": {
         "image": "hats0006.png",
         "hat_type": "hats"
       },
@@ -3530,7 +3530,7 @@
         "image": "hats0006.png",
         "hat_type": "hats"
       },
-      "hat_hats0007": {
+      "hats0007": {
         "image": "hats0007.png",
         "hat_type": "hats"
       },
@@ -3538,7 +3538,7 @@
         "image": "hats0007.png",
         "hat_type": "hats"
       },
-      "hat_hats0008": {
+      "hats0008": {
         "image": "hats0008.png",
         "hat_type": "hats"
       },
@@ -3546,7 +3546,7 @@
         "image": "hats0008.png",
         "hat_type": "hats"
       },
-      "hat_hats0009": {
+      "hats0009": {
         "image": "hats0009.png",
         "hat_type": "hats"
       },
@@ -3554,7 +3554,7 @@
         "image": "hats0009.png",
         "hat_type": "hats"
       },
-      "hat_hats0010": {
+      "hats0010": {
         "image": "hats0010.png",
         "hat_type": "hats"
       },
@@ -3562,7 +3562,7 @@
         "image": "hats0010.png",
         "hat_type": "hats"
       },
-      "hat_hats0011": {
+      "hats0011": {
         "image": "hats0011.png",
         "hat_type": "hats"
       },
@@ -3570,7 +3570,7 @@
         "image": "hats0011.png",
         "hat_type": "hats"
       },
-      "hat_hats0012": {
+      "hats0012": {
         "image": "hats0012.png",
         "hat_type": "hats"
       },
@@ -3578,7 +3578,7 @@
         "image": "hats0012.png",
         "hat_type": "hats"
       },
-      "hat_hats0013": {
+      "hats0013": {
         "image": "hats0013.png",
         "hat_type": "hats"
       },
@@ -3586,7 +3586,7 @@
         "image": "hats0013.png",
         "hat_type": "hats"
       },
-      "hat_hats0014": {
+      "hats0014": {
         "image": "hats0014.png",
         "hat_type": "hats"
       },
@@ -3594,7 +3594,7 @@
         "image": "hats0014.png",
         "hat_type": "hats"
       },
-      "hat_hats0015": {
+      "hats0015": {
         "image": "hats0015.png",
         "hat_type": "hats"
       },
@@ -3602,7 +3602,7 @@
         "image": "hats0015.png",
         "hat_type": "hats"
       },
-      "hat_hats0016": {
+      "hats0016": {
         "image": "hats0016.png",
         "hat_type": "hats"
       },
@@ -3610,7 +3610,7 @@
         "image": "hats0016.png",
         "hat_type": "hats"
       },
-      "hat_hats0017": {
+      "hats0017": {
         "image": "hats0017.png",
         "hat_type": "hats"
       },
@@ -3618,7 +3618,7 @@
         "image": "hats0017.png",
         "hat_type": "hats"
       },
-      "hat_hats0018": {
+      "hats0018": {
         "image": "hats0018.png",
         "hat_type": "hats"
       },
@@ -3626,7 +3626,7 @@
         "image": "hats0018.png",
         "hat_type": "hats"
       },
-      "hat_hats0019": {
+      "hats0019": {
         "image": "hats0019.png",
         "hat_type": "hats"
       },
@@ -3634,7 +3634,7 @@
         "image": "hats0019.png",
         "hat_type": "hats"
       },
-      "hat_hats0020": {
+      "hats0020": {
         "image": "hats0020.png",
         "hat_type": "hats"
       },
@@ -3642,7 +3642,7 @@
         "image": "hats0020.png",
         "hat_type": "hats"
       },
-      "hat_hats0021": {
+      "hats0021": {
         "image": "hats0021.png",
         "hat_type": "hats"
       },
@@ -3650,7 +3650,7 @@
         "image": "hats0021.png",
         "hat_type": "hats"
       },
-      "hat_hats0022": {
+      "hats0022": {
         "image": "hats0022.png",
         "hat_type": "hats"
       },
@@ -3658,7 +3658,7 @@
         "image": "hats0022.png",
         "hat_type": "hats"
       },
-      "hat_hats0023": {
+      "hats0023": {
         "image": "hats0023.png",
         "hat_type": "hats"
       },
@@ -3666,7 +3666,7 @@
         "image": "hats0023.png",
         "hat_type": "hats"
       },
-      "hat_hats0024": {
+      "hats0024": {
         "image": "hats0024.png",
         "hat_type": "hats"
       },
@@ -3674,7 +3674,7 @@
         "image": "hats0024.png",
         "hat_type": "hats"
       },
-      "hat_hats0025": {
+      "hats0025": {
         "image": "hats0025.png",
         "hat_type": "hats"
       },
@@ -3682,7 +3682,7 @@
         "image": "hats0025.png",
         "hat_type": "hats"
       },
-      "hat_hats0026": {
+      "hats0026": {
         "image": "hats0026.png",
         "hat_type": "hats"
       },
@@ -3690,7 +3690,7 @@
         "image": "hats0026.png",
         "hat_type": "hats"
       },
-      "hat_hats0027": {
+      "hats0027": {
         "image": "hats0027.png",
         "hat_type": "hats"
       },
@@ -3698,7 +3698,7 @@
         "image": "hats0027.png",
         "hat_type": "hats"
       },
-      "hat_hats0028": {
+      "hats0028": {
         "image": "hats0028.png",
         "hat_type": "hats"
       },
@@ -3706,7 +3706,7 @@
         "image": "hats0028.png",
         "hat_type": "hats"
       },
-      "hat_hats0029": {
+      "hats0029": {
         "image": "hats0029.png",
         "hat_type": "hats"
       },
@@ -3714,7 +3714,7 @@
         "image": "hats0029.png",
         "hat_type": "hats"
       },
-      "hat_hats0030": {
+      "hats0030": {
         "image": "hats0030.png",
         "hat_type": "hats"
       },
@@ -3722,7 +3722,7 @@
         "image": "hats0030.png",
         "hat_type": "hats"
       },
-      "hat_hats0031": {
+      "hats0031": {
         "image": "hats0031.png",
         "hat_type": "hats"
       },
@@ -3730,7 +3730,7 @@
         "image": "hats0031.png",
         "hat_type": "hats"
       },
-      "hat_hats0032": {
+      "hats0032": {
         "image": "hats0032.png",
         "hat_type": "hats"
       },
@@ -3738,7 +3738,7 @@
         "image": "hats0032.png",
         "hat_type": "hats"
       },
-      "hat_hats0033": {
+      "hats0033": {
         "image": "hats0033.png",
         "hat_type": "hats"
       },
@@ -3746,7 +3746,7 @@
         "image": "hats0033.png",
         "hat_type": "hats"
       },
-      "hat_hats0034": {
+      "hats0034": {
         "image": "hats0034.png",
         "hat_type": "hats"
       },
@@ -3754,7 +3754,7 @@
         "image": "hats0034.png",
         "hat_type": "hats"
       },
-      "hat_hats0035": {
+      "hats0035": {
         "image": "hats0035.png",
         "hat_type": "hats"
       },
@@ -3762,7 +3762,7 @@
         "image": "hats0035.png",
         "hat_type": "hats"
       },
-      "hat_hats0036": {
+      "hats0036": {
         "image": "hats0036.png",
         "hat_type": "hats"
       },
@@ -3770,7 +3770,7 @@
         "image": "hats0036.png",
         "hat_type": "hats"
       },
-      "hat_hats0037": {
+      "hats0037": {
         "image": "hats0037.png",
         "hat_type": "hats"
       },
@@ -3778,7 +3778,7 @@
         "image": "hats0037.png",
         "hat_type": "hats"
       },
-      "hat_hats0038": {
+      "hats0038": {
         "image": "hats0038.png",
         "hat_type": "hats"
       },
@@ -3786,7 +3786,7 @@
         "image": "hats0038.png",
         "hat_type": "hats"
       },
-      "hat_hats0039": {
+      "hats0039": {
         "image": "hats0039.png",
         "hat_type": "hats"
       },
@@ -3794,7 +3794,7 @@
         "image": "hats0039.png",
         "hat_type": "hats"
       },
-      "hat_hats0040": {
+      "hats0040": {
         "image": "hats0040.png",
         "hat_type": "hats"
       },
@@ -3802,7 +3802,7 @@
         "image": "hats0040.png",
         "hat_type": "hats"
       },
-      "hat_hats0041": {
+      "hats0041": {
         "image": "hats0041.png",
         "hat_type": "hats"
       },
@@ -3810,7 +3810,7 @@
         "image": "hats0041.png",
         "hat_type": "hats"
       },
-      "hat_hats0042": {
+      "hats0042": {
         "image": "hats0042.png",
         "hat_type": "hats"
       },
@@ -3818,7 +3818,7 @@
         "image": "hats0042.png",
         "hat_type": "hats"
       },
-      "hat_hats0043": {
+      "hats0043": {
         "image": "hats0043.png",
         "hat_type": "hats"
       },
@@ -3826,7 +3826,7 @@
         "image": "hats0043.png",
         "hat_type": "hats"
       },
-      "hat_hats0044": {
+      "hats0044": {
         "image": "hats0044.png",
         "hat_type": "hats"
       },
@@ -3834,7 +3834,7 @@
         "image": "hats0044.png",
         "hat_type": "hats"
       },
-      "hat_hats0045": {
+      "hats0045": {
         "image": "hats0045.png",
         "hat_type": "hats"
       },
@@ -3842,7 +3842,7 @@
         "image": "hats0045.png",
         "hat_type": "hats"
       },
-      "hat_hats0046": {
+      "hats0046": {
         "image": "hats0046.png",
         "hat_type": "hats"
       },
@@ -3850,7 +3850,7 @@
         "image": "hats0046.png",
         "hat_type": "hats"
       },
-      "hat_hats0047": {
+      "hats0047": {
         "image": "hats0047.png",
         "hat_type": "hats"
       },
@@ -3858,7 +3858,7 @@
         "image": "hats0047.png",
         "hat_type": "hats"
       },
-      "hat_hats0048": {
+      "hats0048": {
         "image": "hats0048.png",
         "hat_type": "hats"
       },
@@ -3866,7 +3866,7 @@
         "image": "hats0048.png",
         "hat_type": "hats"
       },
-      "hat_hats0049": {
+      "hats0049": {
         "image": "hats0049.png",
         "hat_type": "hats"
       },
@@ -3874,7 +3874,7 @@
         "image": "hats0049.png",
         "hat_type": "hats"
       },
-      "hat_hats0050": {
+      "hats0050": {
         "image": "hats0050.png",
         "hat_type": "hats"
       },
@@ -3882,7 +3882,7 @@
         "image": "hats0050.png",
         "hat_type": "hats"
       },
-      "hat_hats0051": {
+      "hats0051": {
         "image": "hats0051.png",
         "hat_type": "hats"
       },
@@ -3890,7 +3890,7 @@
         "image": "hats0051.png",
         "hat_type": "hats"
       },
-      "hat_hats0052": {
+      "hats0052": {
         "image": "hats0052.png",
         "hat_type": "hats"
       },
@@ -3898,7 +3898,7 @@
         "image": "hats0052.png",
         "hat_type": "hats"
       },
-      "hat_hats0053": {
+      "hats0053": {
         "image": "hats0053.png",
         "hat_type": "hats"
       },
@@ -3906,7 +3906,7 @@
         "image": "hats0053.png",
         "hat_type": "hats"
       },
-      "hat_hats0054": {
+      "hats0054": {
         "image": "hats0054.png",
         "hat_type": "hats"
       },
@@ -3914,7 +3914,7 @@
         "image": "hats0054.png",
         "hat_type": "hats"
       },
-      "hat_hats0055": {
+      "hats0055": {
         "image": "hats0055.png",
         "hat_type": "hats"
       },
@@ -3922,7 +3922,7 @@
         "image": "hats0055.png",
         "hat_type": "hats"
       },
-      "hat_hats0056": {
+      "hats0056": {
         "image": "hats0056.png",
         "hat_type": "hats"
       },
@@ -3930,7 +3930,7 @@
         "image": "hats0056.png",
         "hat_type": "hats"
       },
-      "hat_hats0057": {
+      "hats0057": {
         "image": "hats0057.png",
         "hat_type": "hats"
       },
@@ -3938,7 +3938,7 @@
         "image": "hats0057.png",
         "hat_type": "hats"
       },
-      "hat_hats0058": {
+      "hats0058": {
         "image": "hats0058.png",
         "hat_type": "hats"
       },
@@ -3946,7 +3946,7 @@
         "image": "hats0058.png",
         "hat_type": "hats"
       },
-      "hat_hats0059": {
+      "hats0059": {
         "image": "hats0059.png",
         "hat_type": "hats"
       },
@@ -3954,7 +3954,7 @@
         "image": "hats0059.png",
         "hat_type": "hats"
       },
-      "hat_hats0060": {
+      "hats0060": {
         "image": "hats0060.png",
         "hat_type": "hats"
       },
@@ -3962,7 +3962,7 @@
         "image": "hats0060.png",
         "hat_type": "hats"
       },
-      "hat_hats0061": {
+      "hats0061": {
         "image": "hats0061.png",
         "hat_type": "hats"
       },
@@ -3970,7 +3970,7 @@
         "image": "hats0061.png",
         "hat_type": "hats"
       },
-      "hat_hats0062": {
+      "hats0062": {
         "image": "hats0062.png",
         "hat_type": "hats"
       },
@@ -3978,7 +3978,7 @@
         "image": "hats0062.png",
         "hat_type": "hats"
       },
-      "hat_hats0063": {
+      "hats0063": {
         "image": "hats0063.png",
         "hat_type": "hats"
       },
@@ -3986,7 +3986,7 @@
         "image": "hats0063.png",
         "hat_type": "hats"
       },
-      "hat_hats0064": {
+      "hats0064": {
         "image": "hats0064.png",
         "hat_type": "hats"
       },
@@ -3994,7 +3994,7 @@
         "image": "hats0064.png",
         "hat_type": "hats"
       },
-      "hat_hats0065": {
+      "hats0065": {
         "image": "hats0065.png",
         "hat_type": "hats"
       },
@@ -4002,7 +4002,7 @@
         "image": "hats0065.png",
         "hat_type": "hats"
       },
-      "hat_hats0066": {
+      "hats0066": {
         "image": "hats0066.png",
         "hat_type": "hats"
       },
@@ -4010,7 +4010,7 @@
         "image": "hats0066.png",
         "hat_type": "hats"
       },
-      "hat_hats0067": {
+      "hats0067": {
         "image": "hats0067.png",
         "hat_type": "hats"
       },
@@ -4018,7 +4018,7 @@
         "image": "hats0067.png",
         "hat_type": "hats"
       },
-      "hat_hats0068": {
+      "hats0068": {
         "image": "hats0068.png",
         "hat_type": "hats"
       },
@@ -4026,7 +4026,7 @@
         "image": "hats0068.png",
         "hat_type": "hats"
       },
-      "hat_hats0069": {
+      "hats0069": {
         "image": "hats0069.png",
         "hat_type": "hats"
       },
@@ -4034,7 +4034,7 @@
         "image": "hats0069.png",
         "hat_type": "hats"
       },
-      "hat_hats0070": {
+      "hats0070": {
         "image": "hats0070.png",
         "hat_type": "hats"
       },
@@ -4042,7 +4042,7 @@
         "image": "hats0070.png",
         "hat_type": "hats"
       },
-      "hat_hats0071": {
+      "hats0071": {
         "image": "hats0071.png",
         "hat_type": "hats"
       },
@@ -4050,7 +4050,7 @@
         "image": "hats0071.png",
         "hat_type": "hats"
       },
-      "hat_hats0072": {
+      "hats0072": {
         "image": "hats0072.png",
         "hat_type": "hats"
       },
@@ -4058,7 +4058,7 @@
         "image": "hats0072.png",
         "hat_type": "hats"
       },
-      "hat_hats0073": {
+      "hats0073": {
         "image": "hats0073.png",
         "hat_type": "hats"
       },
@@ -4066,7 +4066,7 @@
         "image": "hats0073.png",
         "hat_type": "hats"
       },
-      "hat_hats0074": {
+      "hats0074": {
         "image": "hats0074.png",
         "hat_type": "hats"
       },
@@ -4074,7 +4074,7 @@
         "image": "hats0074.png",
         "hat_type": "hats"
       },
-      "hat_hats0075": {
+      "hats0075": {
         "image": "hats0075.png",
         "hat_type": "hats"
       },
@@ -4082,7 +4082,7 @@
         "image": "hats0075.png",
         "hat_type": "hats"
       },
-      "hat_hats0076": {
+      "hats0076": {
         "image": "hats0076.png",
         "hat_type": "hats"
       },
@@ -4090,7 +4090,7 @@
         "image": "hats0076.png",
         "hat_type": "hats"
       },
-      "hat_hats0077": {
+      "hats0077": {
         "image": "hats0077.png",
         "hat_type": "hats"
       },
@@ -4098,7 +4098,7 @@
         "image": "hats0077.png",
         "hat_type": "hats"
       },
-      "hat_misc0000": {
+      "misc0000": {
         "image": "misc0000.png",
         "hat_type": "hats"
       },
@@ -4106,7 +4106,7 @@
         "image": "misc0000.png",
         "hat_type": "hats"
       },
-      "hat_misc0007": {
+      "misc0007": {
         "image": "misc0007.png",
         "hat_type": "hats"
       },
@@ -4114,7 +4114,7 @@
         "image": "misc0007.png",
         "hat_type": "hats"
       },
-      "hat_misc0008": {
+      "misc0008": {
         "image": "misc0008.png",
         "hat_type": "hats"
       },
@@ -4122,7 +4122,7 @@
         "image": "misc0008.png",
         "hat_type": "hats"
       },
-      "hat_misc0009": {
+      "misc0009": {
         "image": "misc0009.png",
         "hat_type": "hats"
       },
@@ -4130,7 +4130,7 @@
         "image": "misc0009.png",
         "hat_type": "hats"
       },
-      "hat_misc0010": {
+      "misc0010": {
         "image": "misc0010.png",
         "hat_type": "hats"
       },
@@ -4138,7 +4138,7 @@
         "image": "misc0010.png",
         "hat_type": "hats"
       },
-      "hat_misc0011": {
+      "misc0011": {
         "image": "misc0011.png",
         "hat_type": "hats"
       },
@@ -4146,7 +4146,7 @@
         "image": "misc0011.png",
         "hat_type": "hats"
       },
-      "hat_misc0020": {
+      "misc0020": {
         "image": "misc0020.png",
         "hat_type": "hats"
       },
@@ -4154,7 +4154,7 @@
         "image": "misc0020.png",
         "hat_type": "hats"
       },
-      "hat_misc0021": {
+      "misc0021": {
         "image": "misc0021.png",
         "hat_type": "hats"
       },
@@ -4162,7 +4162,7 @@
         "image": "misc0021.png",
         "hat_type": "hats"
       },
-      "hat_misc0022": {
+      "misc0022": {
         "image": "misc0022.png",
         "hat_type": "hats"
       },
@@ -4170,7 +4170,7 @@
         "image": "misc0022.png",
         "hat_type": "hats"
       },
-      "hat_myhats0016": {
+      "myhats0016": {
         "image": "myhats0016.png",
         "hat_type": "hats"
       },
@@ -4178,7 +4178,7 @@
         "image": "myhats0016.png",
         "hat_type": "hats"
       },
-      "hat_standard0003": {
+      "standard0003": {
         "image": "standard0003.png",
         "hat_type": "hats"
       },
@@ -4186,7 +4186,7 @@
         "image": "standard0003.png",
         "hat_type": "hats"
       },
-      "hat_standard0006": {
+      "standard0006": {
         "image": "standard0006.png",
         "hat_type": "hats"
       },
@@ -4194,7 +4194,7 @@
         "image": "standard0006.png",
         "hat_type": "hats"
       },
-      "hat_standard0011": {
+      "standard0011": {
         "image": "standard0011.png",
         "hat_type": "hats"
       },
@@ -4202,7 +4202,7 @@
         "image": "standard0011.png",
         "hat_type": "hats"
       },
-      "hat_standard0012": {
+      "standard0012": {
         "image": "standard0012.png",
         "hat_type": "hats"
       },
@@ -4210,7 +4210,7 @@
         "image": "standard0012.png",
         "hat_type": "hats"
       },
-      "hat_standard0014": {
+      "standard0014": {
         "image": "standard0014.png",
         "hat_type": "hats"
       },
@@ -4218,7 +4218,7 @@
         "image": "standard0014.png",
         "hat_type": "hats"
       },
-      "hat_standard0015": {
+      "standard0015": {
         "image": "standard0015.png",
         "hat_type": "hats"
       },
@@ -4226,7 +4226,7 @@
         "image": "standard0015.png",
         "hat_type": "hats"
       },
-      "hat_standard0017": {
+      "standard0017": {
         "image": "standard0017.png",
         "hat_type": "hats"
       },
@@ -4234,7 +4234,7 @@
         "image": "standard0017.png",
         "hat_type": "hats"
       },
-      "hat_standard0018": {
+      "standard0018": {
         "image": "standard0018.png",
         "hat_type": "hats"
       },
@@ -4242,7 +4242,7 @@
         "image": "standard0018.png",
         "hat_type": "hats"
       },
-      "hat_standard0022": {
+      "standard0022": {
         "image": "standard0022.png",
         "hat_type": "hats"
       },
@@ -4250,7 +4250,7 @@
         "image": "standard0022.png",
         "hat_type": "hats"
       },
-      "hat_standard0024": {
+      "standard0024": {
         "image": "standard0024.png",
         "hat_type": "hats"
       },
@@ -4258,7 +4258,7 @@
         "image": "standard0024.png",
         "hat_type": "hats"
       },
-      "hat_standard0029": {
+      "standard0029": {
         "image": "standard0029.png",
         "hat_type": "hats"
       },
@@ -4266,7 +4266,7 @@
         "image": "standard0029.png",
         "hat_type": "hats"
       },
-      "hat_standard0030": {
+      "standard0030": {
         "image": "standard0030.png",
         "hat_type": "hats"
       },
@@ -4274,7 +4274,7 @@
         "image": "standard0030.png",
         "hat_type": "hats"
       },
-      "hat_standard0034": {
+      "standard0034": {
         "image": "standard0034.png",
         "hat_type": "hats"
       },
@@ -4282,7 +4282,7 @@
         "image": "standard0034.png",
         "hat_type": "hats"
       },
-      "hat_standard0035": {
+      "standard0035": {
         "image": "standard0035.png",
         "hat_type": "hats"
       },
@@ -4290,7 +4290,7 @@
         "image": "standard0035.png",
         "hat_type": "hats"
       },
-      "hat_standard0036": {
+      "standard0036": {
         "image": "standard0036.png",
         "hat_type": "hats"
       },
@@ -4298,7 +4298,7 @@
         "image": "standard0036.png",
         "hat_type": "hats"
       },
-      "hat_standard0038": {
+      "standard0038": {
         "image": "standard0038.png",
         "hat_type": "hats"
       },
