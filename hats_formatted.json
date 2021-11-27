@@ -3466,6 +3466,11 @@
         "image": "bloodymary.png",
         "multi_color": false,
         "hat_type": "hats"
+      },
+      "hat_Sheep": {
+        "image": "Sheep_adaptive.png",
+        "multi_color": true,
+        "hat_type": "hats"
       }
     }
   },
