@@ -3208,7 +3208,7 @@
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Catshee": {
+      "hat_Huschee": {
         "image": "Catshee.png",
         "back_image": "Catshee_back.png",
         "multi_color": false,
@@ -3469,6 +3469,44 @@
       },
       "hat_Sheep": {
         "image": "Sheep_adaptive.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_BehaartMitBart": {
+        "image": "BehaartMitBart.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Dwarf": {
+        "image": "Dwarf_adaptive.png",
+        "back_image": "Dwarf_back_adaptive.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_bluecat": {
+        "image": "bluecat_bounce.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_drpflanze": {
+        "image": "drpflanze.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Terste": {
+        "image": "Terste.png",
+        "back_image": "Terste_back.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_bob": {
+        "image": "bob.png",
+        "back_image": "bob_back.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_present": {
+        "image": "present_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       }
