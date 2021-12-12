@@ -3509,6 +3509,57 @@
         "image": "present_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
+      },
+      "hat_monkey": {
+        "image": "monkey_adaptive.png",
+        "back_image": "monkey_back_adaptive.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_Mushroom": {
+        "image": "Mushroom_adaptive.png",
+        "back_image": "Mushroom_adaptive_back.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_bookhander": {
+        "image": "bookhander_adaptive_bounce.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_BlindArkia": {
+        "image": "BlindArkia_adaptive.png",
+        "back_image": "BlindArkia_adaptive_back.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_AngryBush": {
+        "image": "AngryBush.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_TheLoaded": {
+        "image": "TheLoaded_adaptive.png",
+        "back_image": "TheLoaded_adaptive_back.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_Paperbaghat": {
+        "image": "Paperbaghat_adaptive.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_Enchanter": {
+        "image": "Enchanter_adaptive.png",
+        "back_image": "Enchanter_adaptive_back.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_Cactus": {
+        "image": "Cactus_adaptive.png",
+        "back_image": "Cactus_back_adaptive.png",
+        "multi_color": true,
+        "hat_type": "hats"
       }
     }
   },
