@@ -425,6 +425,11 @@
         "hat_type": "hats",
         "asset_name": "pk05_GeoffreyToppat"
       },
+      "hat_pk05_RHM": {
+        "back_image": "hat_pack03_RHM0001.png",
+        "hat_type": "hats",
+        "asset_name": "pk05_RHM"
+      },
       "hat_Chocolate": {
         "image": "hat_pack06_Chocolate0001.png",
         "hat_type": "hats",
@@ -1463,7 +1468,6 @@
       },
       "hat_heim": {
         "image": "hat_arcane_Heimerdinger0001.png",
-        "back_image": "hat_arcane_Heimerdinger0004.png",
         "hat_type": "hats",
         "asset_name": "hat_ArcaneHeimerdinger"
       },
@@ -1476,6 +1480,175 @@
         "image": "hat_arcane_Jinx0001.png",
         "hat_type": "hats",
         "asset_name": "hat_ArcaneJinx"
+      },
+      "hat_w21_candycane_blue": {
+        "image": "W2021JHat_candycane-Blueberry0001.png",
+        "hat_type": "hats",
+        "asset_name": "hat_Candycane-Blueberry"
+      },
+      "hat_w21_candycane_bubble": {
+        "image": "W2021JHat_candycane-Bubblegum0001.png",
+        "hat_type": "hats",
+        "asset_name": "hat_Candycane-Bubblegum"
+      },
+      "hat_w21_candycane_chocolate": {
+        "image": "W2021JHat_candycane-ChocolateMint0001.png",
+        "hat_type": "hats",
+        "asset_name": "hat_Candycane-Chocolate"
+      },
+      "hat_w21_candycane_mint": {
+        "image": "W2021JHat_candycane-Mint0001.png",
+        "hat_type": "hats",
+        "asset_name": "hat_Candycane-Mint"
+      },
+      "hat_w21_elf_pink": {
+        "image": "W2021Hat_Elf-Pink0001.png",
+        "hat_type": "hats",
+        "asset_name": "hat_elf-Pink"
+      },
+      "hat_w21_elf_swe": {
+        "image": "W2021Hat_Elf-Swe0001.png",
+        "hat_type": "hats",
+        "asset_name": "hat_elf-Swe"
+      },
+      "hat_w21_lights_yellow": {
+        "back_image": "W2021Hat_Lights-Yellow0001.png",
+        "hat_type": "hats",
+        "asset_name": "hat_Lights-Yellow"
+      },
+      "hat_w21_lights_white": {
+        "image": "W2021Hat_Lights-White0001.png",
+        "hat_type": "hats",
+        "asset_name": "hat_lights_White"
+      },
+      "hat_w21_present_evil": {
+        "image": "W2021Hat_Present-RedBlack0001.png",
+        "hat_type": "hats",
+        "asset_name": "hat_Present-Evil"
+      },
+      "hat_w21_present_greenyellow": {
+        "image": "W2021Hat-GreenYellow0001.png",
+        "hat_type": "hats",
+        "asset_name": "hat_present-GreenYellow"
+      },
+      "hat_w21_present_redwhite": {
+        "image": "W2021Hat_Present-RedWhite0001.png",
+        "hat_type": "hats",
+        "asset_name": "hat_Present-Redwhite"
+      },
+      "hat_w21_present_whiteblue": {
+        "image": "W2021Hat_Present-WhiteBlue0001.png",
+        "hat_type": "hats",
+        "asset_name": "hat_Present-Whiteblue"
+      },
+      "hat_w21_santa_evil": {
+        "image": "W2021Hat_Santa-Evil0001.png",
+        "hat_type": "hats",
+        "asset_name": "hat_Santa-Evil"
+      },
+      "hat_w21_santa_green": {
+        "image": "W2021Hat_Santa-Green0001.png",
+        "hat_type": "hats",
+        "asset_name": "hat_santa-Green"
+      },
+      "hat_w21_santa_mint": {
+        "image": "W2021Hat_Santa-Mint0001.png",
+        "hat_type": "hats",
+        "asset_name": "hat_Santa-Mint"
+      },
+      "hat_w21_santa_pink": {
+        "image": "W2021Hat_Santa-Pink0001.png",
+        "hat_type": "hats",
+        "asset_name": "hat_Santa-Pink"
+      },
+      "hat_w21_santa_white": {
+        "image": "W2021Hat_Santa-Spearmint0001.png",
+        "hat_type": "hats",
+        "asset_name": "hat_Santa-White"
+      },
+      "hat_w21_santa_yellow": {
+        "image": "W2021Hat_Santa-Gold0001.png",
+        "hat_type": "hats",
+        "asset_name": "hat_Santa-Yellow"
+      },
+      "hat_w21_snowman_evil": {
+        "image": "W2021Hat_Snowman-Evil0001.png",
+        "hat_type": "hats",
+        "asset_name": "hat_snowman-Evil"
+      },
+      "hat_w21_snowman_greenred": {
+        "image": "W2021Hat_Snowman-Greenhat0001.png",
+        "hat_type": "hats",
+        "asset_name": "hat_snowman-Greenred"
+      },
+      "hat_w21_snowman_redgreen": {
+        "image": "W2021Hat_Snowman-RednGreen0001.png",
+        "hat_type": "hats",
+        "asset_name": "hat_snowman-greenred 1"
+      },
+      "hat_w21_snowman_swe": {
+        "image": "W2021Hat_Snowman-bluenYellow0001.png",
+        "hat_type": "hats",
+        "asset_name": "hat_snowman-Swe"
+      },
+      "hat_w21_gingerbread": {
+        "image": "hat_holi2021_gingerbreadCrew0001.png",
+        "hat_type": "hats",
+        "asset_name": "W2021hat_Gingerbread"
+      },
+      "hat_w21_holly": {
+        "image": "hat_holi2021_holly0001.png",
+        "hat_type": "hats",
+        "asset_name": "W2021hat_Holly"
+      },
+      "hat_w21_krampus": {
+        "image": "hat_holi2021_krampus0001.png",
+        "back_image": "hat_holi2021_krampus0004.png",
+        "hat_type": "hats",
+        "asset_name": "W2021hat_Krampus"
+      },
+      "hat_w21_log": {
+        "image": "hat_holi2021_logBirch0001.png",
+        "hat_type": "hats",
+        "asset_name": "W2021hat_Log"
+      },
+      "hat_w21_mistletoe": {
+        "image": "hat_holi2021_mistletoe0001.png",
+        "back_image": "hat_holi2021_mistletoe0004.png",
+        "hat_type": "hats",
+        "asset_name": "W2021hat_MistleToe"
+      },
+      "hat_w21_mittens": {
+        "image": "hat_holi2021_mittens0001.png",
+        "back_image": "hat_holi2021_mittens0004.png",
+        "hat_type": "hats",
+        "asset_name": "W2021hat_Mittens"
+      },
+      "hat_w21_nutcracker": {
+        "image": "hat_holi2021_nutcracker0001.png",
+        "back_image": "hat_holi2021_nutcracker0004.png",
+        "hat_type": "hats",
+        "asset_name": "W2021hat_Nutcracker"
+      },
+      "hat_w21_pinecone": {
+        "image": "hat_holi2021_pinecone0001.png",
+        "hat_type": "hats",
+        "asset_name": "W2021hat_Pinecone"
+      },
+      "hat_w21_snowflake": {
+        "image": "hat_holi2021_snowflakeBand0001.png",
+        "hat_type": "hats",
+        "asset_name": "W2021hat_Snowflake"
+      },
+      "hat_w21_snowman": {
+        "back_image": "hat_holi2021_frostyTophat0001.png",
+        "hat_type": "hats",
+        "asset_name": "W2021hat_Snowman"
+      },
+      "hat_w21_winterpuff": {
+        "image": "hat_holi2021_pomBeanie0001.png",
+        "hat_type": "hats",
+        "asset_name": "W2021hat_Winterpuff"
       },
       "skin_None": {
         "hat_type": "skins",
@@ -1836,6 +2009,41 @@
         "hat_type": "skins",
         "asset_name": "Viskin"
       },
+      "skin_w21_tree": {
+        "image": "W2021Tree_Idle.png.png",
+        "hat_type": "skins",
+        "asset_name": "Treeskinskin"
+      },
+      "skin_w21_deer": {
+        "image": "W2021Reindeer_Idle.png",
+        "hat_type": "skins",
+        "asset_name": "Deerskin"
+      },
+      "skin_w21_elf": {
+        "image": "W2021Elf_Idle.png",
+        "hat_type": "skins",
+        "asset_name": "Elfskin"
+      },
+      "skin_w21_msclaus": {
+        "image": "W2021MsClaus_Idle.png",
+        "hat_type": "skins",
+        "asset_name": "MsClausskin"
+      },
+      "skin_w21_nutcracker": {
+        "image": "W2021Nutcracker_Idle.png",
+        "hat_type": "skins",
+        "asset_name": "Nutcrackerskin"
+      },
+      "skin_w21_santa": {
+        "image": "W2021Santa_Idle.png",
+        "hat_type": "skins",
+        "asset_name": "Santaskin"
+      },
+      "skin_w21_snowmate": {
+        "image": "W2021Snowmate_Idle.png",
+        "hat_type": "skins",
+        "asset_name": "Snowmateskin"
+      },
       "visor_EmptyVisor": {
         "hat_type": "visors",
         "asset_name": "EmptyVisor"
@@ -2179,6 +2387,26 @@
         "image": "visor_arcane_jinx0001.png",
         "hat_type": "visors",
         "asset_name": "vis_ArcaneJinx"
+      },
+      "visor_w21_nye": {
+        "image": "vis_NY2122_HNYglasses0001.png",
+        "hat_type": "visors",
+        "asset_name": "vis_NYE2022"
+      },
+      "visor_w21_carrot": {
+        "image": "vis_holi2021_CarrotNose0001.png",
+        "hat_type": "visors",
+        "asset_name": "w2021Vis_Carrot"
+      },
+      "visor_w21_nutstache": {
+        "image": "vis_holi2021_NutcrackerStache0001.png",
+        "hat_type": "visors",
+        "asset_name": "W2021Vis_Nutstache"
+      },
+      "visor_w21_santabeard": {
+        "image": "vis_holi2021_SantaBeard0001.png",
+        "hat_type": "visors",
+        "asset_name": "W2021Vis_Santabeard"
       }
     }
   },
