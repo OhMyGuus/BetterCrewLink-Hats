@@ -3788,6 +3788,119 @@
         "back_image": "Cactus_back_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
+      },
+      "hat_Hacker": {
+        "image": "Hacker_adaptive.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_ElementEearth": {
+        "image": "ElementEearth.png",
+        "back_image": "ElementEearth_back.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Hsky": {
+        "image": "Hsky_adaptive.png",
+        "back_image": "Hsky_back_adaptive.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_Squirrel": {
+        "image": "Squirrel_adaptive.png",
+        "back_image": "Squirrel_back_adaptive.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_IrishGoblin": {
+        "image": "IrishGoblin.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Octopus2": {
+        "image": "Octopus2_adaptive.png",
+        "back_image": "Octopus2_adaptive_back.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_Traveller": {
+        "image": "Traveller_adaptive.png",
+        "back_image": "Traveller_adaptive_back.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_DinoRider": {
+        "image": "DinoRider_adaptive_bounce.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_Umbrella2": {
+        "image": "Umbrella2_adaptive.png",
+        "back_image": "Umbrella2_adaptive_back.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_ElementFire": {
+        "image": "ElementFire.png",
+        "back_image": "ElementFire_back.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Villain": {
+        "image": "Villain_adaptive.png",
+        "back_image": "Villain_back_adaptive.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_Witch": {
+        "image": "Witch.png",
+        "back_image": "Witch_back.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_ElementAir": {
+        "image": "ElementAir.png",
+        "back_image": "ElementAir_back.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Safari": {
+        "image": "Safari_adaptive.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_ElementWater": {
+        "image": "ElementWater.png",
+        "back_image": "ElementWater_back.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Poet": {
+        "image": "Poet_adaptive.png",
+        "back_image": "Poet_back_adaptive.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_Poncho": {
+        "image": "Poncho_adaptive.png",
+        "back_image": "Poncho_back_adaptive.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_Footballbrown": {
+        "image": "Footballbrown_bounce.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Scarf": {
+        "image": "Scarf_adaptive.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_Circusdirector": {
+        "image": "Circusdirector.png",
+        "multi_color": false,
+        "hat_type": "hats"
       }
     }
   },
