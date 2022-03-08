@@ -3901,6 +3901,80 @@
         "image": "Circusdirector.png",
         "multi_color": false,
         "hat_type": "hats"
+      },
+      "hat_BottlePost": {
+        "image": "BottlePost_adaptive.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_Coffee": {
+        "image": "Coffee_adaptive.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_daruma": {
+        "image": "daruma_adaptive.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_Fox": {
+        "image": "Fox_adaptive.png",
+        "back_image": "Fox_adaptive_back.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_Genie": {
+        "image": "Genie_adaptive.png",
+        "back_image": "Genie_back_adaptive.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_Gentleman": {
+        "image": "Gentleman_adaptive.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_Handcuffs": {
+        "image": "Handcuffs_adaptive.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_ImAUnicorn": {
+        "image": "ImAUnicorn.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Rollator": {
+        "image": "Rollator_adaptive.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_Shaman": {
+        "image": "Shaman_adaptive.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_Snake": {
+        "image": "Snake_adaptive.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_Superhero": {
+        "image": "Superhero.png",
+        "back_image": "Superhero_back.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_TakeMyMoney": {
+        "image": "TakeMyMoney_adaptive.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_Timit_Fluffy": {
+        "image": "TimitFluffy.png",
+        "back_image": "TimitFluffy_back.png",
+        "multi_color": false,
+        "hat_type": "hats"
       }
     }
   },
