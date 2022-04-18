@@ -27,10 +27,16 @@ jobs:
           dotnet-version: '6.0.x'
            
       # Clone the repos that the hats updater is going to use
-      - name: Clone repos 
+      - name: Clone The other roles 
         run: |
           rm -rf THE_OTHER_ROLES
           git clone https://github.com/Eisbison/TheOtherHats
+          
+      - name: Clone Town of us 
+        run: |
+          git clone https://github.com/eDonnes124/Town-Of-Us-R
+          rm -rf TOWN_OF_US/*
+          mv Town-Of-Us-R/source/Resources/Hats/*.png TOWN_OF_US/
 
 
       # Run updater  that copies the files & updates the json  
@@ -42,6 +48,7 @@ jobs:
       - name : Clean 
         run: | 
           rm -rf TheOtherHats
+          rm -rf Town-Of-Us-R
 
       # Push and commit 
       - name: Git commit & push
