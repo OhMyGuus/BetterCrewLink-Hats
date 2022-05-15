@@ -4028,6 +4028,76 @@
         "back_image": "cat2_back_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
+      },
+      "hat_K3ndo": {
+        "image": "K3ndo_adaptive.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_Sykkuno": {
+        "image": "Sykkuno.png",
+        "back_image": "Sykkuno_back.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_GeorgeWashington": {
+        "image": "GeorgeWashington.png",
+        "back_image": "GeorgeWashington_back.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Bomb": {
+        "image": "Bomb_adaptive.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_Future": {
+        "image": "Future_adaptive.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_Electric": {
+        "image": "Electric_adaptive.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_Chef": {
+        "image": "Chef_adaptive.png",
+        "back_image": "Chef_adaptive_back.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_Beethoven": {
+        "image": "Beethoven_adaptive.png",
+        "back_image": "Beethoven_adaptive_back.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_coala": {
+        "image": "coala_adaptive.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_DisguisedToast": {
+        "image": "DisguisedToast.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Rogue": {
+        "image": "Rogue_adaptive.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_Newton": {
+        "image": "Newton_adaptive.png",
+        "back_image": "Newton_adaptive_back.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_Newspaper2": {
+        "image": "Newspaper2_adaptive.png",
+        "multi_color": true,
+        "hat_type": "hats"
       }
     }
   },
