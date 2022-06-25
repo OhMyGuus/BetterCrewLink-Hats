@@ -3064,11 +3064,6 @@
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Spartan": {
-        "image": "spartan_bounce_adaptive.png",
-        "multi_color": true,
-        "hat_type": "hats"
-      },
       "hat_Barbarian": {
         "image": "Barbarian_adaptive.png",
         "multi_color": true,
@@ -4096,6 +4091,53 @@
       },
       "hat_Newspaper2": {
         "image": "Newspaper2_adaptive.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_Bear": {
+        "image": "bear_adaptive.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_Plant": {
+        "image": "Plant_adaptive.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_SpecialOps": {
+        "image": "SpecialOps_adaptive.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_badtime": {
+        "image": "badtime_bounce.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Action": {
+        "image": "Action_adaptive.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_Fly": {
+        "image": "Fly_adaptive.png",
+        "back_image": "Fly_adaptive_back.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_GrimReaper": {
+        "image": "GrimReaper_adaptive.png",
+        "back_image": "GrimReaper_adaptive_back.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_5upScarf": {
+        "image": "5upScarf_adaptive_bounce.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_SmeggyTV": {
+        "image": "smeggytv_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       }
