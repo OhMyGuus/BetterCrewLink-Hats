@@ -4056,12 +4056,6 @@
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Chef": {
-        "image": "Chef_adaptive.png",
-        "back_image": "Chef_adaptive_back.png",
-        "multi_color": true,
-        "hat_type": "hats"
-      },
       "hat_Beethoven": {
         "image": "Beethoven_adaptive.png",
         "back_image": "Beethoven_adaptive_back.png",
@@ -4144,6 +4138,68 @@
       "hat_Mirana": {
         "image": "Mirana_bounce.png",
         "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Magictrick": {
+        "image": "Magictrick_adaptive.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_Chef": {
+        "image": "Chef_adaptive.png",
+        "back_image": "Chef_adaptive_back.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_Skullanas": {
+        "image": "Skullanas.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_TimeMaster": {
+        "image": "TimeMaster.png",
+        "back_image": "TimeMaster_back.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_zuali": {
+        "image": "zuali_adaptive.png",
+        "back_image": "zuali_adaptive_back.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_Homeless": {
+        "image": "Homeless.png",
+        "back_image": "Homeless_back.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Paladin": {
+        "image": "Paladin.png",
+        "back_image": "Paladin_back.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Yokeshi": {
+        "image": "Yokeshi.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_valkyrae": {
+        "image": "valkyrae.png",
+        "back_image": "valkyrae_back.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_GentlemanWhite": {
+        "image": "GentlemanWhite_adaptive.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_UFO": {
+        "image": "UFO_adaptive.png",
+        "back_image": "UFO_adaptive_back.png",
+        "multi_color": true,
         "hat_type": "hats"
       }
     }
