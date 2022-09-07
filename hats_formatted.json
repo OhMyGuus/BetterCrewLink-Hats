@@ -6969,11 +6969,19 @@
         "image": "standard0042.png",
         "hat_type": "hats"
       },
+      "standard0043": {
+        "image": "standard0043.png",
+        "hat_type": "hats"
+      },
+      "461": {
+        "image": "standard0043.png",
+        "hat_type": "hats"
+      },
       "transparent": {
         "image": "transparent.png",
         "hat_type": "hats"
       },
-      "461": {
+      "462": {
         "image": "transparent.png",
         "hat_type": "hats"
       }
