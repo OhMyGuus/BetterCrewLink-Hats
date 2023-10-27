@@ -2435,17 +2435,6 @@
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Long_Brown": {
-        "image": "LongBrown.png",
-        "back_image": "LongBrown_back.png",
-        "multi_color": false,
-        "hat_type": "hats"
-      },
-      "hat_DJ": {
-        "image": "dj.png",
-        "multi_color": false,
-        "hat_type": "hats"
-      },
       "hat_Bulb": {
         "image": "bulb_adaptive.png",
         "multi_color": true,
@@ -2455,16 +2444,6 @@
         "image": "duck_bounce.png",
         "back_image": "duck_back.png",
         "multi_color": false,
-        "hat_type": "hats"
-      },
-      "hat_Towel": {
-        "image": "towel_adaptive.png",
-        "multi_color": true,
-        "hat_type": "hats"
-      },
-      "hat_Cat_Ears": {
-        "image": "catEars_adaptive.png",
-        "multi_color": true,
         "hat_type": "hats"
       },
       "hat_Leaf": {
@@ -2483,19 +2462,9 @@
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Shark": {
-        "image": "shark.png",
-        "multi_color": false,
-        "hat_type": "hats"
-      },
       "hat_Old_Man": {
         "image": "OldMan.png",
         "back_image": "OldMan_back.png",
-        "multi_color": false,
-        "hat_type": "hats"
-      },
-      "hat_Traffic_Cone": {
-        "image": "TrafficCone_bounce.png",
         "multi_color": false,
         "hat_type": "hats"
       },
@@ -2588,19 +2557,9 @@
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Strawhat": {
-        "image": "1_strawhat.png",
-        "multi_color": false,
-        "hat_type": "hats"
-      },
       "hat_Samurai": {
         "image": "samurai.png",
         "multi_color": false,
-        "hat_type": "hats"
-      },
-      "hat_Fisherman": {
-        "image": "Fisherman_adaptive.png",
-        "multi_color": true,
         "hat_type": "hats"
       },
       "hat_Roseflowers": {
@@ -2638,12 +2597,6 @@
         "image": "AngelN_bounce.png",
         "back_image": "AngelN_back.png",
         "multi_color": false,
-        "hat_type": "hats"
-      },
-      "hat_Hairband": {
-        "image": "hairband_adaptive.png",
-        "back_image": "hairband_back.png",
-        "multi_color": true,
         "hat_type": "hats"
       },
       "hat_Feeling_Cute": {
@@ -2768,11 +2721,6 @@
       },
       "hat_Flower_Crown": {
         "image": "flowercrown.png",
-        "multi_color": false,
-        "hat_type": "hats"
-      },
-      "hat_Whale": {
-        "image": "Whale.png",
         "multi_color": false,
         "hat_type": "hats"
       },
@@ -3036,20 +2984,10 @@
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Firefighter": {
-        "image": "Firefighter_adaptive.png",
-        "multi_color": true,
-        "hat_type": "hats"
-      },
       "hat_Robot": {
         "image": "Robot_adaptive.png",
         "back_image": "Robot_back.png",
         "multi_color": true,
-        "hat_type": "hats"
-      },
-      "hat_Panda": {
-        "image": "Panda.png",
-        "multi_color": false,
         "hat_type": "hats"
       },
       "hat_Dino2": {
@@ -3061,11 +2999,6 @@
       "hat_Professor": {
         "image": "Professor_adaptive.png",
         "back_image": "Professor_back.png",
-        "multi_color": true,
-        "hat_type": "hats"
-      },
-      "hat_Barbarian": {
-        "image": "Barbarian_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
@@ -3088,12 +3021,6 @@
         "image": "towel2_bounce_adaptive.png",
         "back_image": "empty.png",
         "multi_color": true,
-        "hat_type": "hats"
-      },
-      "hat_City_Watch": {
-        "image": "city-watch.png",
-        "back_image": "city-watch_back.png",
-        "multi_color": false,
         "hat_type": "hats"
       },
       "hat_Tentacle": {
@@ -3152,11 +3079,6 @@
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Anihair": {
-        "image": "anihair.png",
-        "multi_color": false,
-        "hat_type": "hats"
-      },
       "hat_McFly": {
         "image": "McFly_adaptive.png",
         "back_image": "McFly_back.png",
@@ -3184,7 +3106,7 @@
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Pineapple": {
+      "hat_Pineapple_2": {
         "image": "pineapple.png",
         "multi_color": false,
         "hat_type": "hats"
@@ -3231,11 +3153,6 @@
       },
       "hat_Donut": {
         "image": "donut_bounce.png",
-        "multi_color": false,
-        "hat_type": "hats"
-      },
-      "hat_Octopus": {
-        "image": "octopus_bounce.png",
         "multi_color": false,
         "hat_type": "hats"
       },
@@ -3503,11 +3420,6 @@
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Racing": {
-        "image": "Racing_adaptive.png",
-        "multi_color": true,
-        "hat_type": "hats"
-      },
       "hat_Armor": {
         "image": "Armor.png",
         "back_image": "Armor_back.png",
@@ -3546,12 +3458,6 @@
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Banner": {
-        "image": "Banner.png",
-        "back_image": "Banner_back.png",
-        "multi_color": false,
-        "hat_type": "hats"
-      },
       "hat_Cleaner": {
         "image": "Cleaner.png",
         "back_image": "Cleaner_back.png",
@@ -3584,11 +3490,6 @@
         "image": "Puppeteer_adaptive.png",
         "back_image": "Puppeteer_back.png",
         "multi_color": true,
-        "hat_type": "hats"
-      },
-      "hat_Swapper": {
-        "image": "Swapper.png",
-        "multi_color": false,
         "hat_type": "hats"
       },
       "hat_Monster_Mouth": {
@@ -3635,11 +3536,6 @@
       },
       "hat_NewSheriffInTown": {
         "image": "NewSheriffInTown.png",
-        "multi_color": false,
-        "hat_type": "hats"
-      },
-      "hat_StuffedBunny": {
-        "image": "StuffedBunny_bounce.png",
         "multi_color": false,
         "hat_type": "hats"
       },
@@ -3751,11 +3647,6 @@
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_AngryBush": {
-        "image": "AngryBush.png",
-        "multi_color": false,
-        "hat_type": "hats"
-      },
       "hat_TheLoaded": {
         "image": "TheLoaded_adaptive.png",
         "back_image": "TheLoaded_adaptive_back.png",
@@ -3767,7 +3658,7 @@
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Enchanter": {
+      "hat_VoldeZockt": {
         "image": "Enchanter_adaptive.png",
         "back_image": "Enchanter_adaptive_back.png",
         "multi_color": true,
@@ -3834,12 +3725,6 @@
         "image": "ElementFire.png",
         "back_image": "ElementFire_back.png",
         "multi_color": false,
-        "hat_type": "hats"
-      },
-      "hat_Villain": {
-        "image": "Villain_adaptive.png",
-        "back_image": "Villain_back_adaptive.png",
-        "multi_color": true,
         "hat_type": "hats"
       },
       "hat_Witch": {
@@ -3976,11 +3861,6 @@
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Knight": {
-        "image": "Knight_adaptive.png",
-        "multi_color": true,
-        "hat_type": "hats"
-      },
       "hat_Neanderthal": {
         "image": "Neanderthal.png",
         "multi_color": false,
@@ -4103,11 +3983,6 @@
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_badtime": {
-        "image": "badtime_bounce.png",
-        "multi_color": false,
-        "hat_type": "hats"
-      },
       "hat_Action": {
         "image": "Action_adaptive.png",
         "multi_color": true,
@@ -4125,14 +4000,9 @@
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_5upScarf": {
-        "image": "5upScarf_adaptive_bounce.png",
-        "multi_color": true,
-        "hat_type": "hats"
-      },
       "hat_SmeggyTV": {
-        "image": "smeggytv_adaptive.png",
-        "multi_color": true,
+        "image": "Smeggy.png",
+        "multi_color": false,
         "hat_type": "hats"
       },
       "hat_Mirana": {
@@ -4200,6 +4070,155 @@
         "image": "UFO_adaptive.png",
         "back_image": "UFO_adaptive_back.png",
         "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_Bound": {
+        "image": "Bound_adaptive.png",
+        "back_image": "Bound_adaptive_back.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_bunnysuit": {
+        "image": "bunnysuit.png",
+        "back_image": "bunnysuit_back.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Dragon": {
+        "image": "Dragon_adaptive 2.png",
+        "back_image": "Dragon_adaptive_back.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_racecar": {
+        "image": "racecar_adaptive.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_grimskull": {
+        "image": "grimskull.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_four": {
+        "image": "four_winds_hat.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Warrior": {
+        "image": "Warrior_adaptive.png",
+        "back_image": "Warrior_adaptive_back.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_CelebrationWithHorn": {
+        "image": "CelebrationWithHorn.png",
+        "back_image": "CelebrationWithHorn_back.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_HighlandCow": {
+        "image": "HighlandCow_adaptive_bounce.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_A_Lot_of_Eyes": {
+        "image": "0_eyes_adaptive.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_LilDragon": {
+        "image": "dragon_adaptive.png",
+        "back_image": "dragon_back_adaptive.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_Calf": {
+        "image": "calf.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Mallöris": {
+        "image": "Mallöris.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Alice": {
+        "image": "alice.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Frogprince": {
+        "image": "frogprince.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Queen": {
+        "image": "queen.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Bat": {
+        "image": "bat_bounce.png",
+        "back_image": "bat_back_bounce.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Bard": {
+        "image": "bard.png",
+        "back_image": "bard_back.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Redhead": {
+        "image": "Redhead.png",
+        "back_image": "Redhead_back.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Friteking": {
+        "image": "friteking.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Fluffy": {
+        "image": "Fluffy_adaptive.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_Tian": {
+        "image": "Tian.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Yun": {
+        "image": "Yun.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Alien": {
+        "image": "Alien.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Beanie": {
+        "image": "Beanie.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Pearl": {
+        "image": "Pearl.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Galaxie": {
+        "image": "Galaxie.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Spartan": {
+        "image": "Spartan.png",
+        "multi_color": false,
         "hat_type": "hats"
       }
     }
@@ -6529,19 +6548,11 @@
         "image": "hats0289.png",
         "hat_type": "hats"
       },
-      "hats0290": {
-        "image": "hats0290.png",
-        "hat_type": "hats"
-      },
-      "406": {
-        "image": "hats0290.png",
-        "hat_type": "hats"
-      },
       "hats0291": {
         "image": "hats0291.png",
         "hat_type": "hats"
       },
-      "407": {
+      "406": {
         "image": "hats0291.png",
         "hat_type": "hats"
       },
@@ -6549,7 +6560,7 @@
         "image": "hats0292.png",
         "hat_type": "hats"
       },
-      "408": {
+      "407": {
         "image": "hats0292.png",
         "hat_type": "hats"
       },
@@ -6557,7 +6568,7 @@
         "image": "hats0293.png",
         "hat_type": "hats"
       },
-      "409": {
+      "408": {
         "image": "hats0293.png",
         "hat_type": "hats"
       },
@@ -6565,23 +6576,15 @@
         "image": "hats0294.png",
         "hat_type": "hats"
       },
-      "410": {
+      "409": {
         "image": "hats0294.png",
-        "hat_type": "hats"
-      },
-      "hats0295": {
-        "image": "hats0295.png",
-        "hat_type": "hats"
-      },
-      "411": {
-        "image": "hats0295.png",
         "hat_type": "hats"
       },
       "hats0296": {
         "image": "hats0296.png",
         "hat_type": "hats"
       },
-      "412": {
+      "410": {
         "image": "hats0296.png",
         "hat_type": "hats"
       },
@@ -6589,7 +6592,7 @@
         "image": "hats0297.png",
         "hat_type": "hats"
       },
-      "413": {
+      "411": {
         "image": "hats0297.png",
         "hat_type": "hats"
       },
@@ -6597,7 +6600,7 @@
         "image": "hats0298.png",
         "hat_type": "hats"
       },
-      "414": {
+      "412": {
         "image": "hats0298.png",
         "hat_type": "hats"
       },
@@ -6605,7 +6608,7 @@
         "image": "hats0299.png",
         "hat_type": "hats"
       },
-      "415": {
+      "413": {
         "image": "hats0299.png",
         "hat_type": "hats"
       },
@@ -6613,7 +6616,7 @@
         "image": "hats0300.png",
         "hat_type": "hats"
       },
-      "416": {
+      "414": {
         "image": "hats0300.png",
         "hat_type": "hats"
       },
@@ -6621,7 +6624,7 @@
         "image": "hats0301.png",
         "hat_type": "hats"
       },
-      "417": {
+      "415": {
         "image": "hats0301.png",
         "hat_type": "hats"
       },
@@ -6629,7 +6632,7 @@
         "image": "hats0302.png",
         "hat_type": "hats"
       },
-      "418": {
+      "416": {
         "image": "hats0302.png",
         "hat_type": "hats"
       },
@@ -6637,7 +6640,7 @@
         "image": "hats0303.png",
         "hat_type": "hats"
       },
-      "419": {
+      "417": {
         "image": "hats0303.png",
         "hat_type": "hats"
       },
@@ -6645,7 +6648,7 @@
         "image": "hats0304.png",
         "hat_type": "hats"
       },
-      "420": {
+      "418": {
         "image": "hats0304.png",
         "hat_type": "hats"
       },
@@ -6653,7 +6656,7 @@
         "image": "hats0305.png",
         "hat_type": "hats"
       },
-      "421": {
+      "419": {
         "image": "hats0305.png",
         "hat_type": "hats"
       },
@@ -6661,7 +6664,7 @@
         "image": "hats0306.png",
         "hat_type": "hats"
       },
-      "422": {
+      "420": {
         "image": "hats0306.png",
         "hat_type": "hats"
       },
@@ -6669,7 +6672,7 @@
         "image": "hats0307.png",
         "hat_type": "hats"
       },
-      "423": {
+      "421": {
         "image": "hats0307.png",
         "hat_type": "hats"
       },
@@ -6677,7 +6680,7 @@
         "image": "hats0308.png",
         "hat_type": "hats"
       },
-      "424": {
+      "422": {
         "image": "hats0308.png",
         "hat_type": "hats"
       },
@@ -6685,7 +6688,7 @@
         "image": "hats0309.png",
         "hat_type": "hats"
       },
-      "425": {
+      "423": {
         "image": "hats0309.png",
         "hat_type": "hats"
       },
@@ -6693,7 +6696,7 @@
         "image": "hats0310.png",
         "hat_type": "hats"
       },
-      "426": {
+      "424": {
         "image": "hats0310.png",
         "hat_type": "hats"
       },
@@ -6701,7 +6704,7 @@
         "image": "hats0311.png",
         "hat_type": "hats"
       },
-      "427": {
+      "425": {
         "image": "hats0311.png",
         "hat_type": "hats"
       },
@@ -6709,7 +6712,7 @@
         "image": "hats0312.png",
         "hat_type": "hats"
       },
-      "428": {
+      "426": {
         "image": "hats0312.png",
         "hat_type": "hats"
       },
@@ -6717,7 +6720,7 @@
         "image": "hats0313.png",
         "hat_type": "hats"
       },
-      "429": {
+      "427": {
         "image": "hats0313.png",
         "hat_type": "hats"
       },
@@ -6725,7 +6728,7 @@
         "image": "hats0314.png",
         "hat_type": "hats"
       },
-      "430": {
+      "428": {
         "image": "hats0314.png",
         "hat_type": "hats"
       },
@@ -6733,7 +6736,7 @@
         "image": "hats0315.png",
         "hat_type": "hats"
       },
-      "431": {
+      "429": {
         "image": "hats0315.png",
         "hat_type": "hats"
       },
@@ -6741,7 +6744,7 @@
         "image": "hats0316.png",
         "hat_type": "hats"
       },
-      "432": {
+      "430": {
         "image": "hats0316.png",
         "hat_type": "hats"
       },
@@ -6749,7 +6752,7 @@
         "image": "hats0317.png",
         "hat_type": "hats"
       },
-      "433": {
+      "431": {
         "image": "hats0317.png",
         "hat_type": "hats"
       },
@@ -6757,7 +6760,7 @@
         "image": "hats0318.png",
         "hat_type": "hats"
       },
-      "434": {
+      "432": {
         "image": "hats0318.png",
         "hat_type": "hats"
       },
@@ -6765,7 +6768,7 @@
         "image": "hats0319.png",
         "hat_type": "hats"
       },
-      "435": {
+      "433": {
         "image": "hats0319.png",
         "hat_type": "hats"
       },
@@ -6773,7 +6776,7 @@
         "image": "hats0320.png",
         "hat_type": "hats"
       },
-      "436": {
+      "434": {
         "image": "hats0320.png",
         "hat_type": "hats"
       },
@@ -6781,7 +6784,7 @@
         "image": "hats0321.png",
         "hat_type": "hats"
       },
-      "437": {
+      "435": {
         "image": "hats0321.png",
         "hat_type": "hats"
       },
@@ -6789,7 +6792,7 @@
         "image": "hats0322.png",
         "hat_type": "hats"
       },
-      "438": {
+      "436": {
         "image": "hats0322.png",
         "hat_type": "hats"
       },
@@ -6797,7 +6800,7 @@
         "image": "hats0323.png",
         "hat_type": "hats"
       },
-      "439": {
+      "437": {
         "image": "hats0323.png",
         "hat_type": "hats"
       },
@@ -6805,7 +6808,7 @@
         "image": "hats0324.png",
         "hat_type": "hats"
       },
-      "440": {
+      "438": {
         "image": "hats0324.png",
         "hat_type": "hats"
       },
@@ -6813,7 +6816,7 @@
         "image": "hats0325.png",
         "hat_type": "hats"
       },
-      "441": {
+      "439": {
         "image": "hats0325.png",
         "hat_type": "hats"
       },
@@ -6821,7 +6824,7 @@
         "image": "hats0326.png",
         "hat_type": "hats"
       },
-      "442": {
+      "440": {
         "image": "hats0326.png",
         "hat_type": "hats"
       },
@@ -6829,7 +6832,7 @@
         "image": "hats0327.png",
         "hat_type": "hats"
       },
-      "443": {
+      "441": {
         "image": "hats0327.png",
         "hat_type": "hats"
       },
@@ -6837,7 +6840,7 @@
         "image": "hats0328.png",
         "hat_type": "hats"
       },
-      "444": {
+      "442": {
         "image": "hats0328.png",
         "hat_type": "hats"
       },
@@ -6845,7 +6848,7 @@
         "image": "hats0329.png",
         "hat_type": "hats"
       },
-      "445": {
+      "443": {
         "image": "hats0329.png",
         "hat_type": "hats"
       },
@@ -6853,7 +6856,7 @@
         "image": "hats0330.png",
         "hat_type": "hats"
       },
-      "446": {
+      "444": {
         "image": "hats0330.png",
         "hat_type": "hats"
       },
@@ -6861,7 +6864,7 @@
         "image": "hats0331.png",
         "hat_type": "hats"
       },
-      "447": {
+      "445": {
         "image": "hats0331.png",
         "hat_type": "hats"
       },
@@ -6869,7 +6872,7 @@
         "image": "hats0332.png",
         "hat_type": "hats"
       },
-      "448": {
+      "446": {
         "image": "hats0332.png",
         "hat_type": "hats"
       },
@@ -6877,7 +6880,7 @@
         "image": "hats0333.png",
         "hat_type": "hats"
       },
-      "449": {
+      "447": {
         "image": "hats0333.png",
         "hat_type": "hats"
       },
@@ -6885,7 +6888,7 @@
         "image": "hats0334.png",
         "hat_type": "hats"
       },
-      "450": {
+      "448": {
         "image": "hats0334.png",
         "hat_type": "hats"
       },
@@ -6893,7 +6896,7 @@
         "image": "hats0335.png",
         "hat_type": "hats"
       },
-      "451": {
+      "449": {
         "image": "hats0335.png",
         "hat_type": "hats"
       },
@@ -6901,7 +6904,7 @@
         "image": "hats0336.png",
         "hat_type": "hats"
       },
-      "452": {
+      "450": {
         "image": "hats0336.png",
         "hat_type": "hats"
       },
@@ -6909,7 +6912,7 @@
         "image": "hats0337.png",
         "hat_type": "hats"
       },
-      "453": {
+      "451": {
         "image": "hats0337.png",
         "hat_type": "hats"
       },
@@ -6917,7 +6920,7 @@
         "image": "hats0338.png",
         "hat_type": "hats"
       },
-      "454": {
+      "452": {
         "image": "hats0338.png",
         "hat_type": "hats"
       },
@@ -6925,7 +6928,7 @@
         "image": "hats0339.png",
         "hat_type": "hats"
       },
-      "455": {
+      "453": {
         "image": "hats0339.png",
         "hat_type": "hats"
       },
@@ -6933,7 +6936,7 @@
         "image": "hats0340.png",
         "hat_type": "hats"
       },
-      "456": {
+      "454": {
         "image": "hats0340.png",
         "hat_type": "hats"
       },
@@ -6941,7 +6944,7 @@
         "image": "hats0341.png",
         "hat_type": "hats"
       },
-      "457": {
+      "455": {
         "image": "hats0341.png",
         "hat_type": "hats"
       },
@@ -6949,7 +6952,7 @@
         "image": "hats0342.png",
         "hat_type": "hats"
       },
-      "458": {
+      "456": {
         "image": "hats0342.png",
         "hat_type": "hats"
       },
@@ -6957,7 +6960,7 @@
         "image": "hats0343.png",
         "hat_type": "hats"
       },
-      "459": {
+      "457": {
         "image": "hats0343.png",
         "hat_type": "hats"
       },
@@ -6965,7 +6968,7 @@
         "image": "hats0344.png",
         "hat_type": "hats"
       },
-      "460": {
+      "458": {
         "image": "hats0344.png",
         "hat_type": "hats"
       },
@@ -6973,7 +6976,7 @@
         "image": "hats0345.png",
         "hat_type": "hats"
       },
-      "461": {
+      "459": {
         "image": "hats0345.png",
         "hat_type": "hats"
       },
@@ -6981,7 +6984,7 @@
         "image": "hats0346.png",
         "hat_type": "hats"
       },
-      "462": {
+      "460": {
         "image": "hats0346.png",
         "hat_type": "hats"
       },
@@ -6989,7 +6992,7 @@
         "image": "hats0347.png",
         "hat_type": "hats"
       },
-      "463": {
+      "461": {
         "image": "hats0347.png",
         "hat_type": "hats"
       },
@@ -6997,7 +7000,7 @@
         "image": "hats0348.png",
         "hat_type": "hats"
       },
-      "464": {
+      "462": {
         "image": "hats0348.png",
         "hat_type": "hats"
       },
@@ -7005,23 +7008,15 @@
         "image": "hats0349.png",
         "hat_type": "hats"
       },
-      "465": {
+      "463": {
         "image": "hats0349.png",
-        "hat_type": "hats"
-      },
-      "hats0350": {
-        "image": "hats0350.png",
-        "hat_type": "hats"
-      },
-      "466": {
-        "image": "hats0350.png",
         "hat_type": "hats"
       },
       "hats0351": {
         "image": "hats0351.png",
         "hat_type": "hats"
       },
-      "467": {
+      "464": {
         "image": "hats0351.png",
         "hat_type": "hats"
       },
@@ -7029,7 +7024,7 @@
         "image": "hats0352.png",
         "hat_type": "hats"
       },
-      "468": {
+      "465": {
         "image": "hats0352.png",
         "hat_type": "hats"
       },
@@ -7037,7 +7032,7 @@
         "image": "hats0353.png",
         "hat_type": "hats"
       },
-      "469": {
+      "466": {
         "image": "hats0353.png",
         "hat_type": "hats"
       },
@@ -7045,7 +7040,7 @@
         "image": "hats0354.png",
         "hat_type": "hats"
       },
-      "470": {
+      "467": {
         "image": "hats0354.png",
         "hat_type": "hats"
       },
@@ -7053,7 +7048,7 @@
         "image": "hats0355.png",
         "hat_type": "hats"
       },
-      "471": {
+      "468": {
         "image": "hats0355.png",
         "hat_type": "hats"
       },
@@ -7061,7 +7056,7 @@
         "image": "hats0356.png",
         "hat_type": "hats"
       },
-      "472": {
+      "469": {
         "image": "hats0356.png",
         "hat_type": "hats"
       },
@@ -7069,23 +7064,15 @@
         "image": "hats0357.png",
         "hat_type": "hats"
       },
-      "473": {
+      "470": {
         "image": "hats0357.png",
-        "hat_type": "hats"
-      },
-      "hats0358": {
-        "image": "hats0358.png",
-        "hat_type": "hats"
-      },
-      "474": {
-        "image": "hats0358.png",
         "hat_type": "hats"
       },
       "hats0359": {
         "image": "hats0359.png",
         "hat_type": "hats"
       },
-      "475": {
+      "471": {
         "image": "hats0359.png",
         "hat_type": "hats"
       },
@@ -7093,23 +7080,15 @@
         "image": "hats0360.png",
         "hat_type": "hats"
       },
-      "476": {
+      "472": {
         "image": "hats0360.png",
-        "hat_type": "hats"
-      },
-      "hats0361": {
-        "image": "hats0361.png",
-        "hat_type": "hats"
-      },
-      "477": {
-        "image": "hats0361.png",
         "hat_type": "hats"
       },
       "hats0362": {
         "image": "hats0362.png",
         "hat_type": "hats"
       },
-      "478": {
+      "473": {
         "image": "hats0362.png",
         "hat_type": "hats"
       },
@@ -7117,7 +7096,7 @@
         "image": "hats0363.png",
         "hat_type": "hats"
       },
-      "479": {
+      "474": {
         "image": "hats0363.png",
         "hat_type": "hats"
       },
@@ -7125,7 +7104,7 @@
         "image": "hats0364.png",
         "hat_type": "hats"
       },
-      "480": {
+      "475": {
         "image": "hats0364.png",
         "hat_type": "hats"
       },
@@ -7133,7 +7112,7 @@
         "image": "hats0365.png",
         "hat_type": "hats"
       },
-      "481": {
+      "476": {
         "image": "hats0365.png",
         "hat_type": "hats"
       },
@@ -7141,7 +7120,7 @@
         "image": "hats0366.png",
         "hat_type": "hats"
       },
-      "482": {
+      "477": {
         "image": "hats0366.png",
         "hat_type": "hats"
       },
@@ -7149,7 +7128,7 @@
         "image": "hats0367.png",
         "hat_type": "hats"
       },
-      "483": {
+      "478": {
         "image": "hats0367.png",
         "hat_type": "hats"
       },
@@ -7157,7 +7136,7 @@
         "image": "hats0368.png",
         "hat_type": "hats"
       },
-      "484": {
+      "479": {
         "image": "hats0368.png",
         "hat_type": "hats"
       },
@@ -7165,7 +7144,7 @@
         "image": "hats0369.png",
         "hat_type": "hats"
       },
-      "485": {
+      "480": {
         "image": "hats0369.png",
         "hat_type": "hats"
       },
@@ -7173,7 +7152,7 @@
         "image": "hats0370.png",
         "hat_type": "hats"
       },
-      "486": {
+      "481": {
         "image": "hats0370.png",
         "hat_type": "hats"
       },
@@ -7181,7 +7160,7 @@
         "image": "hats0371.png",
         "hat_type": "hats"
       },
-      "487": {
+      "482": {
         "image": "hats0371.png",
         "hat_type": "hats"
       },
@@ -7189,7 +7168,7 @@
         "image": "hats0372.png",
         "hat_type": "hats"
       },
-      "488": {
+      "483": {
         "image": "hats0372.png",
         "hat_type": "hats"
       },
@@ -7197,15 +7176,999 @@
         "image": "hats0373.png",
         "hat_type": "hats"
       },
-      "489": {
+      "484": {
         "image": "hats0373.png",
+        "hat_type": "hats"
+      },
+      "hats0374": {
+        "image": "hats0374.png",
+        "hat_type": "hats"
+      },
+      "485": {
+        "image": "hats0374.png",
+        "hat_type": "hats"
+      },
+      "hats0375": {
+        "image": "hats0375.png",
+        "hat_type": "hats"
+      },
+      "486": {
+        "image": "hats0375.png",
+        "hat_type": "hats"
+      },
+      "hats0376": {
+        "image": "hats0376.png",
+        "hat_type": "hats"
+      },
+      "487": {
+        "image": "hats0376.png",
+        "hat_type": "hats"
+      },
+      "hats0377": {
+        "image": "hats0377.png",
+        "hat_type": "hats"
+      },
+      "488": {
+        "image": "hats0377.png",
+        "hat_type": "hats"
+      },
+      "hats0378": {
+        "image": "hats0378.png",
+        "hat_type": "hats"
+      },
+      "489": {
+        "image": "hats0378.png",
+        "hat_type": "hats"
+      },
+      "hats0379": {
+        "image": "hats0379.png",
+        "hat_type": "hats"
+      },
+      "490": {
+        "image": "hats0379.png",
+        "hat_type": "hats"
+      },
+      "hats0380": {
+        "image": "hats0380.png",
+        "hat_type": "hats"
+      },
+      "491": {
+        "image": "hats0380.png",
+        "hat_type": "hats"
+      },
+      "hats0381": {
+        "image": "hats0381.png",
+        "hat_type": "hats"
+      },
+      "492": {
+        "image": "hats0381.png",
+        "hat_type": "hats"
+      },
+      "hats0382": {
+        "image": "hats0382.png",
+        "hat_type": "hats"
+      },
+      "493": {
+        "image": "hats0382.png",
+        "hat_type": "hats"
+      },
+      "hats0383": {
+        "image": "hats0383.png",
+        "hat_type": "hats"
+      },
+      "494": {
+        "image": "hats0383.png",
+        "hat_type": "hats"
+      },
+      "hats0384": {
+        "image": "hats0384.png",
+        "hat_type": "hats"
+      },
+      "495": {
+        "image": "hats0384.png",
+        "hat_type": "hats"
+      },
+      "hats0385": {
+        "image": "hats0385.png",
+        "hat_type": "hats"
+      },
+      "496": {
+        "image": "hats0385.png",
+        "hat_type": "hats"
+      },
+      "hats0386": {
+        "image": "hats0386.png",
+        "hat_type": "hats"
+      },
+      "497": {
+        "image": "hats0386.png",
+        "hat_type": "hats"
+      },
+      "hats0387": {
+        "image": "hats0387.png",
+        "hat_type": "hats"
+      },
+      "498": {
+        "image": "hats0387.png",
+        "hat_type": "hats"
+      },
+      "hats0388": {
+        "image": "hats0388.png",
+        "hat_type": "hats"
+      },
+      "499": {
+        "image": "hats0388.png",
+        "hat_type": "hats"
+      },
+      "hats0389": {
+        "image": "hats0389.png",
+        "hat_type": "hats"
+      },
+      "500": {
+        "image": "hats0389.png",
+        "hat_type": "hats"
+      },
+      "hats0390": {
+        "image": "hats0390.png",
+        "hat_type": "hats"
+      },
+      "501": {
+        "image": "hats0390.png",
+        "hat_type": "hats"
+      },
+      "hats0391": {
+        "image": "hats0391.png",
+        "hat_type": "hats"
+      },
+      "502": {
+        "image": "hats0391.png",
+        "hat_type": "hats"
+      },
+      "hats0392": {
+        "image": "hats0392.png",
+        "hat_type": "hats"
+      },
+      "503": {
+        "image": "hats0392.png",
+        "hat_type": "hats"
+      },
+      "hats0393": {
+        "image": "hats0393.png",
+        "hat_type": "hats"
+      },
+      "504": {
+        "image": "hats0393.png",
+        "hat_type": "hats"
+      },
+      "hats0394": {
+        "image": "hats0394.png",
+        "hat_type": "hats"
+      },
+      "505": {
+        "image": "hats0394.png",
+        "hat_type": "hats"
+      },
+      "hats0395": {
+        "image": "hats0395.png",
+        "hat_type": "hats"
+      },
+      "506": {
+        "image": "hats0395.png",
+        "hat_type": "hats"
+      },
+      "hats0396": {
+        "image": "hats0396.png",
+        "hat_type": "hats"
+      },
+      "507": {
+        "image": "hats0396.png",
+        "hat_type": "hats"
+      },
+      "hats0397": {
+        "image": "hats0397.png",
+        "hat_type": "hats"
+      },
+      "508": {
+        "image": "hats0397.png",
+        "hat_type": "hats"
+      },
+      "hats0398": {
+        "image": "hats0398.png",
+        "hat_type": "hats"
+      },
+      "509": {
+        "image": "hats0398.png",
+        "hat_type": "hats"
+      },
+      "hats0399": {
+        "image": "hats0399.png",
+        "hat_type": "hats"
+      },
+      "510": {
+        "image": "hats0399.png",
+        "hat_type": "hats"
+      },
+      "hats0400": {
+        "image": "hats0400.png",
+        "hat_type": "hats"
+      },
+      "511": {
+        "image": "hats0400.png",
+        "hat_type": "hats"
+      },
+      "hats0401": {
+        "image": "hats0401.png",
+        "hat_type": "hats"
+      },
+      "512": {
+        "image": "hats0401.png",
+        "hat_type": "hats"
+      },
+      "hats0402": {
+        "image": "hats0402.png",
+        "hat_type": "hats"
+      },
+      "513": {
+        "image": "hats0402.png",
+        "hat_type": "hats"
+      },
+      "hats0403": {
+        "image": "hats0403.png",
+        "hat_type": "hats"
+      },
+      "514": {
+        "image": "hats0403.png",
+        "hat_type": "hats"
+      },
+      "hats0404": {
+        "image": "hats0404.png",
+        "hat_type": "hats"
+      },
+      "515": {
+        "image": "hats0404.png",
+        "hat_type": "hats"
+      },
+      "hats0405": {
+        "image": "hats0405.png",
+        "hat_type": "hats"
+      },
+      "516": {
+        "image": "hats0405.png",
+        "hat_type": "hats"
+      },
+      "hats0406": {
+        "image": "hats0406.png",
+        "hat_type": "hats"
+      },
+      "517": {
+        "image": "hats0406.png",
+        "hat_type": "hats"
+      },
+      "hats0407": {
+        "image": "hats0407.png",
+        "hat_type": "hats"
+      },
+      "518": {
+        "image": "hats0407.png",
+        "hat_type": "hats"
+      },
+      "hats0408": {
+        "image": "hats0408.png",
+        "hat_type": "hats"
+      },
+      "519": {
+        "image": "hats0408.png",
+        "hat_type": "hats"
+      },
+      "hats0409": {
+        "image": "hats0409.png",
+        "hat_type": "hats"
+      },
+      "520": {
+        "image": "hats0409.png",
+        "hat_type": "hats"
+      },
+      "hats0410": {
+        "image": "hats0410.png",
+        "hat_type": "hats"
+      },
+      "521": {
+        "image": "hats0410.png",
+        "hat_type": "hats"
+      },
+      "hats0411": {
+        "image": "hats0411.png",
+        "hat_type": "hats"
+      },
+      "522": {
+        "image": "hats0411.png",
+        "hat_type": "hats"
+      },
+      "hats0412": {
+        "image": "hats0412.png",
+        "hat_type": "hats"
+      },
+      "523": {
+        "image": "hats0412.png",
+        "hat_type": "hats"
+      },
+      "hats0413": {
+        "image": "hats0413.png",
+        "hat_type": "hats"
+      },
+      "524": {
+        "image": "hats0413.png",
+        "hat_type": "hats"
+      },
+      "hats0414": {
+        "image": "hats0414.png",
+        "hat_type": "hats"
+      },
+      "525": {
+        "image": "hats0414.png",
+        "hat_type": "hats"
+      },
+      "hats0415": {
+        "image": "hats0415.png",
+        "hat_type": "hats"
+      },
+      "526": {
+        "image": "hats0415.png",
+        "hat_type": "hats"
+      },
+      "hats0416": {
+        "image": "hats0416.png",
+        "hat_type": "hats"
+      },
+      "527": {
+        "image": "hats0416.png",
+        "hat_type": "hats"
+      },
+      "hats0417": {
+        "image": "hats0417.png",
+        "hat_type": "hats"
+      },
+      "528": {
+        "image": "hats0417.png",
+        "hat_type": "hats"
+      },
+      "hats0418": {
+        "image": "hats0418.png",
+        "hat_type": "hats"
+      },
+      "529": {
+        "image": "hats0418.png",
+        "hat_type": "hats"
+      },
+      "hats0419": {
+        "image": "hats0419.png",
+        "hat_type": "hats"
+      },
+      "530": {
+        "image": "hats0419.png",
+        "hat_type": "hats"
+      },
+      "hats0420": {
+        "image": "hats0420.png",
+        "hat_type": "hats"
+      },
+      "531": {
+        "image": "hats0420.png",
+        "hat_type": "hats"
+      },
+      "hats0421": {
+        "image": "hats0421.png",
+        "hat_type": "hats"
+      },
+      "532": {
+        "image": "hats0421.png",
+        "hat_type": "hats"
+      },
+      "hats0422": {
+        "image": "hats0422.png",
+        "hat_type": "hats"
+      },
+      "533": {
+        "image": "hats0422.png",
+        "hat_type": "hats"
+      },
+      "hats0423": {
+        "image": "hats0423.png",
+        "hat_type": "hats"
+      },
+      "534": {
+        "image": "hats0423.png",
+        "hat_type": "hats"
+      },
+      "hats0424": {
+        "image": "hats0424.png",
+        "hat_type": "hats"
+      },
+      "535": {
+        "image": "hats0424.png",
+        "hat_type": "hats"
+      },
+      "hats0425": {
+        "image": "hats0425.png",
+        "hat_type": "hats"
+      },
+      "536": {
+        "image": "hats0425.png",
+        "hat_type": "hats"
+      },
+      "hats0426": {
+        "image": "hats0426.png",
+        "hat_type": "hats"
+      },
+      "537": {
+        "image": "hats0426.png",
+        "hat_type": "hats"
+      },
+      "hats0427": {
+        "image": "hats0427.png",
+        "hat_type": "hats"
+      },
+      "538": {
+        "image": "hats0427.png",
+        "hat_type": "hats"
+      },
+      "hats0428": {
+        "image": "hats0428.png",
+        "hat_type": "hats"
+      },
+      "539": {
+        "image": "hats0428.png",
+        "hat_type": "hats"
+      },
+      "hats0429": {
+        "image": "hats0429.png",
+        "hat_type": "hats"
+      },
+      "540": {
+        "image": "hats0429.png",
+        "hat_type": "hats"
+      },
+      "hats0430": {
+        "image": "hats0430.png",
+        "hat_type": "hats"
+      },
+      "541": {
+        "image": "hats0430.png",
+        "hat_type": "hats"
+      },
+      "hats0431": {
+        "image": "hats0431.png",
+        "hat_type": "hats"
+      },
+      "542": {
+        "image": "hats0431.png",
+        "hat_type": "hats"
+      },
+      "hats0432": {
+        "image": "hats0432.png",
+        "hat_type": "hats"
+      },
+      "543": {
+        "image": "hats0432.png",
+        "hat_type": "hats"
+      },
+      "hats0433": {
+        "image": "hats0433.png",
+        "hat_type": "hats"
+      },
+      "544": {
+        "image": "hats0433.png",
+        "hat_type": "hats"
+      },
+      "hats0434": {
+        "image": "hats0434.png",
+        "hat_type": "hats"
+      },
+      "545": {
+        "image": "hats0434.png",
+        "hat_type": "hats"
+      },
+      "hats0435": {
+        "image": "hats0435.png",
+        "hat_type": "hats"
+      },
+      "546": {
+        "image": "hats0435.png",
+        "hat_type": "hats"
+      },
+      "hats0436": {
+        "image": "hats0436.png",
+        "hat_type": "hats"
+      },
+      "547": {
+        "image": "hats0436.png",
+        "hat_type": "hats"
+      },
+      "hats0437": {
+        "image": "hats0437.png",
+        "hat_type": "hats"
+      },
+      "548": {
+        "image": "hats0437.png",
+        "hat_type": "hats"
+      },
+      "hats0438": {
+        "image": "hats0438.png",
+        "hat_type": "hats"
+      },
+      "549": {
+        "image": "hats0438.png",
+        "hat_type": "hats"
+      },
+      "hats0439": {
+        "image": "hats0439.png",
+        "hat_type": "hats"
+      },
+      "550": {
+        "image": "hats0439.png",
+        "hat_type": "hats"
+      },
+      "hats0440": {
+        "image": "hats0440.png",
+        "hat_type": "hats"
+      },
+      "551": {
+        "image": "hats0440.png",
+        "hat_type": "hats"
+      },
+      "hats0441": {
+        "image": "hats0441.png",
+        "hat_type": "hats"
+      },
+      "552": {
+        "image": "hats0441.png",
+        "hat_type": "hats"
+      },
+      "hats0442": {
+        "image": "hats0442.png",
+        "hat_type": "hats"
+      },
+      "553": {
+        "image": "hats0442.png",
+        "hat_type": "hats"
+      },
+      "hats0443": {
+        "image": "hats0443.png",
+        "hat_type": "hats"
+      },
+      "554": {
+        "image": "hats0443.png",
+        "hat_type": "hats"
+      },
+      "hats0444": {
+        "image": "hats0444.png",
+        "hat_type": "hats"
+      },
+      "555": {
+        "image": "hats0444.png",
+        "hat_type": "hats"
+      },
+      "hats0445": {
+        "image": "hats0445.png",
+        "hat_type": "hats"
+      },
+      "556": {
+        "image": "hats0445.png",
+        "hat_type": "hats"
+      },
+      "hats0446": {
+        "image": "hats0446.png",
+        "hat_type": "hats"
+      },
+      "557": {
+        "image": "hats0446.png",
+        "hat_type": "hats"
+      },
+      "hats0447": {
+        "image": "hats0447.png",
+        "hat_type": "hats"
+      },
+      "558": {
+        "image": "hats0447.png",
+        "hat_type": "hats"
+      },
+      "hats0448": {
+        "image": "hats0448.png",
+        "hat_type": "hats"
+      },
+      "559": {
+        "image": "hats0448.png",
+        "hat_type": "hats"
+      },
+      "hats0449": {
+        "image": "hats0449.png",
+        "hat_type": "hats"
+      },
+      "560": {
+        "image": "hats0449.png",
+        "hat_type": "hats"
+      },
+      "hats0450": {
+        "image": "hats0450.png",
+        "hat_type": "hats"
+      },
+      "561": {
+        "image": "hats0450.png",
+        "hat_type": "hats"
+      },
+      "hats0451": {
+        "image": "hats0451.png",
+        "hat_type": "hats"
+      },
+      "562": {
+        "image": "hats0451.png",
+        "hat_type": "hats"
+      },
+      "hats0452": {
+        "image": "hats0452.png",
+        "hat_type": "hats"
+      },
+      "563": {
+        "image": "hats0452.png",
+        "hat_type": "hats"
+      },
+      "hats0453": {
+        "image": "hats0453.png",
+        "hat_type": "hats"
+      },
+      "564": {
+        "image": "hats0453.png",
+        "hat_type": "hats"
+      },
+      "hats0454": {
+        "image": "hats0454.png",
+        "hat_type": "hats"
+      },
+      "565": {
+        "image": "hats0454.png",
+        "hat_type": "hats"
+      },
+      "hats0455": {
+        "image": "hats0455.png",
+        "hat_type": "hats"
+      },
+      "566": {
+        "image": "hats0455.png",
+        "hat_type": "hats"
+      },
+      "hats0456": {
+        "image": "hats0456.png",
+        "hat_type": "hats"
+      },
+      "567": {
+        "image": "hats0456.png",
+        "hat_type": "hats"
+      },
+      "hats0457": {
+        "image": "hats0457.png",
+        "hat_type": "hats"
+      },
+      "568": {
+        "image": "hats0457.png",
+        "hat_type": "hats"
+      },
+      "hats0458": {
+        "image": "hats0458.png",
+        "hat_type": "hats"
+      },
+      "569": {
+        "image": "hats0458.png",
+        "hat_type": "hats"
+      },
+      "hats0459": {
+        "image": "hats0459.png",
+        "hat_type": "hats"
+      },
+      "570": {
+        "image": "hats0459.png",
+        "hat_type": "hats"
+      },
+      "hats0460": {
+        "image": "hats0460.png",
+        "hat_type": "hats"
+      },
+      "571": {
+        "image": "hats0460.png",
+        "hat_type": "hats"
+      },
+      "hats0461": {
+        "image": "hats0461.png",
+        "hat_type": "hats"
+      },
+      "572": {
+        "image": "hats0461.png",
+        "hat_type": "hats"
+      },
+      "hats0462": {
+        "image": "hats0462.png",
+        "hat_type": "hats"
+      },
+      "573": {
+        "image": "hats0462.png",
+        "hat_type": "hats"
+      },
+      "hats0463": {
+        "image": "hats0463.png",
+        "hat_type": "hats"
+      },
+      "574": {
+        "image": "hats0463.png",
+        "hat_type": "hats"
+      },
+      "hats0464": {
+        "image": "hats0464.png",
+        "hat_type": "hats"
+      },
+      "575": {
+        "image": "hats0464.png",
+        "hat_type": "hats"
+      },
+      "hats0465": {
+        "image": "hats0465.png",
+        "hat_type": "hats"
+      },
+      "576": {
+        "image": "hats0465.png",
+        "hat_type": "hats"
+      },
+      "hats0466": {
+        "image": "hats0466.png",
+        "hat_type": "hats"
+      },
+      "577": {
+        "image": "hats0466.png",
+        "hat_type": "hats"
+      },
+      "hats0467": {
+        "image": "hats0467.png",
+        "hat_type": "hats"
+      },
+      "578": {
+        "image": "hats0467.png",
+        "hat_type": "hats"
+      },
+      "hats0468": {
+        "image": "hats0468.png",
+        "hat_type": "hats"
+      },
+      "579": {
+        "image": "hats0468.png",
+        "hat_type": "hats"
+      },
+      "hats0469": {
+        "image": "hats0469.png",
+        "hat_type": "hats"
+      },
+      "580": {
+        "image": "hats0469.png",
+        "hat_type": "hats"
+      },
+      "hats0470": {
+        "image": "hats0470.png",
+        "hat_type": "hats"
+      },
+      "581": {
+        "image": "hats0470.png",
+        "hat_type": "hats"
+      },
+      "hats0471": {
+        "image": "hats0471.png",
+        "hat_type": "hats"
+      },
+      "582": {
+        "image": "hats0471.png",
+        "hat_type": "hats"
+      },
+      "hats0472": {
+        "image": "hats0472.png",
+        "hat_type": "hats"
+      },
+      "583": {
+        "image": "hats0472.png",
+        "hat_type": "hats"
+      },
+      "hats0473": {
+        "image": "hats0473.png",
+        "hat_type": "hats"
+      },
+      "584": {
+        "image": "hats0473.png",
+        "hat_type": "hats"
+      },
+      "hats0474": {
+        "image": "hats0474.png",
+        "hat_type": "hats"
+      },
+      "585": {
+        "image": "hats0474.png",
+        "hat_type": "hats"
+      },
+      "hats0475": {
+        "image": "hats0475.png",
+        "hat_type": "hats"
+      },
+      "586": {
+        "image": "hats0475.png",
+        "hat_type": "hats"
+      },
+      "hats0476": {
+        "image": "hats0476.png",
+        "hat_type": "hats"
+      },
+      "587": {
+        "image": "hats0476.png",
+        "hat_type": "hats"
+      },
+      "hats0477": {
+        "image": "hats0477.png",
+        "hat_type": "hats"
+      },
+      "588": {
+        "image": "hats0477.png",
+        "hat_type": "hats"
+      },
+      "hats0478": {
+        "image": "hats0478.png",
+        "hat_type": "hats"
+      },
+      "589": {
+        "image": "hats0478.png",
+        "hat_type": "hats"
+      },
+      "hats0479": {
+        "image": "hats0479.png",
+        "hat_type": "hats"
+      },
+      "590": {
+        "image": "hats0479.png",
+        "hat_type": "hats"
+      },
+      "hats0480": {
+        "image": "hats0480.png",
+        "hat_type": "hats"
+      },
+      "591": {
+        "image": "hats0480.png",
+        "hat_type": "hats"
+      },
+      "hats0481": {
+        "image": "hats0481.png",
+        "hat_type": "hats"
+      },
+      "592": {
+        "image": "hats0481.png",
+        "hat_type": "hats"
+      },
+      "hats0482": {
+        "image": "hats0482.png",
+        "hat_type": "hats"
+      },
+      "593": {
+        "image": "hats0482.png",
+        "hat_type": "hats"
+      },
+      "hats0483": {
+        "image": "hats0483.png",
+        "hat_type": "hats"
+      },
+      "594": {
+        "image": "hats0483.png",
+        "hat_type": "hats"
+      },
+      "hats0484": {
+        "image": "hats0484.png",
+        "hat_type": "hats"
+      },
+      "595": {
+        "image": "hats0484.png",
+        "hat_type": "hats"
+      },
+      "hats0485": {
+        "image": "hats0485.png",
+        "hat_type": "hats"
+      },
+      "596": {
+        "image": "hats0485.png",
+        "hat_type": "hats"
+      },
+      "hats0486": {
+        "image": "hats0486.png",
+        "hat_type": "hats"
+      },
+      "597": {
+        "image": "hats0486.png",
+        "hat_type": "hats"
+      },
+      "hats0487": {
+        "image": "hats0487.png",
+        "hat_type": "hats"
+      },
+      "598": {
+        "image": "hats0487.png",
+        "hat_type": "hats"
+      },
+      "hats0488": {
+        "image": "hats0488.png",
+        "hat_type": "hats"
+      },
+      "599": {
+        "image": "hats0488.png",
+        "hat_type": "hats"
+      },
+      "hats0489": {
+        "image": "hats0489.png",
+        "hat_type": "hats"
+      },
+      "600": {
+        "image": "hats0489.png",
+        "hat_type": "hats"
+      },
+      "hats0490": {
+        "image": "hats0490.png",
+        "hat_type": "hats"
+      },
+      "601": {
+        "image": "hats0490.png",
+        "hat_type": "hats"
+      },
+      "hats0491": {
+        "image": "hats0491.png",
+        "hat_type": "hats"
+      },
+      "602": {
+        "image": "hats0491.png",
+        "hat_type": "hats"
+      },
+      "hats0492": {
+        "image": "hats0492.png",
+        "hat_type": "hats"
+      },
+      "603": {
+        "image": "hats0492.png",
+        "hat_type": "hats"
+      },
+      "hats0493": {
+        "image": "hats0493.png",
+        "hat_type": "hats"
+      },
+      "604": {
+        "image": "hats0493.png",
+        "hat_type": "hats"
+      },
+      "hats0494": {
+        "image": "hats0494.png",
+        "hat_type": "hats"
+      },
+      "605": {
+        "image": "hats0494.png",
+        "hat_type": "hats"
+      },
+      "hats0495": {
+        "image": "hats0495.png",
+        "hat_type": "hats"
+      },
+      "606": {
+        "image": "hats0495.png",
+        "hat_type": "hats"
+      },
+      "hats0496": {
+        "image": "hats0496.png",
+        "hat_type": "hats"
+      },
+      "607": {
+        "image": "hats0496.png",
         "hat_type": "hats"
       },
       "misc0000": {
         "image": "misc0000.png",
         "hat_type": "hats"
       },
-      "490": {
+      "608": {
         "image": "misc0000.png",
         "hat_type": "hats"
       },
@@ -7213,7 +8176,7 @@
         "image": "misc0002.png",
         "hat_type": "hats"
       },
-      "491": {
+      "609": {
         "image": "misc0002.png",
         "hat_type": "hats"
       },
@@ -7221,7 +8184,7 @@
         "image": "misc0003.png",
         "hat_type": "hats"
       },
-      "492": {
+      "610": {
         "image": "misc0003.png",
         "hat_type": "hats"
       },
@@ -7229,7 +8192,7 @@
         "image": "misc0004.png",
         "hat_type": "hats"
       },
-      "493": {
+      "611": {
         "image": "misc0004.png",
         "hat_type": "hats"
       },
@@ -7237,7 +8200,7 @@
         "image": "misc0007.png",
         "hat_type": "hats"
       },
-      "494": {
+      "612": {
         "image": "misc0007.png",
         "hat_type": "hats"
       },
@@ -7245,7 +8208,7 @@
         "image": "misc0008.png",
         "hat_type": "hats"
       },
-      "495": {
+      "613": {
         "image": "misc0008.png",
         "hat_type": "hats"
       },
@@ -7253,7 +8216,7 @@
         "image": "misc0009.png",
         "hat_type": "hats"
       },
-      "496": {
+      "614": {
         "image": "misc0009.png",
         "hat_type": "hats"
       },
@@ -7261,7 +8224,7 @@
         "image": "misc0010.png",
         "hat_type": "hats"
       },
-      "497": {
+      "615": {
         "image": "misc0010.png",
         "hat_type": "hats"
       },
@@ -7269,7 +8232,7 @@
         "image": "misc0011.png",
         "hat_type": "hats"
       },
-      "498": {
+      "616": {
         "image": "misc0011.png",
         "hat_type": "hats"
       },
@@ -7277,7 +8240,7 @@
         "image": "misc0015.png",
         "hat_type": "hats"
       },
-      "499": {
+      "617": {
         "image": "misc0015.png",
         "hat_type": "hats"
       },
@@ -7285,7 +8248,7 @@
         "image": "misc0020.png",
         "hat_type": "hats"
       },
-      "500": {
+      "618": {
         "image": "misc0020.png",
         "hat_type": "hats"
       },
@@ -7293,7 +8256,7 @@
         "image": "misc0021.png",
         "hat_type": "hats"
       },
-      "501": {
+      "619": {
         "image": "misc0021.png",
         "hat_type": "hats"
       },
@@ -7301,7 +8264,7 @@
         "image": "misc0022.png",
         "hat_type": "hats"
       },
-      "502": {
+      "620": {
         "image": "misc0022.png",
         "hat_type": "hats"
       },
@@ -7309,7 +8272,7 @@
         "image": "myhats0016.png",
         "hat_type": "hats"
       },
-      "503": {
+      "621": {
         "image": "myhats0016.png",
         "hat_type": "hats"
       },
@@ -7317,7 +8280,7 @@
         "image": "standard0001.png",
         "hat_type": "hats"
       },
-      "504": {
+      "622": {
         "image": "standard0001.png",
         "hat_type": "hats"
       },
@@ -7325,7 +8288,7 @@
         "image": "standard0002.png",
         "hat_type": "hats"
       },
-      "505": {
+      "623": {
         "image": "standard0002.png",
         "hat_type": "hats"
       },
@@ -7333,7 +8296,7 @@
         "image": "standard0003.png",
         "hat_type": "hats"
       },
-      "506": {
+      "624": {
         "image": "standard0003.png",
         "hat_type": "hats"
       },
@@ -7341,7 +8304,7 @@
         "image": "standard0004.png",
         "hat_type": "hats"
       },
-      "507": {
+      "625": {
         "image": "standard0004.png",
         "hat_type": "hats"
       },
@@ -7349,7 +8312,7 @@
         "image": "standard0006.png",
         "hat_type": "hats"
       },
-      "508": {
+      "626": {
         "image": "standard0006.png",
         "hat_type": "hats"
       },
@@ -7357,7 +8320,7 @@
         "image": "standard0009.png",
         "hat_type": "hats"
       },
-      "509": {
+      "627": {
         "image": "standard0009.png",
         "hat_type": "hats"
       },
@@ -7365,7 +8328,7 @@
         "image": "standard0011.png",
         "hat_type": "hats"
       },
-      "510": {
+      "628": {
         "image": "standard0011.png",
         "hat_type": "hats"
       },
@@ -7373,7 +8336,7 @@
         "image": "standard0012.png",
         "hat_type": "hats"
       },
-      "511": {
+      "629": {
         "image": "standard0012.png",
         "hat_type": "hats"
       },
@@ -7381,7 +8344,7 @@
         "image": "standard0014.png",
         "hat_type": "hats"
       },
-      "512": {
+      "630": {
         "image": "standard0014.png",
         "hat_type": "hats"
       },
@@ -7389,7 +8352,7 @@
         "image": "standard0015.png",
         "hat_type": "hats"
       },
-      "513": {
+      "631": {
         "image": "standard0015.png",
         "hat_type": "hats"
       },
@@ -7397,7 +8360,7 @@
         "image": "standard0017.png",
         "hat_type": "hats"
       },
-      "514": {
+      "632": {
         "image": "standard0017.png",
         "hat_type": "hats"
       },
@@ -7405,7 +8368,7 @@
         "image": "standard0018.png",
         "hat_type": "hats"
       },
-      "515": {
+      "633": {
         "image": "standard0018.png",
         "hat_type": "hats"
       },
@@ -7413,7 +8376,7 @@
         "image": "standard0019.png",
         "hat_type": "hats"
       },
-      "516": {
+      "634": {
         "image": "standard0019.png",
         "hat_type": "hats"
       },
@@ -7421,7 +8384,7 @@
         "image": "standard0020.png",
         "hat_type": "hats"
       },
-      "517": {
+      "635": {
         "image": "standard0020.png",
         "hat_type": "hats"
       },
@@ -7429,7 +8392,7 @@
         "image": "standard0022.png",
         "hat_type": "hats"
       },
-      "518": {
+      "636": {
         "image": "standard0022.png",
         "hat_type": "hats"
       },
@@ -7437,7 +8400,7 @@
         "image": "standard0024.png",
         "hat_type": "hats"
       },
-      "519": {
+      "637": {
         "image": "standard0024.png",
         "hat_type": "hats"
       },
@@ -7445,7 +8408,7 @@
         "image": "standard0028.png",
         "hat_type": "hats"
       },
-      "520": {
+      "638": {
         "image": "standard0028.png",
         "hat_type": "hats"
       },
@@ -7453,7 +8416,7 @@
         "image": "standard0029.png",
         "hat_type": "hats"
       },
-      "521": {
+      "639": {
         "image": "standard0029.png",
         "hat_type": "hats"
       },
@@ -7461,7 +8424,7 @@
         "image": "standard0030.png",
         "hat_type": "hats"
       },
-      "522": {
+      "640": {
         "image": "standard0030.png",
         "hat_type": "hats"
       },
@@ -7469,7 +8432,7 @@
         "image": "standard0032.png",
         "hat_type": "hats"
       },
-      "523": {
+      "641": {
         "image": "standard0032.png",
         "hat_type": "hats"
       },
@@ -7477,7 +8440,7 @@
         "image": "standard0034.png",
         "hat_type": "hats"
       },
-      "524": {
+      "642": {
         "image": "standard0034.png",
         "hat_type": "hats"
       },
@@ -7485,7 +8448,7 @@
         "image": "standard0035.png",
         "hat_type": "hats"
       },
-      "525": {
+      "643": {
         "image": "standard0035.png",
         "hat_type": "hats"
       },
@@ -7493,7 +8456,7 @@
         "image": "standard0036.png",
         "hat_type": "hats"
       },
-      "526": {
+      "644": {
         "image": "standard0036.png",
         "hat_type": "hats"
       },
@@ -7501,7 +8464,7 @@
         "image": "standard0038.png",
         "hat_type": "hats"
       },
-      "527": {
+      "645": {
         "image": "standard0038.png",
         "hat_type": "hats"
       },
@@ -7509,7 +8472,7 @@
         "image": "standard0039.png",
         "hat_type": "hats"
       },
-      "528": {
+      "646": {
         "image": "standard0039.png",
         "hat_type": "hats"
       },
@@ -7517,7 +8480,7 @@
         "image": "standard0040.png",
         "hat_type": "hats"
       },
-      "529": {
+      "647": {
         "image": "standard0040.png",
         "hat_type": "hats"
       },
@@ -7525,7 +8488,7 @@
         "image": "standard0041.png",
         "hat_type": "hats"
       },
-      "530": {
+      "648": {
         "image": "standard0041.png",
         "hat_type": "hats"
       },
@@ -7533,7 +8496,7 @@
         "image": "standard0042.png",
         "hat_type": "hats"
       },
-      "531": {
+      "649": {
         "image": "standard0042.png",
         "hat_type": "hats"
       },
@@ -7541,7 +8504,7 @@
         "image": "standard0043.png",
         "hat_type": "hats"
       },
-      "532": {
+      "650": {
         "image": "standard0043.png",
         "hat_type": "hats"
       },
@@ -7549,7 +8512,7 @@
         "image": "standard0044.png",
         "hat_type": "hats"
       },
-      "533": {
+      "651": {
         "image": "standard0044.png",
         "hat_type": "hats"
       },
@@ -7557,7 +8520,7 @@
         "image": "standard0045.png",
         "hat_type": "hats"
       },
-      "534": {
+      "652": {
         "image": "standard0045.png",
         "hat_type": "hats"
       },
@@ -7565,7 +8528,7 @@
         "image": "standard0046.png",
         "hat_type": "hats"
       },
-      "535": {
+      "653": {
         "image": "standard0046.png",
         "hat_type": "hats"
       },
@@ -7573,15 +8536,63 @@
         "image": "standard0047.png",
         "hat_type": "hats"
       },
-      "536": {
+      "654": {
         "image": "standard0047.png",
+        "hat_type": "hats"
+      },
+      "standard0048": {
+        "image": "standard0048.png",
+        "hat_type": "hats"
+      },
+      "655": {
+        "image": "standard0048.png",
+        "hat_type": "hats"
+      },
+      "standard0049": {
+        "image": "standard0049.png",
+        "hat_type": "hats"
+      },
+      "656": {
+        "image": "standard0049.png",
+        "hat_type": "hats"
+      },
+      "standard0050": {
+        "image": "standard0050.png",
+        "hat_type": "hats"
+      },
+      "657": {
+        "image": "standard0050.png",
+        "hat_type": "hats"
+      },
+      "standard0051": {
+        "image": "standard0051.png",
+        "hat_type": "hats"
+      },
+      "658": {
+        "image": "standard0051.png",
+        "hat_type": "hats"
+      },
+      "standard0052": {
+        "image": "standard0052.png",
+        "hat_type": "hats"
+      },
+      "659": {
+        "image": "standard0052.png",
+        "hat_type": "hats"
+      },
+      "standard0053": {
+        "image": "standard0053.png",
+        "hat_type": "hats"
+      },
+      "660": {
+        "image": "standard0053.png",
         "hat_type": "hats"
       },
       "transparent": {
         "image": "transparent.png",
         "hat_type": "hats"
       },
-      "537": {
+      "661": {
         "image": "transparent.png",
         "hat_type": "hats"
       }
