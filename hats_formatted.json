@@ -36,7 +36,7 @@
       },
       "hat_fishingHat": {
         "image": "fishingHatHat.png",
-        "back_image": "input/hat_fishingHat_back.png",
+        "back_image": "hat_fishingHat_back.png",
         "hat_type": "hats",
         "asset_name": "fishingHatHat"
       },
@@ -57,7 +57,7 @@
       },
       "hat_mushbuns": {
         "image": "mushbunsHat.png",
-        "back_image": "input/hat_mushbuns_back.png",
+        "back_image": "hat_mushbuns_back.png",
         "hat_type": "hats",
         "asset_name": "mushbunsHat"
       },
@@ -262,7 +262,7 @@
       },
       "hat_Present": {
         "image": "Present.png",
-        "back_image": "input/hat_Present_back.png",
+        "back_image": "hat_Present_back.png",
         "hat_type": "hats",
         "asset_name": "Present"
       },
@@ -328,7 +328,7 @@
       },
       "hat_wigJudge": {
         "image": "wigJudgeHat.png",
-        "back_image": "input/hat_wigJudge_back.png",
+        "back_image": "hat_wigJudge_back.png",
         "hat_type": "hats",
         "asset_name": "wigJudgeHat"
       },
@@ -345,7 +345,7 @@
       },
       "hat_hl_gura": {
         "image": "gawrGura.png",
-        "back_image": "input/hat_hl_gura_back.png",
+        "back_image": "hat_hl_gura_back.png",
         "hat_type": "hats",
         "asset_name": "gawrGura"
       },
@@ -356,13 +356,13 @@
       },
       "hat_hl_marine": {
         "image": "hoshouMarine.png",
-        "back_image": "input/hat_hl_marine_back.png",
+        "back_image": "hat_hl_marine_back.png",
         "hat_type": "hats",
         "asset_name": "hoshouMarine"
       },
       "hat_hl_mio": {
         "image": "ookamiMio.png",
-        "back_image": "input/hat_hl_mio_back.png",
+        "back_image": "hat_hl_mio_back.png",
         "hat_type": "hats",
         "asset_name": "ookamiMio"
       },
@@ -373,13 +373,13 @@
       },
       "hat_hl_okayu": {
         "image": "nekomataOkayu.png",
-        "back_image": "input/hat_hl_okayu_back.png",
+        "back_image": "hat_hl_okayu_back.png",
         "hat_type": "hats",
         "asset_name": "nekomataOkayu"
       },
       "hat_hl_pekora": {
         "image": "usadaPekora.png",
-        "back_image": "input/hat_hl_pekora_back.png",
+        "back_image": "hat_hl_pekora_back.png",
         "hat_type": "hats",
         "asset_name": "usadaPekora"
       },
@@ -1054,7 +1054,7 @@
       },
       "hat_devilhorns_yellow": {
         "image": "ha_devil-Gold.png",
-        "back_image": "input/hat_devilhorns_yellow_back.png",
+        "back_image": "hat_devilhorns_yellow_back.png",
         "hat_type": "hats",
         "asset_name": "ha_devil-Gold"
       },
@@ -1066,7 +1066,7 @@
       },
       "hat_devilhorns_crewcolor": {
         "image": "hat_Devil-Crewmate.png",
-        "back_image": "input/hat_devilhorns_crewcolor_back.png",
+        "back_image": "hat_devilhorns_crewcolor_back.png",
         "multi_color": true,
         "hat_type": "hats",
         "asset_name": "hat_Devil-Crewmate"
@@ -2225,27 +2225,27 @@
         "asset_name": "LifeVestSkinskin"
       },
       "skin_PusheenGreyskin": {
-        "image": "input/skin_PusheenGreyskin_front.png",
+        "image": "skin_PusheenGreyskin_front.png",
         "hat_type": "skins",
         "asset_name": "PusheenGreyskin"
       },
       "skin_PusheenMintskin": {
-        "image": "input/skin_PusheenMintskin_front.png",
+        "image": "skin_PusheenMintskin_front.png",
         "hat_type": "skins",
         "asset_name": "PusheenMintskin"
       },
       "skin_PusheenPinkskin": {
-        "image": "input/skin_PusheenPinkskin_front.png",
+        "image": "skin_PusheenPinkskin_front.png",
         "hat_type": "skins",
         "asset_name": "PusheenPinkskin"
       },
       "skin_PusheenPurpleskin": {
-        "image": "input/skin_PusheenPurpleskin_front.png",
+        "image": "skin_PusheenPurpleskin_front.png",
         "hat_type": "skins",
         "asset_name": "PusheenPurpleskin"
       },
       "skin_Pusheenicornskin": {
-        "image": "input/skin_Pusheenicornskin_front.png",
+        "image": "skin_Pusheenicornskin_front.png",
         "hat_type": "skins",
         "asset_name": "Pusheenicornskin"
       },
@@ -2285,22 +2285,22 @@
         "asset_name": "D2WarlockSkinskin"
       },
       "skin_greedygrampaskin": {
-        "image": "input/skin_greedygrampaskin_front.png",
+        "image": "skin_greedygrampaskin_front.png",
         "hat_type": "skins",
         "asset_name": "greedygrampaskin"
       },
       "skin_presentskin": {
-        "image": "input/skin_presentskin_front.png",
+        "image": "skin_presentskin_front.png",
         "hat_type": "skins",
         "asset_name": "presentskin"
       },
       "skin_scarfskin": {
-        "image": "input/skin_scarfskin_front.png",
+        "image": "skin_scarfskin_front.png",
         "hat_type": "skins",
         "asset_name": "scarfskin"
       },
       "skin_uglysweaterskin": {
-        "image": "input/skin_uglysweaterskin_front.png",
+        "image": "skin_uglysweaterskin_front.png",
         "hat_type": "skins",
         "asset_name": "sweaterskin"
       },
@@ -2310,7 +2310,7 @@
         "asset_name": "Benoitskin"
       },
       "skin_Box1skin": {
-        "image": "input/skin_Box1skin_front.png",
+        "image": "skin_Box1skin_front.png",
         "hat_type": "skins",
         "asset_name": "Box1skin"
       },
@@ -2330,7 +2330,7 @@
         "asset_name": "BushSign1skin"
       },
       "skin_Horse1skin": {
-        "image": "input/skin_Horse1skin_front.png",
+        "image": "skin_Horse1skin_front.png",
         "hat_type": "skins",
         "asset_name": "Horse1skin"
       },
@@ -2340,52 +2340,52 @@
         "asset_name": "Sack1skin"
       },
       "skin_hl_fubuki": {
-        "image": "input/skin_hl_fubuki_front.png",
+        "image": "skin_hl_fubuki_front.png",
         "hat_type": "skins",
         "asset_name": "FubukiSkinMirroredskin"
       },
       "skin_hl_gura": {
-        "image": "input/skin_hl_gura_front.png",
+        "image": "skin_hl_gura_front.png",
         "hat_type": "skins",
         "asset_name": "GawrGuraSkinMirrorskin"
       },
       "skin_hl_korone": {
-        "image": "input/skin_hl_korone_front.png",
+        "image": "skin_hl_korone_front.png",
         "hat_type": "skins",
         "asset_name": "KoroneSkinMirrorskin"
       },
       "skin_hl_marine": {
-        "image": "input/skin_hl_marine_front.png",
+        "image": "skin_hl_marine_front.png",
         "hat_type": "skins",
         "asset_name": "HoshouMarineSkinskin"
       },
       "skin_hl_mio": {
-        "image": "input/skin_hl_mio_front.png",
+        "image": "skin_hl_mio_front.png",
         "hat_type": "skins",
         "asset_name": "MioSkinskin"
       },
       "skin_hl_moona": {
-        "image": "input/skin_hl_moona_front.png",
+        "image": "skin_hl_moona_front.png",
         "hat_type": "skins",
         "asset_name": "MoonaSkinskin"
       },
       "skin_hl_okayu": {
-        "image": "input/skin_hl_okayu_front.png",
+        "image": "skin_hl_okayu_front.png",
         "hat_type": "skins",
         "asset_name": "OkayuSkinskin"
       },
       "skin_hl_pekora": {
-        "image": "input/skin_hl_pekora_front.png",
+        "image": "skin_hl_pekora_front.png",
         "hat_type": "skins",
         "asset_name": "PekoraSkinskin"
       },
       "skin_hl_risu": {
-        "image": "input/skin_hl_risu_front.png",
+        "image": "skin_hl_risu_front.png",
         "hat_type": "skins",
         "asset_name": "AyundaRisuMirrorSkinskin"
       },
       "skin_hl_watson": {
-        "image": "input/skin_hl_watson_front.png",
+        "image": "skin_hl_watson_front.png",
         "hat_type": "skins",
         "asset_name": "WatsonAmeliaSkinskin"
       },
@@ -2395,52 +2395,52 @@
         "asset_name": "Bananaskin"
       },
       "skin_BlueApronskin": {
-        "image": "input/skin_BlueApronskin_front.png",
+        "image": "skin_BlueApronskin_front.png",
         "hat_type": "skins",
         "asset_name": "BlueApronskin"
       },
       "skin_ApronGreen": {
-        "image": "input/skin_ApronGreen_front.png",
+        "image": "skin_ApronGreen_front.png",
         "hat_type": "skins",
         "asset_name": "FoodCubeFreeSkinApronGreenskin"
       },
       "skin_PinkApronskin": {
-        "image": "input/skin_PinkApronskin_front.png",
+        "image": "skin_PinkApronskin_front.png",
         "hat_type": "skins",
         "asset_name": "PinkApronskin"
       },
       "skin_YellowApronskin": {
-        "image": "input/skin_YellowApronskin_front.png",
+        "image": "skin_YellowApronskin_front.png",
         "hat_type": "skins",
         "asset_name": "YellowApronskin"
       },
       "skin_BlueSuspskin": {
-        "image": "input/skin_BlueSuspskin_front.png",
+        "image": "skin_BlueSuspskin_front.png",
         "hat_type": "skins",
         "asset_name": "BlueSuspskin"
       },
       "skin_OrangeSuspskin": {
-        "image": "input/skin_OrangeSuspskin_front.png",
+        "image": "skin_OrangeSuspskin_front.png",
         "hat_type": "skins",
         "asset_name": "OrangeSuspskin"
       },
       "skin_PinkSuspskin": {
-        "image": "input/skin_PinkSuspskin_front.png",
+        "image": "skin_PinkSuspskin_front.png",
         "hat_type": "skins",
         "asset_name": "PinkSuspskin"
       },
       "skin_YellowSuspskin": {
-        "image": "input/skin_YellowSuspskin_front.png",
+        "image": "skin_YellowSuspskin_front.png",
         "hat_type": "skins",
         "asset_name": "YellowSuspskin"
       },
       "skin_ChefBlackskin": {
-        "image": "input/skin_ChefBlackskin_front.png",
+        "image": "skin_ChefBlackskin_front.png",
         "hat_type": "skins",
         "asset_name": "ChefBlackskin"
       },
       "skin_ChefBlue": {
-        "image": "input/skin_ChefBlue_front.png",
+        "image": "skin_ChefBlue_front.png",
         "hat_type": "skins",
         "asset_name": "FoodCubeFreeSkinChefBlueskin"
       },
@@ -2864,7 +2864,7 @@
         "asset_name": "EmptyVisor"
       },
       "visor_doubleeyepatch": {
-        "image": "input/visor_doubleeyepatch_front.png",
+        "image": "visor_doubleeyepatch_front.png",
         "hat_type": "visors",
         "asset_name": "doubleeyepatchVisor"
       },
@@ -2874,7 +2874,7 @@
         "asset_name": "fishhookVisor"
       },
       "visor_marshmallow": {
-        "image": "input/visor_marshmallow_front.png",
+        "image": "visor_marshmallow_front.png",
         "hat_type": "visors",
         "asset_name": "marshmallowVisor"
       },
@@ -2884,72 +2884,72 @@
         "asset_name": "starfishVisor"
       },
       "visor_sunscreenv": {
-        "image": "input/visor_sunscreenv_front.png",
+        "image": "visor_sunscreenv_front.png",
         "hat_type": "visors",
         "asset_name": "sunscreenvVisor"
       },
       "visor_pusheenGorgeousVisor": {
-        "image": "input/visor_pusheenGorgeousVisor_front.png",
+        "image": "visor_pusheenGorgeousVisor_front.png",
         "hat_type": "visors",
         "asset_name": "pusheenGorgeousVisor"
       },
       "visor_pusheenKissyVisor": {
-        "image": "input/visor_pusheenKissyVisor_front.png",
+        "image": "visor_pusheenKissyVisor_front.png",
         "hat_type": "visors",
         "asset_name": "pusheenKissyVisor"
       },
       "visor_pusheenKoolKatVisor": {
-        "image": "input/visor_pusheenKoolKatVisor_front.png",
+        "image": "visor_pusheenKoolKatVisor_front.png",
         "hat_type": "visors",
         "asset_name": "pusheenKoolKatVisor"
       },
       "visor_pusheenOmNomNomVisor": {
-        "image": "input/visor_pusheenOmNomNomVisor_front.png",
+        "image": "visor_pusheenOmNomNomVisor_front.png",
         "hat_type": "visors",
         "asset_name": "pusheenOmNomNomVisor"
       },
       "visor_pusheenSmileVisor": {
-        "image": "input/visor_pusheenSmileVisor_front.png",
+        "image": "visor_pusheenSmileVisor_front.png",
         "hat_type": "visors",
         "asset_name": "pusheenSmileVisor"
       },
       "visor_pusheenYaaaaaayVisor": {
-        "image": "input/visor_pusheenYaaaaaayVisor_front.png",
+        "image": "visor_pusheenYaaaaaayVisor_front.png",
         "hat_type": "visors",
         "asset_name": "pusheenYaaaaaayVisor"
       },
       "visor_shuttershadesBlue": {
-        "image": "input/visor_shuttershadesBlue_front.png",
+        "image": "visor_shuttershadesBlue_front.png",
         "hat_type": "visors",
         "asset_name": "shuttershadesBlueVisor"
       },
       "visor_shuttershadesLime": {
-        "image": "input/visor_shuttershadesLime_front.png",
+        "image": "visor_shuttershadesLime_front.png",
         "hat_type": "visors",
         "asset_name": "shuttershadesLimeVisor"
       },
       "visor_shuttershadesPink": {
-        "image": "input/visor_shuttershadesPink_front.png",
+        "image": "visor_shuttershadesPink_front.png",
         "hat_type": "visors",
         "asset_name": "shuttershadesPinkVisor"
       },
       "visor_shuttershadesPurple": {
-        "image": "input/visor_shuttershadesPurple_front.png",
+        "image": "visor_shuttershadesPurple_front.png",
         "hat_type": "visors",
         "asset_name": "shuttershadesPurpleVisor"
       },
       "visor_shuttershadesWhite": {
-        "image": "input/visor_shuttershadesWhite_front.png",
+        "image": "visor_shuttershadesWhite_front.png",
         "hat_type": "visors",
         "asset_name": "shuttershadesWhiteVisor"
       },
       "visor_shuttershadesYellow": {
-        "image": "input/visor_shuttershadesYellow_front.png",
+        "image": "visor_shuttershadesYellow_front.png",
         "hat_type": "visors",
         "asset_name": "shuttershadesYellowVisor"
       },
       "visor_chimkin": {
-        "image": "input/visor_chimkin_front.png",
+        "image": "visor_chimkin_front.png",
         "hat_type": "visors",
         "asset_name": "chimkinVisor"
       },
@@ -2959,27 +2959,27 @@
         "asset_name": "eliksniVisor"
       },
       "visor_erisBandage": {
-        "image": "input/visor_erisBandage_front.png",
+        "image": "visor_erisBandage_front.png",
         "hat_type": "visors",
         "asset_name": "erisBandageVisor"
       },
       "visor_savathun": {
-        "image": "input/visor_savathun_front.png",
+        "image": "visor_savathun_front.png",
         "hat_type": "visors",
         "asset_name": "savathunVisor"
       },
       "visor_Candycane": {
-        "image": "input/visor_Candycane_front.png",
+        "image": "visor_Candycane_front.png",
         "hat_type": "visors",
         "asset_name": "Candycane"
       },
       "visor_IceBeard": {
-        "image": "input/visor_IceBeard_front.png",
+        "image": "visor_IceBeard_front.png",
         "hat_type": "visors",
         "asset_name": "IceBeard"
       },
       "visor_Rudolph": {
-        "image": "input/visor_Rudolph_front.png",
+        "image": "visor_Rudolph_front.png",
         "hat_type": "visors",
         "asset_name": "Rudolph"
       },
@@ -2989,7 +2989,7 @@
         "asset_name": "animeVisor"
       },
       "visor_beautyMark": {
-        "image": "input/visor_beautyMark_front.png",
+        "image": "visor_beautyMark_front.png",
         "hat_type": "visors",
         "asset_name": "beautyMarkVisor"
       },
@@ -2999,7 +2999,7 @@
         "asset_name": "PlsnoVisor"
       },
       "visor_Stealthgoggles": {
-        "image": "input/visor_Stealthgoggles_front.png",
+        "image": "visor_Stealthgoggles_front.png",
         "hat_type": "visors",
         "asset_name": "StealthgogglesVisor"
       },
@@ -3009,7 +3009,7 @@
         "asset_name": "tearyVisor"
       },
       "visor_tvColorTest": {
-        "image": "input/visor_tvColorTest_front.png",
+        "image": "visor_tvColorTest_front.png",
         "hat_type": "visors",
         "asset_name": "tvColorTestVisor"
       },
@@ -3029,102 +3029,102 @@
         "asset_name": "visor_vr_Vr-White"
       },
       "visor_hl_ah": {
-        "image": "input/visor_hl_ah_front.png",
+        "image": "visor_hl_ah_front.png",
         "hat_type": "visors",
         "asset_name": "ah"
       },
       "visor_hl_bored": {
-        "image": "input/visor_hl_bored_front.png",
+        "image": "visor_hl_bored_front.png",
         "hat_type": "visors",
         "asset_name": "boredNow"
       },
       "visor_hl_hmph": {
-        "image": "input/visor_hl_hmph_front.png",
+        "image": "visor_hl_hmph_front.png",
         "hat_type": "visors",
         "asset_name": "hmph"
       },
       "visor_hl_marine": {
-        "image": "input/visor_hl_marine_front.png",
+        "image": "visor_hl_marine_front.png",
         "hat_type": "visors",
         "asset_name": "marinesEyepatch"
       },
       "visor_hl_nothoughts": {
-        "image": "input/visor_hl_nothoughts_front.png",
+        "image": "visor_hl_nothoughts_front.png",
         "hat_type": "visors",
         "asset_name": "noThoughts"
       },
       "visor_hl_nudge": {
-        "image": "input/visor_hl_nudge_front.png",
+        "image": "visor_hl_nudge_front.png",
         "hat_type": "visors",
         "asset_name": "nudgeNudge"
       },
       "visor_hl_smug": {
-        "image": "input/visor_hl_smug_front.png",
+        "image": "visor_hl_smug_front.png",
         "hat_type": "visors",
         "asset_name": "smug"
       },
       "visor_hl_sweepy": {
-        "image": "input/visor_hl_sweepy_front.png",
+        "image": "visor_hl_sweepy_front.png",
         "hat_type": "visors",
         "asset_name": "sweepy"
       },
       "visor_hl_teehee": {
-        "image": "input/visor_hl_teehee_front.png",
+        "image": "visor_hl_teehee_front.png",
         "hat_type": "visors",
         "asset_name": "teehee"
       },
       "visor_hl_wrong": {
-        "image": "input/visor_hl_wrong_front.png",
+        "image": "visor_hl_wrong_front.png",
         "hat_type": "visors",
         "asset_name": "whatCouldBeWrong"
       },
       "visor_BaconVisor": {
-        "image": "input/visor_BaconVisor_front.png",
+        "image": "visor_BaconVisor_front.png",
         "hat_type": "visors",
         "asset_name": "BaconVisor"
       },
       "visor_BananaVisor": {
-        "image": "input/visor_BananaVisor_front.png",
+        "image": "visor_BananaVisor_front.png",
         "hat_type": "visors",
         "asset_name": "BananaVisor"
       },
       "visor_BubbleBumVisor": {
-        "image": "input/visor_BubbleBumVisor_front.png",
+        "image": "visor_BubbleBumVisor_front.png",
         "hat_type": "visors",
         "asset_name": "BubbleBumVisor"
       },
       "visor_CucumberVisor": {
-        "image": "input/visor_CucumberVisor_front.png",
+        "image": "visor_CucumberVisor_front.png",
         "hat_type": "visors",
         "asset_name": "CucumberVisor"
       },
       "visor_IceCreamChocolateVisor": {
-        "image": "input/visor_IceCreamChocolateVisor_front.png",
+        "image": "visor_IceCreamChocolateVisor_front.png",
         "hat_type": "visors",
         "asset_name": "IceCreamChocolateVisor"
       },
       "visor_IceCreamMintVisor": {
-        "image": "input/visor_IceCreamMintVisor_front.png",
+        "image": "visor_IceCreamMintVisor_front.png",
         "hat_type": "visors",
         "asset_name": "IceCreamMintVisor"
       },
       "visor_IceCreamStrawberryVisor": {
-        "image": "input/visor_IceCreamStrawberryVisor_front.png",
+        "image": "visor_IceCreamStrawberryVisor_front.png",
         "hat_type": "visors",
         "asset_name": "IceCreamStrawberryVisor"
       },
       "visor_IceCreamUbeVisor": {
-        "image": "input/visor_IceCreamUbeVisor_front.png",
+        "image": "visor_IceCreamUbeVisor_front.png",
         "hat_type": "visors",
         "asset_name": "IceCreamUbeVisor"
       },
       "visor_PizzaVisor": {
-        "image": "input/visor_PizzaVisor_front.png",
+        "image": "visor_PizzaVisor_front.png",
         "hat_type": "visors",
         "asset_name": "PizzaVisor"
       },
       "visor_ToastVisor": {
-        "image": "input/visor_ToastVisor_front.png",
+        "image": "visor_ToastVisor_front.png",
         "hat_type": "visors",
         "asset_name": "ToastVisor"
       },
@@ -3134,7 +3134,7 @@
         "asset_name": "w2021Vis_Carrot"
       },
       "visor_w21_nutstache": {
-        "image": "input/visor_w21_nutstache_front.png",
+        "image": "visor_w21_nutstache_front.png",
         "hat_type": "visors",
         "asset_name": "W2021Vis_Nutstache"
       },
@@ -3419,17 +3419,17 @@
         "asset_name": "vis_LolliBrown"
       },
       "visor_lollipopLemon": {
-        "image": "input/visor_lollipopLemon_front.png",
+        "image": "visor_lollipopLemon_front.png",
         "hat_type": "visors",
         "asset_name": "lollipopLemon"
       },
       "visor_lollipopLime": {
-        "image": "input/visor_lollipopLime_front.png",
+        "image": "visor_lollipopLime_front.png",
         "hat_type": "visors",
         "asset_name": "lollipopLime"
       },
       "visor_lollipopCrew": {
-        "image": "input/visor_lollipopCrew_front.png",
+        "image": "visor_lollipopCrew_front.png",
         "hat_type": "visors",
         "asset_name": "lollipopCrew"
       },
@@ -3454,7 +3454,7 @@
         "asset_name": "pk01_DumStickerVisor"
       },
       "visor_Stickynote_Purple": {
-        "image": "input/visor_Stickynote_Purple_front.png",
+        "image": "visor_Stickynote_Purple_front.png",
         "hat_type": "visors",
         "asset_name": "Stickynote_Purple"
       },
@@ -3469,7 +3469,7 @@
         "asset_name": "Stickynote_Green"
       },
       "visor_Stickynote_Orange": {
-        "image": "input/visor_Stickynote_Orange_front.png",
+        "image": "visor_Stickynote_Orange_front.png",
         "hat_type": "visors",
         "asset_name": "Stickynote_Orange"
       },
