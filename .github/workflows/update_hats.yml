@@ -36,7 +36,7 @@ jobs:
         run: |
           git clone https://github.com/eDonnes124/Town-Of-Us-R
           rm -rf TOWN_OF_US/*
-          mv Town-Of-Us-R/source/Resources/Hats/*.png TOWN_OF_US/
+          mv Town-Of-Us-R/Images/Hats/*.png TOWN_OF_US/
 
 
       # Run updater  that copies the files & updates the json  
