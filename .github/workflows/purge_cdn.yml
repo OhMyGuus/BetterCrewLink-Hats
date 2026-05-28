@@ -1,0 +1,34 @@
+name: Purge jsdelivr CDN cache
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  purge:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Collect changed files
+        run: |
+          BASE="https://purge.jsdelivr.net/gh/OhMyGuus/BetterCrewLink-Hats@master"
+
+          git diff --name-only "${{ github.event.before }}" HEAD \
+            -- 'NONE/*.png' 'hats.json' 'hats_formatted.json' > changed.txt
+
+          sed "s|^|$BASE/|" changed.txt > urls.txt
+          echo "$(wc -l < urls.txt | tr -d ' ') URLs queued for purge"
+          cat urls.txt
+
+      - name: Purge CDN (16 parallel)
+        run: |
+          if [ ! -s urls.txt ]; then
+            echo "Nothing to purge."
+            exit 0
+          fi
+          xargs -a urls.txt -P 16 -I{} \
+            curl -fsS -o /dev/null -w "%{http_code}  {}\n" "{}" \
+            || true
