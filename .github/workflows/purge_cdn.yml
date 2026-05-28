@@ -15,17 +15,9 @@ jobs:
       - name: Collect changed files
         run: |
           BASE="https://purge.jsdelivr.net/gh/OhMyGuus/BetterCrewLink-Hats@master"
-          BEFORE="${{ github.event.before }}"
 
-          if [[ "$BEFORE" == "0000000000000000000000000000000000000000" ]]; then
-            # Initial push — purge everything
-            find NONE -name '*.png' > changed.txt
-            echo "hats.json"           >> changed.txt
-            echo "hats_formatted.json" >> changed.txt
-          else
-            git diff --name-only "$BEFORE" HEAD \
-              -- 'NONE/*.png' 'hats.json' 'hats_formatted.json' > changed.txt
-          fi
+          git diff --name-only "${{ github.event.before }}" HEAD \
+            -- 'NONE/*.png' 'hats.json' 'hats_formatted.json' > changed.txt
 
           sed "s|^|$BASE/|" changed.txt > urls.txt
           echo "$(wc -l < urls.txt | tr -d ' ') URLs queued for purge"
