@@ -1,0 +1,85 @@
+name: Update vanilla hats
+
+on:
+  schedule:
+    - cron: '0 */12 * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check Among Us version
+        id: version
+        run: |
+          BUILD=$(curl -fsSL "https://api.steampowered.com/ISteamApps/UpToDateCheck/v1/?appid=945360&version=0" \
+            | jq -r '.response.required_version')
+          echo "build=$BUILD" >> "$GITHUB_OUTPUT"
+
+          LAST=$(cat .steamversion 2>/dev/null || echo "0")
+          if [ "$BUILD" = "$LAST" ]; then
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+            echo "Among Us is up to date (build $BUILD), nothing to do."
+          else
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+            echo "New build detected: $BUILD (last: $LAST)"
+          fi
+
+      - name: Download DepotDownloader
+        if: steps.version.outputs.skip == 'false'
+        run: |
+          curl -fsSL https://github.com/SteamRE/DepotDownloader/releases/latest/download/DepotDownloader-linux-x64.zip \
+            -o /tmp/dd.zip
+          unzip -q /tmp/dd.zip -d /tmp/dd
+          chmod +x /tmp/dd/DepotDownloader
+
+      - name: Download Among Us assets
+        if: steps.version.outputs.skip == 'false'
+        env:
+          STEAM_USER: ${{ secrets.STEAM_USERNAME }}
+          STEAM_PASS: ${{ secrets.STEAM_PASSWORD }}
+        run: |
+          /tmp/dd/DepotDownloader \
+            -app 945360 -depot 945361 \
+            -username "$STEAM_USER" \
+            -password "$STEAM_PASS" \
+            -dir /tmp/among-us \
+            -filelist .github/depotdownloader-filelist.txt
+
+      - name: Download hat-exporter
+        if: steps.version.outputs.skip == 'false'
+        run: |
+          curl -fsSL https://github.com/OhMyGuus/BetterCrewlink-HatTools/releases/latest/download/hat-exporter-linux-x64 \
+            -o /tmp/hat-exporter
+          chmod +x /tmp/hat-exporter
+
+      - name: Run hat-exporter
+        if: steps.version.outputs.skip == 'false'
+        run: |
+          /tmp/hat-exporter \
+            --bundle-dir "/tmp/among-us/Among Us_Data/StreamingAssets/aa/Steam/StandaloneWindows" \
+            --output-dir .
+
+      - name: Update version file
+        if: steps.version.outputs.skip == 'false'
+        run: echo "${{ steps.version.outputs.build }}" > .steamversion
+
+      - name: Create pull request
+        if: steps.version.outputs.skip == 'false'
+        uses: peter-evans/create-pull-request@v6
+        with:
+          title: "Update vanilla hats for Among Us build ${{ steps.version.outputs.build }}"
+          branch: "update-hats-${{ steps.version.outputs.build }}"
+          commit-message: "Update NONE hats for Among Us build ${{ steps.version.outputs.build }}"
+          body: |
+            Automated update triggered by Among Us build `${{ steps.version.outputs.build }}`.
+
+            Re-exported all NONE hat sprites and JSON using [hat-exporter](https://github.com/OhMyGuus/BetterCrewlink-HatTools).
+          labels: automated
+          delete-branch: true

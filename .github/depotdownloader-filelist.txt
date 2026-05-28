@@ -1,0 +1,2 @@
+regex:Among Us_Data/StreamingAssets/aa/catalog\.json
+regex:Among Us_Data/StreamingAssets/aa/Steam/StandaloneWindows/.*\.bundle
