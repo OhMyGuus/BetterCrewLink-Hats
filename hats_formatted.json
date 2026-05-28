@@ -4745,8 +4745,8 @@
       },
       "hat_captain": {
         "hat_type": "hats",
-        "asset_name": "pk01_Captain's Hat",
-        "image": "pk01_Captain's Hat.png"
+        "asset_name": "pk01_Captain\u0027s Hat",
+        "image": "pk01_Captain\u0027s Hat.png"
       },
       "skin_hl_pekora": {
         "hat_type": "skins",
@@ -5032,7 +5032,7 @@
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Angel_+_Wings": {
+      "hat_Angel_\u002B_Wings": {
         "image": "AngelN_bounce.png",
         "back_image": "AngelN_back.png",
         "multi_color": false,
@@ -5540,7 +5540,7 @@
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Sun&Moon": {
+      "hat_Sun\u0026Moon": {
         "image": "SunMoon_adaptive_bounce.png",
         "multi_color": true,
         "hat_type": "hats"
@@ -6577,8 +6577,8 @@
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Mall\u00f6ris": {
-        "image": "Mall\u00f6ris.png",
+      "hat_Mall\u00F6ris": {
+        "image": "Mall\u00F6ris.png",
         "multi_color": false,
         "hat_type": "hats"
       },
