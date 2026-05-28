@@ -1,0 +1,1 @@
+regex:Among Us_Data/StreamingAssets/aa/catalog\.json
