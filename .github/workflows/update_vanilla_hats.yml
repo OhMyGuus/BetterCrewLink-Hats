@@ -78,17 +78,20 @@ jobs:
 
       - name: Update version file
         if: steps.version.outputs.skip == 'false'
-        run: echo "${{ steps.version.outputs.hash }}" > .steamversion
+        run: |
+          echo "${{ steps.version.outputs.hash }}" > .steamversion
+          echo "date=$(date +%Y-%m-%d)" >> "$GITHUB_OUTPUT"
+        id: meta
 
       - name: Create pull request
         if: steps.version.outputs.skip == 'false'
         uses: peter-evans/create-pull-request@v6
         with:
-          title: "Update vanilla hats (catalog ${{ steps.version.outputs.hash && steps.version.outputs.hash || '' }})"
-          branch: "update-hats-${{ steps.version.outputs.hash }}"
-          commit-message: "Update NONE hats — catalog ${{ steps.version.outputs.hash }}"
+          title: "Updated hats"
+          branch: "update-hats-${{ steps.meta.outputs.date }}"
+          commit-message: "Updated hats"
           body: |
-            Automated update: `catalog.json` hash changed to `${{ steps.version.outputs.hash }}`.
+            Automated update: Among Us shipped new cosmetics.
 
             Re-exported all NONE hat sprites and JSON using [hat-exporter](https://github.com/OhMyGuus/BetterCrewlink-HatTools).
           labels: automated
