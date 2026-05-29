@@ -4744,9 +4744,9 @@
         "asset_name": "soupspoonHat"
       },
       "hat_captain": {
-        "image": "pk01_Captain's Hat.png",
+        "image": "pk01_Captain\u0027s Hat.png",
         "hat_type": "hats",
-        "asset_name": "pk01_Captain's Hat"
+        "asset_name": "pk01_Captain\u0027s Hat"
       },
       "skin_hl_pekora": {
         "image": "PekoraSkinskin.png",
@@ -5032,7 +5032,7 @@
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Angel_+_Wings": {
+      "hat_Angel_\u002B_Wings": {
         "image": "AngelN_bounce.png",
         "back_image": "AngelN_back.png",
         "multi_color": false,
@@ -5540,7 +5540,7 @@
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Sun&Moon": {
+      "hat_Sun\u0026Moon": {
         "image": "SunMoon_adaptive_bounce.png",
         "multi_color": true,
         "hat_type": "hats"
@@ -6577,8 +6577,8 @@
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Mallöris": {
-        "image": "Mallöris.png",
+      "hat_Mall\u00F6ris": {
+        "image": "Mall\u00F6ris.png",
         "multi_color": false,
         "hat_type": "hats"
       },
@@ -6865,8 +6865,8 @@
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_püppi": {
-        "image": "püppi.png",
+      "hat_p\u00FCppi": {
+        "image": "p\u00FCppi.png",
         "multi_color": false,
         "hat_type": "hats"
       },
