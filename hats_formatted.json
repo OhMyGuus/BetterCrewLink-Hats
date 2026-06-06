@@ -433,6 +433,11 @@
         "hat_type": "hats",
         "asset_name": "hat_mira_flower_red"
       },
+      "skin_cosmic_rocket": {
+        "image": "RocketSkinskin.png",
+        "hat_type": "skins",
+        "asset_name": "RocketSkinskin"
+      },
       "hat_baseball_Orange": {
         "image": "baseball_Orange.png",
         "hat_type": "hats",
@@ -486,6 +491,11 @@
         "back_image": "2023_Fungle_hat_anchor0004.png",
         "hat_type": "hats",
         "asset_name": "anchorHat"
+      },
+      "skin_parasite_Green": {
+        "image": "ProjectParasiteGreenskin.png",
+        "hat_type": "skins",
+        "asset_name": "ProjectParasiteGreenskin"
       },
       "hat_badeline": {
         "image": "badelineHat.png",
@@ -549,6 +559,11 @@
         "image": "shuttershadesYellowVisor.png",
         "hat_type": "visors",
         "asset_name": "shuttershadesYellowVisor"
+      },
+      "visor_cosmic_nebula": {
+        "image": "nebulaVisor.png",
+        "hat_type": "visors",
+        "asset_name": "nebulaVisor"
       },
       "visor_paws_bone": {
         "image": "holdingBoneVisor.png",
@@ -623,6 +638,11 @@
         "hat_type": "hats",
         "asset_name": "Beanie_Purple"
       },
+      "hat_cosmic_satellite": {
+        "image": "satelliteHat.png",
+        "hat_type": "hats",
+        "asset_name": "satelliteHat"
+      },
       "hat_astronaut": {
         "image": "pk01_Astronaut.png",
         "hat_type": "hats",
@@ -632,6 +652,11 @@
         "image": "pk01_Hard Hat.png",
         "hat_type": "hats",
         "asset_name": "pk01_Hard Hat"
+      },
+      "hat_cosmic_cosmonaut": {
+        "image": "cosmonautHat.png",
+        "hat_type": "hats",
+        "asset_name": "cosmonautHat"
       },
       "hat_racing_bald": {
         "image": "baldHat.png",
@@ -652,6 +677,11 @@
         "image": "Hazmat-Blackskin.png",
         "hat_type": "skins",
         "asset_name": "Hazmat-Blackskin"
+      },
+      "hat_parasite_Cyan": {
+        "image": "cyanHat.png",
+        "hat_type": "hats",
+        "asset_name": "cyanHat"
       },
       "hat_pk01_BaseballCap": {
         "image": "pk01_Baseball Cap.png",
@@ -747,6 +777,11 @@
         "image": "BaconVisor.png",
         "hat_type": "visors",
         "asset_name": "BaconVisor"
+      },
+      "hat_parasite_Red": {
+        "image": "redHat.png",
+        "hat_type": "hats",
+        "asset_name": "redHat"
       },
       "hat_baseball_Yellow": {
         "image": "baseball_Yellow.png",
@@ -852,6 +887,11 @@
         "back_image": "2024_paws_beans_hat_spaceDogEars0004.png",
         "hat_type": "hats",
         "asset_name": "spaceDogEarsHat"
+      },
+      "hat_cosmic_hood": {
+        "image": "alienHoodHat.png",
+        "hat_type": "hats",
+        "asset_name": "alienHoodHat"
       },
       "hat_fishingHat": {
         "image": "fishingHatHat.png",
@@ -1149,6 +1189,12 @@
         "hat_type": "hats",
         "asset_name": "hat_SnowbeanieRed"
       },
+      "hat_parasite_Green": {
+        "image": "greenHat.png",
+        "back_image": "2024_parasite_beans_hat_green0004.png",
+        "hat_type": "hats",
+        "asset_name": "greenHat"
+      },
       "skin_SweaterBlueskin": {
         "image": "SweaterBlueskin.png",
         "hat_type": "skins",
@@ -1338,6 +1384,12 @@
         "hat_type": "hats",
         "asset_name": "hat_lights_White"
       },
+      "hat_parasite_Lime": {
+        "image": "limeHat.png",
+        "back_image": "2024_parasite_beans_hat_lime0004.png",
+        "hat_type": "hats",
+        "asset_name": "limeHat"
+      },
       "hat_kamurocho_pirate": {
         "image": "majimaPirateHat.png",
         "hat_type": "hats",
@@ -1431,6 +1483,11 @@
         "image": "Doc_black.png",
         "hat_type": "hats",
         "asset_name": "Doc_black"
+      },
+      "hat_cosmic_meteor": {
+        "image": "meteorHat.png",
+        "hat_type": "hats",
+        "asset_name": "meteorHat"
       },
       "hat_doubletophat": {
         "back_image": "pk01_Double Top Hat.png",
@@ -1661,6 +1718,11 @@
         "hat_type": "skins",
         "asset_name": "MoonaSkinskin"
       },
+      "visor_cosmic_threeEyes": {
+        "image": "threeEyesVisor.png",
+        "hat_type": "visors",
+        "asset_name": "threeEyesVisor"
+      },
       "skin_halospartan": {
         "image": "HaloSpartanskin.png",
         "multi_color": true,
@@ -1703,6 +1765,11 @@
         "image": "vis_mira_mask_green.png",
         "hat_type": "visors",
         "asset_name": "vis_mira_mask_green"
+      },
+      "skin_parasite_Black": {
+        "image": "ProjectParasiteBlackskin.png",
+        "hat_type": "skins",
+        "asset_name": "ProjectParasiteBlackskin"
       },
       "visor_pk01_PlagueVisor": {
         "image": "pk01_PlagueVisor.png",
@@ -1856,6 +1923,17 @@
         "hat_type": "hats",
         "asset_name": "glowstickPinkHat"
       },
+      "skin_parasite_Purple": {
+        "image": "ProjectParasitePurpleskin.png",
+        "hat_type": "skins",
+        "asset_name": "ProjectParasitePurpleskin"
+      },
+      "hat_parasite_Purple": {
+        "image": "purpleHat.png",
+        "back_image": "2024_parasite_beans_hat_purple0004.png",
+        "hat_type": "hats",
+        "asset_name": "purpleHat"
+      },
       "hat_w21_snowman_greenred": {
         "image": "hat_snowman-Greenred.png",
         "hat_type": "hats",
@@ -1999,6 +2077,11 @@
         "hat_type": "hats",
         "asset_name": "crownTallHat"
       },
+      "hat_cosmic_alienAntenna": {
+        "image": "alienAntennaHat.png",
+        "hat_type": "hats",
+        "asset_name": "alienAntennaHat"
+      },
       "skin_hl_marine": {
         "image": "HoshouMarineSkinskin.png",
         "hat_type": "skins",
@@ -2086,6 +2169,11 @@
         "hat_type": "hats",
         "asset_name": "bearyColdHat"
       },
+      "hat_cosmic_sun": {
+        "image": "sunHat.png",
+        "hat_type": "hats",
+        "asset_name": "sunHat"
+      },
       "skin_SweaterYellowskin": {
         "image": "SweaterYellowskin.png",
         "hat_type": "skins",
@@ -2137,10 +2225,25 @@
         "hat_type": "visors",
         "asset_name": "starfishVisor"
       },
+      "hat_cosmic_rings": {
+        "image": "planetRingsHat.png",
+        "hat_type": "hats",
+        "asset_name": "planetRingsHat"
+      },
       "hat_hl_fubuki": {
         "image": "shirakamiFubuki.png",
         "hat_type": "hats",
         "asset_name": "shirakamiFubuki"
+      },
+      "skin_parasite_Brown": {
+        "image": "ProjectParasiteBrownskin.png",
+        "hat_type": "skins",
+        "asset_name": "ProjectParasiteBrownskin"
+      },
+      "skin_parasite_Red": {
+        "image": "ProjectParasiteRedskin.png",
+        "hat_type": "skins",
+        "asset_name": "ProjectParasiteRedskin"
       },
       "skin_prisoner": {
         "image": "prisoner.png",
@@ -2420,6 +2523,11 @@
         "hat_type": "hats",
         "asset_name": "hat_cat-Snow"
       },
+      "skin_parasite_White": {
+        "image": "ProjectParasiteWhiteskin.png",
+        "hat_type": "skins",
+        "asset_name": "ProjectParasiteWhiteskin"
+      },
       "hat_starBalloon": {
         "image": "starBalloonHat.png",
         "multi_color": true,
@@ -2437,6 +2545,11 @@
         "hat_type": "hats",
         "asset_name": "hat_EarnmuffBlue"
       },
+      "hat_cosmic_star": {
+        "image": "starHat.png",
+        "hat_type": "hats",
+        "asset_name": "starHat"
+      },
       "hat_bat_green": {
         "image": "hat_bat-Green.png",
         "back_image": "hat_HW2021_Bats-Green0004.png",
@@ -2447,6 +2560,11 @@
         "image": "clownskin.png",
         "hat_type": "skins",
         "asset_name": "clownskin"
+      },
+      "visor_cosmic_infinity": {
+        "image": "infinityVisor.png",
+        "hat_type": "visors",
+        "asset_name": "infinityVisor"
       },
       "hat_bell": {
         "image": "bellHat.png",
@@ -2509,6 +2627,11 @@
         "image": "vis_SmallGlasses Blue.png",
         "hat_type": "visors",
         "asset_name": "vis_SmallGlasses Blue"
+      },
+      "hat_parasite_Blue": {
+        "image": "blueHat.png",
+        "hat_type": "hats",
+        "asset_name": "blueHat"
       },
       "hat_claws_moose": {
         "image": "mooseAntlersHat.png",
@@ -2755,6 +2878,11 @@
         "hat_type": "hats",
         "asset_name": "PizzaSliceHat"
       },
+      "visor_cosmic_alien": {
+        "image": "alienEyesVisor.png",
+        "hat_type": "visors",
+        "asset_name": "alienEyesVisor"
+      },
       "hat_Dodgeball": {
         "image": "hat_Dodgeball.png",
         "hat_type": "hats",
@@ -2864,6 +2992,11 @@
         "hat_type": "visors",
         "asset_name": "pk01_GeoffVisor"
       },
+      "hat_bday_guard": {
+        "image": "guardHat.png",
+        "hat_type": "hats",
+        "asset_name": "guardHat"
+      },
       "skin_claws_squid": {
         "image": "Squidskin.png",
         "hat_type": "skins",
@@ -2934,6 +3067,11 @@
         "hat_type": "hats",
         "asset_name": "mushroomBeretHat"
       },
+      "skin_parasite_Blue": {
+        "image": "ProjectParasiteBlueskin.png",
+        "hat_type": "skins",
+        "asset_name": "ProjectParasiteBlueskin"
+      },
       "visor_mushroomeyesVisor": {
         "image": "mushroomeyesVisor.png",
         "hat_type": "visors",
@@ -2967,6 +3105,11 @@
         "image": "Heimerdingerskin.png",
         "hat_type": "skins",
         "asset_name": "Heimerdingerskin"
+      },
+      "visor_cosmic_sunglasses": {
+        "image": "sunglassesVisor.png",
+        "hat_type": "visors",
+        "asset_name": "sunglassesVisor"
       },
       "visor_SkiGogglesWhite": {
         "image": "vis_SkiGogglesWhite.png",
@@ -3035,6 +3178,11 @@
         "hat_type": "hats",
         "asset_name": "hat_snowman-Evil"
       },
+      "hat_cosmic_lure": {
+        "image": "alienLureHat.png",
+        "hat_type": "hats",
+        "asset_name": "alienLureHat"
+      },
       "hat_pk05_FlowerPin": {
         "image": "pk05_FlowerPin.png",
         "hat_type": "hats",
@@ -3070,6 +3218,11 @@
         "image": "marshmallowVisor.png",
         "hat_type": "visors",
         "asset_name": "marshmallowVisor"
+      },
+      "skin_parasite_Cyan": {
+        "image": "ProjectParasiteCyanskin.png",
+        "hat_type": "skins",
+        "asset_name": "ProjectParasiteCyanskin"
       },
       "hat_shopkeeper": {
         "image": "shopkeeperHat.png",
@@ -3485,6 +3638,11 @@
         "hat_type": "visors",
         "asset_name": "vis_Scar"
       },
+      "hat_cosmic_rocket": {
+        "image": "rocketHat.png",
+        "hat_type": "hats",
+        "asset_name": "rocketHat"
+      },
       "visor_eyeball": {
         "image": "vis_eyeball.png",
         "hat_type": "visors",
@@ -3526,6 +3684,12 @@
         "hat_type": "skins",
         "asset_name": "MilitarySnowskin"
       },
+      "visor_parasite_Lime": {
+        "image": "limeVisor.png",
+        "multi_color": true,
+        "hat_type": "visors",
+        "asset_name": "limeVisor"
+      },
       "skin_OrangeSuspskin": {
         "image": "OrangeSuspskin.png",
         "hat_type": "skins",
@@ -3554,6 +3718,11 @@
       "hat_NoHat": {
         "hat_type": "hats",
         "asset_name": "NoHat"
+      },
+      "visor_parasite_Black": {
+        "image": "blackVisor.png",
+        "hat_type": "visors",
+        "asset_name": "blackVisor"
       },
       "skin_Genshin_Skin_Paimon": {
         "image": "Genshin_Skin_Paimonskin.png",
@@ -3761,6 +3930,11 @@
         "hat_type": "hats",
         "asset_name": "pusheenMintHat"
       },
+      "visor_cosmic_stars": {
+        "image": "starStickersVisor.png",
+        "hat_type": "visors",
+        "asset_name": "starStickersVisor"
+      },
       "visor_masque_green": {
         "image": "vis_masque-Green.png",
         "hat_type": "visors",
@@ -3890,6 +4064,11 @@
         "image": "raccoonVisor.png",
         "hat_type": "visors",
         "asset_name": "raccoonVisor"
+      },
+      "hat_cosmic_moon": {
+        "image": "moonHat.png",
+        "hat_type": "hats",
+        "asset_name": "moonHat"
       },
       "hat_mira_cloud": {
         "back_image": "hat_mira_cloud.png",
@@ -4122,6 +4301,11 @@
         "hat_type": "hats",
         "asset_name": "hat_Lights-Yellow"
       },
+      "skin_parasite_Orange": {
+        "image": "ProjectParasiteOrangeskin.png",
+        "hat_type": "skins",
+        "asset_name": "ProjectParasiteOrangeskin"
+      },
       "hat_sausage": {
         "image": "sausage.png",
         "multi_color": true,
@@ -4142,6 +4326,11 @@
         "back_image": "pk06_Lights.png",
         "hat_type": "hats",
         "asset_name": "pk06_Lights"
+      },
+      "hat_cosmic_crash": {
+        "image": "rocketCrashHat.png",
+        "hat_type": "hats",
+        "asset_name": "rocketCrashHat"
       },
       "skin_Fearne": {
         "image": "Fearneskin.png",
@@ -4275,6 +4464,11 @@
         "hat_type": "hats",
         "asset_name": "hat_santa-Green"
       },
+      "hat_cosmic_telescope": {
+        "image": "telescopeHat.png",
+        "hat_type": "hats",
+        "asset_name": "telescopeHat"
+      },
       "hat_duck": {
         "image": "duckHat.png",
         "hat_type": "hats",
@@ -4299,6 +4493,11 @@
         "image": "thatFaceVisor.png",
         "hat_type": "visors",
         "asset_name": "thatFaceVisor"
+      },
+      "skin_parasite_Yellow": {
+        "image": "ProjectParasiteYellowskin.png",
+        "hat_type": "skins",
+        "asset_name": "ProjectParasiteYellowskin"
       },
       "skin_claws_foxOrange": {
         "image": "foxOrangeskin.png",
@@ -4697,6 +4896,11 @@
         "hat_type": "hats",
         "asset_name": "pk02_PipCap"
       },
+      "hat_cosmic_starAntenna": {
+        "image": "starAntennaHat.png",
+        "hat_type": "hats",
+        "asset_name": "starAntennaHat"
+      },
       "visor_vr_Vr-White": {
         "image": "visor_vr_Vr-White.png",
         "hat_type": "visors",
@@ -4733,10 +4937,20 @@
         "hat_type": "hats",
         "asset_name": "sprinkleHat"
       },
+      "skin_parasite_Lime": {
+        "image": "ProjectParasiteLimeskin.png",
+        "hat_type": "skins",
+        "asset_name": "ProjectParasiteLimeskin"
+      },
       "skin_CCC": {
         "image": "CCC.png",
         "hat_type": "skins",
         "asset_name": "CCC"
+      },
+      "hat_parasite_Cook": {
+        "image": "cookHat.png",
+        "hat_type": "hats",
+        "asset_name": "cookHat"
       },
       "hat_lny_soupSpoon": {
         "image": "soupspoonHat.png",
@@ -4744,9 +4958,9 @@
         "asset_name": "soupspoonHat"
       },
       "hat_captain": {
-        "image": "pk01_Captain's Hat.png",
+        "image": "pk01_Captain\u0027s Hat.png",
         "hat_type": "hats",
-        "asset_name": "pk01_Captain's Hat"
+        "asset_name": "pk01_Captain\u0027s Hat"
       },
       "skin_hl_pekora": {
         "image": "PekoraSkinskin.png",
@@ -5032,7 +5246,7 @@
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Angel_+_Wings": {
+      "hat_Angel_\u002B_Wings": {
         "image": "AngelN_bounce.png",
         "back_image": "AngelN_back.png",
         "multi_color": false,
@@ -5540,7 +5754,7 @@
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Sun&Moon": {
+      "hat_Sun\u0026Moon": {
         "image": "SunMoon_adaptive_bounce.png",
         "multi_color": true,
         "hat_type": "hats"
@@ -6577,8 +6791,8 @@
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Mallöris": {
-        "image": "Mallöris.png",
+      "hat_Mall\u00F6ris": {
+        "image": "Mall\u00F6ris.png",
         "multi_color": false,
         "hat_type": "hats"
       },
@@ -6865,8 +7079,8 @@
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_püppi": {
-        "image": "püppi.png",
+      "hat_p\u00FCppi": {
+        "image": "p\u00FCppi.png",
         "multi_color": false,
         "hat_type": "hats"
       },
