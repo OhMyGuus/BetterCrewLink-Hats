@@ -7153,6 +7153,26 @@
         "image": "mymil_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
+      },
+      "hat_fuchsi": {
+        "image": "fuchsi_adaptive.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_kller": {
+        "image": "kller.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_nirvian": {
+        "image": "nirvian_adaptive.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_stuggi": {
+        "image": "stuggi.png",
+        "multi_color": false,
+        "hat_type": "hats"
       }
     }
   },
