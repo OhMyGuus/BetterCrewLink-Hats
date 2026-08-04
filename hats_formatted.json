@@ -7173,6 +7173,21 @@
         "image": "stuggi.png",
         "multi_color": false,
         "hat_type": "hats"
+      },
+      "hat_ladyvlesk": {
+        "image": "ladyvlesk.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_nelichan": {
+        "image": "nelichan.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_tersti": {
+        "image": "tersti.png",
+        "multi_color": false,
+        "hat_type": "hats"
       }
     }
   },
